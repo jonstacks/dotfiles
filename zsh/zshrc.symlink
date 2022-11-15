@@ -40,6 +40,8 @@ done
 
 unset config_files
 
+source $(brew --prefix)/share/antigen/antigen.zsh
+
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
 
