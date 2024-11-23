@@ -137,6 +137,12 @@ install_dotfiles () {
     dst="$HOME/.$(basename "${src%.*}")"
     link_file "$src" "$dst"
   done
+
+  # Codespaces clones the dotfiles to a persistent pre-run folder.
+  # Create a link for ~/.dotfiles -> $DOTFILES_ROOT
+  if [ "$CODESPACES" == "true" ]; then
+    link_file "$DOTFILES_ROOT" "$HOME/.dotfiles"
+  fi
 }
 
 # setup_gitconfig
