@@ -40,8 +40,6 @@ done
 
 unset config_files
 
-source $(brew --prefix)/share/antigen/antigen.zsh
-
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
 
@@ -58,10 +56,7 @@ antigen bundle command-not-found
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Load the theme.
-antigen theme robbyrussell
+antigen theme romkatv/powerlevel10k
 
 # Tell antigen that you're done.
 antigen apply
-
-# To fix an issue with the arrow in the promt
-ret_status="%(?:%{$fg_bold[green]%}➜ :%{$fg_bold[red]%}➜ )"
