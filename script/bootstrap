@@ -64,14 +64,11 @@ link_file () {
 
       local currentSrc="$(readlink $dst)"
 
-      if [ "$currentSrc" == "$src" ]
-      then
-
+      if [ "$currentSrc" == "$src" ]; then
         skip=true;
 
       # In codespaces, we'll just overwrite any existing dotfiles
-      elif [ "$CODESPACES" == "true" ]
-
+      elif [ "$CODESPACES" == "true" ]; then
         overwrite_all=true;
 
       else
