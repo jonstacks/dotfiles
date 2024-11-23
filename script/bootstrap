@@ -69,6 +69,11 @@ link_file () {
 
         skip=true;
 
+      # In codespaces, we'll just overwrite any existing dotfiles
+      elif [ "$CODESPACES" == "true" ]
+
+        overwrite_all=true;
+
       else
 
         user "File already exists: $dst ($(basename "$src")), what do you want to do?\n\
