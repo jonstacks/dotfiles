@@ -10,3 +10,6 @@ atom.symlink/themes
 git/gitconfig.local.symlink
 
 Brewfile.lock.json
+
+# Cached completions
+cache
