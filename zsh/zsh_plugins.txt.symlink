@@ -12,6 +12,10 @@ ohmyzsh/ohmyzsh path:plugins/kubectl
 ohmyzsh/ohmyzsh path:plugins/pip
 ohmyzsh/ohmyzsh path:plugins/ssh
 
+# Custom plugins
+jonstacks/ohmyzsh path:plugins/talosctl
+jonstacks/ohmyzsh path:plugins/ngrok
+
 # Powerlevel10k theme
 romkatv/powerlevel10k
 
