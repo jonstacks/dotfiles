@@ -2,7 +2,6 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
 
-brew 'antigen'
 brew 'aria2'
 brew 'awscli'
 brew 'colima'
