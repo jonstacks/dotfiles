@@ -49,5 +49,13 @@ fi
 source ${ZDOTDIR:-$HOME}/.antidote/antidote.zsh
 antidote load
 
+function prompt_flox_envs() {
+  if [[ -v FLOX_PROMPT_ENVIRONMENTS ]]; then
+    p10k segment -s WARM -f yellow -t "FLOX_ENVS=[${FLOX_PROMPT_ENVIRONMENTS}]"
+  fi
+}
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ${ZDOTDIR:-$HOME}/.p10k.zsh ]] || source ${ZDOTDIR:-$HOME}/.p10k.zsh
+
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS+=(flox_envs)
