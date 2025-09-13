@@ -26,6 +26,7 @@ kubectl.pkg-path = "kubectl"
 kind.pkg-path = "kind"
 ngrok.pkg-path = "ngrok"
 direnv.pkg-path = "direnv"
+tree.pkg-path = "tree"
 # gum.pkg-path = "gum"
 # gum.version = "^0.14.5"
 
