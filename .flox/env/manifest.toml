@@ -27,6 +27,7 @@ kind.pkg-path = "kind"
 ngrok.pkg-path = "ngrok"
 direnv.pkg-path = "direnv"
 tree.pkg-path = "tree"
+heroku.pkg-path = "heroku"
 # gum.pkg-path = "gum"
 # gum.version = "^0.14.5"
 
