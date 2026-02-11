@@ -19,9 +19,6 @@ ohmyzsh/ohmyzsh path:plugins/ssh
 # Custom plugins
 jonstacks/ohmyzsh path:plugins/talosctl
 
-# Powerlevel10k theme
-romkatv/powerlevel10k
-
 zsh-users/zsh-syntax-highlighting
 zsh-users/zsh-autosuggestions
 zsh-users/zsh-history-substring-search
