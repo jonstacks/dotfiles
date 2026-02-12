@@ -2,29 +2,33 @@ shell = "zsh"
 
 [plugins]
 
-[plugins.ohmyzsh]
-github = "ohmyzsh/ohmyzsh"
+[plugins.oh-my-zsh]
+github = 'ohmyzsh/ohmyzsh'
+
+[plugins.oh-my-zsh-plugins]
+github = 'ohmyzsh/ohmyzsh'
+dir = 'plugins'
 use = [
-  "lib",
-  "plugins/aliases",
-  "plugins/argocd",
-  "plugins/command-not-found",
-  "plugins/direnv",
-  "plugins/docker",
-  "plugins/git",
-  "plugins/golang",
-  "plugins/helm",
-  "plugins/heroku",
-  "plugins/history",
-  "plugins/kubectl",
-  "plugins/ngrok",
-  "plugins/pip",
-  "plugins/ssh",
+  "{aliases}/*.plugin.zsh",
+  "{argocd}/*.plugin.zsh",
+  "{command-not-found}/*.plugin.zsh",
+  "{direnv}/*.plugin.zsh",
+  "{docker}/*.plugin.zsh",
+  "{git}/*.plugin.zsh",
+  "{golang}/*.plugin.zsh",
+  "{helm}/*.plugin.zsh",
+  "{heroku}/*.plugin.zsh",
+  "{history}/*.plugin.zsh",
+  "{kubectl}/*.plugin.zsh",
+  "{ngrok}/*.plugin.zsh",
+  "{pip}/*.plugin.zsh",
+  "{ssh}/*.plugin.zsh",
 ]
+apply = ["source","fpath"]
 
 [plugins.talosctl]
 github = "jonstacks/ohmyzsh"
-use = ["plugins/talosctl"]
+dir = "plugins/talosctl"
 
 [plugins.zsh_autosuggestions]
 github = "zsh-users/zsh-autosuggestions"

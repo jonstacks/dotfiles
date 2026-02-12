@@ -47,7 +47,8 @@ else
 fi
 
 if command -v sheldon >/dev/null 2>&1; then
-  export SHELDON_CONFIG_FILE="$ZSH/zsh/sheldon/plugins.toml"
+  export ZSH="$HOME/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh"
+  export SHELDON_CONFIG_FILE="$HOME/.dotfiles/zsh/sheldon/plugins.toml"
   eval "$(sheldon source)"
 else
   echo "[Warning] Sheldon is not installed. Zsh plugins will not be loaded."
