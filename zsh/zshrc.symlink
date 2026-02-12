@@ -40,17 +40,23 @@ done
 
 unset config_files
 
-# Clone antidote if necessary.
-if [[ ! -d ${ZDOTDIR:-$HOME}/.antidote ]]; then
-  git clone https://github.com/mattmc3/antidote ${ZDOTDIR:-$HOME}/.antidote
+if command -v flox >/dev/null 2>&1; then
+  eval "$(flox activate -d "$ZSH" -m run)"
+else
+  echo "[Warning] Flox is not installed. Packages from default environment will not be available."
 fi
 
-# Create an amazing Zsh config using antidote plugins.
-source ${ZDOTDIR:-$HOME}/.antidote/antidote.zsh
-antidote load
-
-eval "$(flox activate -d ~ -m run)"
+if command -v sheldon >/dev/null 2>&1; then
+  export SHELDON_CONFIG_FILE="$ZSH/zsh/sheldon/plugins.toml"
+  eval "$(sheldon source)"
+else
+  echo "[Warning] Sheldon is not installed. Zsh plugins will not be loaded."
+fi
 
 # Initialize starship prompt
-export STARSHIP_CONFIG=~/.starship.toml
-eval "$(starship init zsh)"
+if command -v starship >/dev/null 2>&1; then
+  export STARSHIP_CONFIG=~/.starship.toml
+  eval "$(starship init zsh)"
+else
+  echo "[Warning] Starship is not installed. Prompt will not be displayed."
+fi

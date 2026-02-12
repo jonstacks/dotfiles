@@ -1,0 +1,36 @@
+shell = "zsh"
+
+[plugins]
+
+[plugins.ohmyzsh]
+github = "ohmyzsh/ohmyzsh"
+use = [
+  "lib",
+  "plugins/aliases",
+  "plugins/argocd",
+  "plugins/command-not-found",
+  "plugins/direnv",
+  "plugins/docker",
+  "plugins/git",
+  "plugins/golang",
+  "plugins/helm",
+  "plugins/heroku",
+  "plugins/history",
+  "plugins/kubectl",
+  "plugins/ngrok",
+  "plugins/pip",
+  "plugins/ssh",
+]
+
+[plugins.talosctl]
+github = "jonstacks/ohmyzsh"
+use = ["plugins/talosctl"]
+
+[plugins.zsh_autosuggestions]
+github = "zsh-users/zsh-autosuggestions"
+
+[plugins.zsh_history_substring_search]
+github = "zsh-users/zsh-history-substring-search"
+
+[plugins.zsh_syntax_highlighting]
+github = "zsh-users/zsh-syntax-highlighting"

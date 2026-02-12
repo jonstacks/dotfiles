@@ -28,6 +28,8 @@ ngrok.pkg-path = "ngrok"
 direnv.pkg-path = "direnv"
 tree.pkg-path = "tree"
 heroku.pkg-path = "heroku"
+sheldon.pkg-path = "sheldon"
+starship.pkg-path = "starship"
 # gum.pkg-path = "gum"
 # gum.version = "^0.14.5"
 
