@@ -12,6 +12,9 @@
       "gh": {
         "pkg-path": "gh"
       },
+      "github-copilot-cli": {
+        "pkg-path": "github-copilot-cli"
+      },
       "go": {
         "pkg-path": "go"
       },
@@ -410,6 +413,122 @@
       ],
       "outputs": {
         "out": "/nix/store/xf3rb2kmk19092b1pf50ag0fsj2f6hpa-gh-2.86.0"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "github-copilot-cli",
+      "broken": false,
+      "derivation": "/nix/store/v0n6xqrli989615rklk4757a9b8zbpf8-github-copilot-cli-0.0.400.drv",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
+      "install_id": "github-copilot-cli",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=bf922a59c5c9998a6584645f7d0de689512e444c",
+      "name": "github-copilot-cli-0.0.400",
+      "pname": "github-copilot-cli",
+      "rev": "bf922a59c5c9998a6584645f7d0de689512e444c",
+      "rev_count": 940107,
+      "rev_date": "2026-02-04T04:57:53Z",
+      "scrape_date": "2026-02-05T04:35:48.195705Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.400",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/5ag99s2qiz8mkj4y9qaxp06rjmin2cvc-github-copilot-cli-0.0.400"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "github-copilot-cli",
+      "broken": false,
+      "derivation": "/nix/store/kalp3p2fa2vz4a8qlax3x8iigj1wnfb0-github-copilot-cli-0.0.400.drv",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
+      "install_id": "github-copilot-cli",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=bf922a59c5c9998a6584645f7d0de689512e444c",
+      "name": "github-copilot-cli-0.0.400",
+      "pname": "github-copilot-cli",
+      "rev": "bf922a59c5c9998a6584645f7d0de689512e444c",
+      "rev_count": 940107,
+      "rev_date": "2026-02-04T04:57:53Z",
+      "scrape_date": "2026-02-05T05:05:03.933382Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.400",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/f8h93ca3qa2h5ah6wjj3j7vp4zh6vz8b-github-copilot-cli-0.0.400"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "github-copilot-cli",
+      "broken": false,
+      "derivation": "/nix/store/25w1gasamnsjl6pb3p25vcb48102rvsh-github-copilot-cli-0.0.400.drv",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
+      "install_id": "github-copilot-cli",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=bf922a59c5c9998a6584645f7d0de689512e444c",
+      "name": "github-copilot-cli-0.0.400",
+      "pname": "github-copilot-cli",
+      "rev": "bf922a59c5c9998a6584645f7d0de689512e444c",
+      "rev_count": 940107,
+      "rev_date": "2026-02-04T04:57:53Z",
+      "scrape_date": "2026-02-05T05:32:52.024823Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.400",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/b7j61j2z12hp7h2fizr1vpd7ikxziayv-github-copilot-cli-0.0.400"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "github-copilot-cli",
+      "broken": false,
+      "derivation": "/nix/store/adr0afpq0h3nbp7k5paa3f7bk3x84kj3-github-copilot-cli-0.0.400.drv",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
+      "install_id": "github-copilot-cli",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=bf922a59c5c9998a6584645f7d0de689512e444c",
+      "name": "github-copilot-cli-0.0.400",
+      "pname": "github-copilot-cli",
+      "rev": "bf922a59c5c9998a6584645f7d0de689512e444c",
+      "rev_count": 940107,
+      "rev_date": "2026-02-04T04:57:53Z",
+      "scrape_date": "2026-02-05T06:06:19.192156Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.400",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/q32frs26ywji70wd9n8hx3kd6y0ssv47-github-copilot-cli-0.0.400"
       },
       "system": "x86_64-linux",
       "group": "toplevel",

@@ -31,6 +31,7 @@ heroku.pkg-path = "heroku"
 sheldon.pkg-path = "sheldon"
 starship.pkg-path = "starship"
 gh.pkg-path = "gh"
+github-copilot-cli.pkg-path = "github-copilot-cli"
 # gum.pkg-path = "gum"
 # gum.version = "^0.14.5"
 
