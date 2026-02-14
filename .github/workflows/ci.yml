@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    name: Validate (${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        os:
+        - ubuntu-latest
+        - macos-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v6
+    - name: Run bootstrap in isolated home
+      shell: bash
+      env:
+        CODESPACES: "true"
+        HOME: ${{ runner.temp }}/home
+      run: |
+        set -euo pipefail
+        mkdir -p "$HOME"
+        ./script/bootstrap
+    - name: Verify key symlinks
+      shell: bash
+      env:
+        HOME: ${{ runner.temp }}/home
+      run: |
+        set -euo pipefail
+        test -L "$HOME/.zshrc"
+        test -L "$HOME/.vimrc"
+        test -L "$HOME/.gitconfig"
