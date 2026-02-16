@@ -24,10 +24,10 @@ $elixir\
 $docker_context\
 $kubernetes\
 $aws\
-[](fg:white)\
 $time\
 $line_break\
-$character"""
+$env_var\
+ $character"""
 
 right_format = ""
 
@@ -80,8 +80,13 @@ error_symbol = "[❯](bold fg:#ff0000)"
 [cmd_duration]
 format = "[](fg:yellow)[  $duration ]($style)"
 style = "fg:black bg:yellow"
-min_time = 3_000
-show_milliseconds = false
+min_time = 0
+show_milliseconds = true
+
+[env_var.FLOX_PROMPT_ENVIRONMENTS]
+variable = "FLOX_PROMPT_ENVIRONMENTS"
+default = "unknown"
+format = "[FLOX_ENV=\\[$env_value\\]](bold bg:none fg:yellow)($style)"
 
 [c]
 symbol = ""
@@ -143,4 +148,4 @@ format = "[](fg:red)[ $symbol $profile ]($style)"
 disabled = false
 time_format = "%H:%M:%S"
 style = "fg:black bg:white"
-format = "[  $time ]($style)(fg:#808080)"
+format = "[](fg:white bg:yellow)[  $time ]($style)(fg:#808080)"
