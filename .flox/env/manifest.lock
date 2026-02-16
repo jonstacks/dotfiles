@@ -9,6 +9,9 @@
       "direnv": {
         "pkg-path": "direnv"
       },
+      "eza": {
+        "pkg-path": "eza"
+      },
       "gh": {
         "pkg-path": "gh"
       },
@@ -303,6 +306,130 @@
       "priority": 5
     },
     {
+      "attr_path": "eza",
+      "broken": false,
+      "derivation": "/nix/store/4a79r5i81wfiky8jdxnm91np7k7i9bha-eza-0.23.4.drv",
+      "description": "Modern, maintained replacement for ls",
+      "install_id": "eza",
+      "license": "EUPL-1.2",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=bf922a59c5c9998a6584645f7d0de689512e444c",
+      "name": "eza-0.23.4",
+      "pname": "eza",
+      "rev": "bf922a59c5c9998a6584645f7d0de689512e444c",
+      "rev_count": 940107,
+      "rev_date": "2026-02-04T04:57:53Z",
+      "scrape_date": "2026-02-05T04:35:47.840259Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.23.4",
+      "outputs_to_install": [
+        "man",
+        "out"
+      ],
+      "outputs": {
+        "man": "/nix/store/9655y75jgbfz9kxj6y75hg13ljppnhxf-eza-0.23.4-man",
+        "out": "/nix/store/7655ic9iv43gxzv5k39vnna749lmmdn5-eza-0.23.4"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "eza",
+      "broken": false,
+      "derivation": "/nix/store/6q443sbypdfq035wmk1m0f45wdzlvj83-eza-0.23.4.drv",
+      "description": "Modern, maintained replacement for ls",
+      "install_id": "eza",
+      "license": "EUPL-1.2",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=bf922a59c5c9998a6584645f7d0de689512e444c",
+      "name": "eza-0.23.4",
+      "pname": "eza",
+      "rev": "bf922a59c5c9998a6584645f7d0de689512e444c",
+      "rev_count": 940107,
+      "rev_date": "2026-02-04T04:57:53Z",
+      "scrape_date": "2026-02-05T05:05:03.376203Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.23.4",
+      "outputs_to_install": [
+        "man",
+        "out"
+      ],
+      "outputs": {
+        "man": "/nix/store/2bg54h4pvqm89r3ch8vfwgz51pfdy6sf-eza-0.23.4-man",
+        "out": "/nix/store/28fpqm2ai0jxqpb37i3knh4lxlspabn8-eza-0.23.4"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "eza",
+      "broken": false,
+      "derivation": "/nix/store/rplqn1asdf79i6xvdjm68splja5ickv5-eza-0.23.4.drv",
+      "description": "Modern, maintained replacement for ls",
+      "install_id": "eza",
+      "license": "EUPL-1.2",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=bf922a59c5c9998a6584645f7d0de689512e444c",
+      "name": "eza-0.23.4",
+      "pname": "eza",
+      "rev": "bf922a59c5c9998a6584645f7d0de689512e444c",
+      "rev_count": 940107,
+      "rev_date": "2026-02-04T04:57:53Z",
+      "scrape_date": "2026-02-05T05:32:51.660748Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.23.4",
+      "outputs_to_install": [
+        "man",
+        "out"
+      ],
+      "outputs": {
+        "man": "/nix/store/icxiw6r6djvny7jkdqcjzbwgbd241qxz-eza-0.23.4-man",
+        "out": "/nix/store/qfhn2hs7hfwz0hacdh03dwhxdl455csg-eza-0.23.4"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "eza",
+      "broken": false,
+      "derivation": "/nix/store/l4dgv7fali7wayfz8wk16cr383s66ys0-eza-0.23.4.drv",
+      "description": "Modern, maintained replacement for ls",
+      "install_id": "eza",
+      "license": "EUPL-1.2",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=bf922a59c5c9998a6584645f7d0de689512e444c",
+      "name": "eza-0.23.4",
+      "pname": "eza",
+      "rev": "bf922a59c5c9998a6584645f7d0de689512e444c",
+      "rev_count": 940107,
+      "rev_date": "2026-02-04T04:57:53Z",
+      "scrape_date": "2026-02-05T06:06:18.563786Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.23.4",
+      "outputs_to_install": [
+        "man",
+        "out"
+      ],
+      "outputs": {
+        "man": "/nix/store/j0pkgh7xs4vr1irsllrkhplww5pv8lcn-eza-0.23.4-man",
+        "out": "/nix/store/h39nmwdf34ab886dlcdr9ga7lmlmypbz-eza-0.23.4"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
       "attr_path": "gh",
       "broken": false,
       "derivation": "/nix/store/8a3nidwpvc9n1bjva4dmw7i7mjj8fky7-gh-2.86.0.drv",
@@ -554,6 +681,7 @@
       "unfree": false,
       "version": "1.25.5",
       "outputs_to_install": [
+        "out",
         "out"
       ],
       "outputs": {
