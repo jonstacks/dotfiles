@@ -1,0 +1,63 @@
+version = "0.8.5"
+home = "/home/codespace"
+config_dir = "/home/codespace/.dotfiles/zsh/sheldon"
+data_dir = "/home/codespace/.local/share/sheldon"
+config_file = "/home/codespace/.dotfiles/zsh/sheldon/plugins.toml"
+
+[[plugins]]
+name = "oh-my-zsh"
+source_dir = "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh"
+files = ["/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/oh-my-zsh.sh"]
+apply = ["source"]
+
+[plugins.hooks]
+
+[[plugins]]
+name = "oh-my-zsh-plugins"
+source_dir = "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh"
+plugin_dir = "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins"
+files = ["/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/aliases/aliases.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/argocd/argocd.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/command-not-found/command-not-found.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/direnv/direnv.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/docker/docker.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/git/git.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/golang/golang.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/helm/helm.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/heroku/heroku.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/history/history.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/kubectl/kubectl.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/ngrok/ngrok.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/pip/pip.plugin.zsh", "/home/codespace/.local/share/sheldon/repos/github.com/ohmyzsh/ohmyzsh/plugins/ssh/ssh.plugin.zsh"]
+apply = ["source", "fpath"]
+
+[plugins.hooks]
+
+[[plugins]]
+name = "talosctl"
+source_dir = "/home/codespace/.local/share/sheldon/repos/github.com/jonstacks/ohmyzsh"
+plugin_dir = "/home/codespace/.local/share/sheldon/repos/github.com/jonstacks/ohmyzsh/plugins/talosctl"
+files = ["/home/codespace/.local/share/sheldon/repos/github.com/jonstacks/ohmyzsh/plugins/talosctl/talosctl.plugin.zsh"]
+apply = ["source"]
+
+[plugins.hooks]
+
+[[plugins]]
+name = "zsh_autosuggestions"
+source_dir = "/home/codespace/.local/share/sheldon/repos/github.com/zsh-users/zsh-autosuggestions"
+files = ["/home/codespace/.local/share/sheldon/repos/github.com/zsh-users/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh"]
+apply = ["source"]
+
+[plugins.hooks]
+
+[[plugins]]
+name = "zsh_history_substring_search"
+source_dir = "/home/codespace/.local/share/sheldon/repos/github.com/zsh-users/zsh-history-substring-search"
+files = ["/home/codespace/.local/share/sheldon/repos/github.com/zsh-users/zsh-history-substring-search/zsh-history-substring-search.plugin.zsh"]
+apply = ["source"]
+
+[plugins.hooks]
+
+[[plugins]]
+name = "zsh_syntax_highlighting"
+source_dir = "/home/codespace/.local/share/sheldon/repos/github.com/zsh-users/zsh-syntax-highlighting"
+files = ["/home/codespace/.local/share/sheldon/repos/github.com/zsh-users/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh"]
+apply = ["source"]
+
+[plugins.hooks]
+
+[templates]
+PATH = 'export PATH="{{ dir }}:$PATH"'
+path = 'path=( "{{ dir }}" $path )'
+fpath = 'fpath=( "{{ dir }}" $fpath )'
+source = """
+{{ hooks?.pre | nl }}{% for file in files %}source "{{ file }}"
+{% endfor %}{{ hooks?.post | nl }}"""

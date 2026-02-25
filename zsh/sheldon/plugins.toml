@@ -1,0 +1,46 @@
+shell = "zsh"
+
+[plugins]
+
+[plugins.oh-my-zsh]
+github = 'ohmyzsh/ohmyzsh'
+
+[plugins.oh-my-zsh-plugins]
+github = 'ohmyzsh/ohmyzsh'
+dir = 'plugins'
+use = [
+  "{aliases}/*.plugin.zsh",
+  "{argocd}/*.plugin.zsh",
+  "{command-not-found}/*.plugin.zsh",
+  "{direnv}/*.plugin.zsh",
+  "{docker}/*.plugin.zsh",
+  "{git}/*.plugin.zsh",
+  "{golang}/*.plugin.zsh",
+  "{helm}/*.plugin.zsh",
+  "{heroku}/*.plugin.zsh",
+  "{history}/*.plugin.zsh",
+  "{kubectl}/*.plugin.zsh",
+  "{ngrok}/*.plugin.zsh",
+  "{pip}/*.plugin.zsh",
+  "{ssh}/*.plugin.zsh",
+]
+apply = ["source","fpath"]
+
+[plugins.talosctl]
+github = "jonstacks/ohmyzsh"
+dir = "plugins/talosctl"
+
+[plugins.zsh_autosuggestions]
+github = "zsh-users/zsh-autosuggestions"
+
+[plugins.zsh_history_substring_search]
+github = "zsh-users/zsh-history-substring-search"
+
+[plugins.zsh_syntax_highlighting]
+github = "zsh-users/zsh-syntax-highlighting"
+
+[plugins.eza]
+github = "z-shell/zsh-eza"
+
+[plugins.powerlevel10k]
+github = "romkatv/powerlevel10k"
