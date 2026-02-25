@@ -15,22 +15,57 @@ version = 1
 ##  $ flox show gum     <- show all versions of a package
 ## -------------------------------------------------------------------
 [install]
-go.pkg-path = "go"
-talosctl.pkg-path = "talosctl"
-k6.pkg-path = "k6"
-kubernetes-helm.pkg-path = "kubernetes-helm"
-hugo.pkg-path = "hugo"
-argocd.pkg-path = "argocd"
-kubebuilder.pkg-path = "kubebuilder"
-kubectl.pkg-path = "kubectl"
-kind.pkg-path = "kind"
-ngrok.pkg-path = "ngrok"
-direnv.pkg-path = "direnv"
-tree.pkg-path = "tree"
-heroku.pkg-path = "heroku"
-# gum.pkg-path = "gum"
-# gum.version = "^0.14.5"
 
+# Shell tools
+direnv.pkg-path = "direnv"
+direnv.pkg-group = "shell-tools"
+eza.pkg-path = "eza"
+eza.pkg-group = "shell-tools"
+gum.pkg-path = "gum"
+gum.pkg-group = "shell-tools"
+starship.pkg-path = "starship"
+starship.pkg-group = "starship"
+sheldon.pkg-path = "sheldon"
+sheldon.pkg-group = "shell-tools"
+tree.pkg-path = "tree"
+tree.pkg-group = "shell-tools"
+
+# Build tools (each under own pkg-group)
+go.pkg-path = "go"
+go.pkg-group = "go"
+nodejs.pkg-path = "nodejs"
+nodejs.pkg-group = "nodejs"
+
+# Go/K8s Tools
+argocd.pkg-path = "argocd"
+argocd.pkg-group = "go-tools"
+hugo.pkg-path = "hugo"
+hugo.pkg-group = "go-tools"
+k6.pkg-path = "k6"
+k6.pkg-group = "go-tools"
+kind.pkg-path = "kind"
+kind.pkg-group = "go-tools"
+kubebuilder.pkg-path = "kubebuilder"
+kubebuilder.pkg-group = "go-tools"
+kubectl.pkg-path = "kubectl"
+kubectl.pkg-group = "go-tools"
+kubernetes-helm.pkg-path = "kubernetes-helm"
+kubernetes-helm.pkg-group = "go-tools"
+talosctl.pkg-path = "talosctl"
+talosctl.pkg-group = "go-tools"
+
+
+# Other development tools
+gh.pkg-path = "gh"
+gh.pkg-group = "dev-tools"
+github-copilot-cli.pkg-path = "github-copilot-cli"
+github-copilot-cli.pkg-group = "dev-tools"
+heroku.pkg-path = "heroku"
+heroku.pkg-group = "dev-tools"
+ngrok.pkg-path = "ngrok"
+ngrok.pkg-group = "dev-tools"
+pre-commit.pkg-path = "pre-commit"
+pre-commit.pkg-group = "dev-tools"
 
 ## Environment Variables ---------------------------------------------
 ##  ... available for use in the activated environment
