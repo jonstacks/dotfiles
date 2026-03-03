@@ -30,6 +30,10 @@ sheldon.pkg-group = "shell-tools"
 tree.pkg-path = "tree"
 tree.pkg-group = "shell-tools"
 
+# Editors
+vim.pkg-path = "vim"
+vim.pkg-group = "editors"
+
 # Build tools (each under own pkg-group)
 go.pkg-path = "go"
 go.pkg-group = "go"

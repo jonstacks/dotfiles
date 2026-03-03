@@ -86,6 +86,10 @@
       "tree": {
         "pkg-path": "tree",
         "pkg-group": "shell-tools"
+      },
+      "vim": {
+        "pkg-path": "vim",
+        "pkg-group": "editors"
       }
     },
     "hook": {},
@@ -685,6 +689,130 @@
       },
       "system": "x86_64-linux",
       "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "vim",
+      "broken": false,
+      "derivation": "/nix/store/qyp76gz7jwh9j3nhp905lk0ywr8dvbkr-vim-9.1.2148.drv",
+      "description": "Most popular clone of the VI editor",
+      "install_id": "vim",
+      "license": "Vim",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=dd9b079222d43e1943b6ebd802f04fd959dc8e61",
+      "name": "vim-9.1.2148",
+      "pname": "vim",
+      "rev": "dd9b079222d43e1943b6ebd802f04fd959dc8e61",
+      "rev_count": 955442,
+      "rev_date": "2026-02-27T13:13:23Z",
+      "scrape_date": "2026-03-01T04:42:33.179907Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "9.1.2148",
+      "outputs_to_install": [
+        "out",
+        "xxd"
+      ],
+      "outputs": {
+        "out": "/nix/store/cnq7jyn79sdajzs49ih95h2y5vw5bnny-vim-9.1.2148",
+        "xxd": "/nix/store/lmja6cvd75akyrdqrj813lc0fs8snmr6-vim-9.1.2148-xxd"
+      },
+      "system": "aarch64-darwin",
+      "group": "editors",
+      "priority": 5
+    },
+    {
+      "attr_path": "vim",
+      "broken": false,
+      "derivation": "/nix/store/magz0njnkgafwmg6ranw27dzbcxkcj03-vim-9.1.2148.drv",
+      "description": "Most popular clone of the VI editor",
+      "install_id": "vim",
+      "license": "Vim",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=dd9b079222d43e1943b6ebd802f04fd959dc8e61",
+      "name": "vim-9.1.2148",
+      "pname": "vim",
+      "rev": "dd9b079222d43e1943b6ebd802f04fd959dc8e61",
+      "rev_count": 955442,
+      "rev_date": "2026-02-27T13:13:23Z",
+      "scrape_date": "2026-03-01T05:14:00.790461Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "9.1.2148",
+      "outputs_to_install": [
+        "out",
+        "xxd"
+      ],
+      "outputs": {
+        "out": "/nix/store/hk9nxg4d0hssq76m4vjgs8vcrvg9i9ki-vim-9.1.2148",
+        "xxd": "/nix/store/5c5zm3a2ycqvgri9r6y67i9a11paagcq-vim-9.1.2148-xxd"
+      },
+      "system": "aarch64-linux",
+      "group": "editors",
+      "priority": 5
+    },
+    {
+      "attr_path": "vim",
+      "broken": false,
+      "derivation": "/nix/store/606jlnpz1nh0mwn9ig49lyzn87nms85x-vim-9.1.2148.drv",
+      "description": "Most popular clone of the VI editor",
+      "install_id": "vim",
+      "license": "Vim",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=dd9b079222d43e1943b6ebd802f04fd959dc8e61",
+      "name": "vim-9.1.2148",
+      "pname": "vim",
+      "rev": "dd9b079222d43e1943b6ebd802f04fd959dc8e61",
+      "rev_count": 955442,
+      "rev_date": "2026-02-27T13:13:23Z",
+      "scrape_date": "2026-03-01T05:42:30.930798Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "9.1.2148",
+      "outputs_to_install": [
+        "out",
+        "xxd"
+      ],
+      "outputs": {
+        "out": "/nix/store/64b2v8wr6qhvvsm1rfy6rb375yq5npjx-vim-9.1.2148",
+        "xxd": "/nix/store/az5yg3h6yn0i4qjaw2s2j9x0scg46viq-vim-9.1.2148-xxd"
+      },
+      "system": "x86_64-darwin",
+      "group": "editors",
+      "priority": 5
+    },
+    {
+      "attr_path": "vim",
+      "broken": false,
+      "derivation": "/nix/store/zrxsj9298m0v5hkqjam6iwcxb4bc1r2v-vim-9.1.2148.drv",
+      "description": "Most popular clone of the VI editor",
+      "install_id": "vim",
+      "license": "Vim",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=dd9b079222d43e1943b6ebd802f04fd959dc8e61",
+      "name": "vim-9.1.2148",
+      "pname": "vim",
+      "rev": "dd9b079222d43e1943b6ebd802f04fd959dc8e61",
+      "rev_count": 955442,
+      "rev_date": "2026-02-27T13:13:23Z",
+      "scrape_date": "2026-03-01T06:20:11.372482Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "9.1.2148",
+      "outputs_to_install": [
+        "out",
+        "xxd"
+      ],
+      "outputs": {
+        "out": "/nix/store/4crzj2ymd7wgpgq2zzjcmq534c7wdpyv-vim-9.1.2148",
+        "xxd": "/nix/store/j4rrdms4zyaay6wzdc9mm3impg8kcq4v-vim-9.1.2148-xxd"
+      },
+      "system": "x86_64-linux",
+      "group": "editors",
       "priority": 5
     },
     {
