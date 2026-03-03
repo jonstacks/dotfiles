@@ -23,6 +23,7 @@ use = [
   "{ngrok}/*.plugin.zsh",
   "{pip}/*.plugin.zsh",
   "{ssh}/*.plugin.zsh",
+  "{ssh-agent}/*.plugin.zsh",
 ]
 apply = ["source","fpath"]
 
