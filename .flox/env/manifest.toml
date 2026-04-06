@@ -6,7 +6,7 @@
 ##
 ## -------------------------------------------------------------------
 # Flox manifest version managed by Flox CLI
-version = 1
+schema-version = "1.11.0"
 
 
 ## Install Packages --------------------------------------------------
@@ -53,6 +53,7 @@ kubebuilder.pkg-path = "kubebuilder"
 kubebuilder.pkg-group = "go-tools"
 kubectl.pkg-path = "kubectl"
 kubectl.pkg-group = "go-tools"
+kubectl.outputs = "all"
 kubernetes-helm.pkg-path = "kubernetes-helm"
 kubernetes-helm.pkg-group = "go-tools"
 talosctl.pkg-path = "talosctl"
@@ -70,6 +71,7 @@ ngrok.pkg-path = "ngrok"
 ngrok.pkg-group = "dev-tools"
 pre-commit.pkg-path = "pre-commit"
 pre-commit.pkg-group = "dev-tools"
+pre-commit.outputs = "all"
 
 ## Environment Variables ---------------------------------------------
 ##  ... available for use in the activated environment
