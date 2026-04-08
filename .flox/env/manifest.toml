@@ -1,11 +1,3 @@
-## Flox Environment Manifest -----------------------------------------
-##
-##   _Everything_ you need to know about the _manifest_ is here:
-##
-##               https://flox.dev/docs/concepts/manifest
-##
-## -------------------------------------------------------------------
-# Flox manifest version managed by Flox CLI
 schema-version = "1.11.0"
 
 
@@ -31,6 +23,8 @@ tree.pkg-path = "tree"
 tree.pkg-group = "shell-tools"
 
 # Editors
+nano.pkg-path = "nano"
+nano.pkg-group = "editors"
 vim.pkg-path = "vim"
 vim.pkg-group = "editors"
 
@@ -63,8 +57,6 @@ talosctl.pkg-group = "go-tools"
 # Other development tools
 gh.pkg-path = "gh"
 gh.pkg-group = "dev-tools"
-github-copilot-cli.pkg-path = "github-copilot-cli"
-github-copilot-cli.pkg-group = "dev-tools"
 heroku.pkg-path = "heroku"
 heroku.pkg-group = "dev-tools"
 ngrok.pkg-path = "ngrok"
@@ -72,6 +64,14 @@ ngrok.pkg-group = "dev-tools"
 pre-commit.pkg-path = "pre-commit"
 pre-commit.pkg-group = "dev-tools"
 pre-commit.outputs = "all"
+
+
+# AI tools
+claude-code.pkg-path = "claude-code"
+claude-code.pkg-group = "ai-tools"
+github-copilot-cli.pkg-path = "github-copilot-cli"
+github-copilot-cli.pkg-group = "dev-tools"
+
 
 ## Environment Variables ---------------------------------------------
 ##  ... available for use in the activated environment

@@ -7,6 +7,10 @@
         "pkg-path": "argocd",
         "pkg-group": "go-tools"
       },
+      "claude-code": {
+        "pkg-path": "claude-code",
+        "pkg-group": "ai-tools"
+      },
       "direnv": {
         "pkg-path": "direnv",
         "pkg-group": "shell-tools"
@@ -59,6 +63,10 @@
       "kubernetes-helm": {
         "pkg-path": "kubernetes-helm",
         "pkg-group": "go-tools"
+      },
+      "nano": {
+        "pkg-path": "nano",
+        "pkg-group": "editors"
       },
       "ngrok": {
         "pkg-path": "ngrok",
@@ -714,21 +722,152 @@
       "priority": 5
     },
     {
+      "attr_path": "nano",
+      "broken": false,
+      "derivation": "/nix/store/b7bzvgn4q13fbzra5v5jjdfpzm2k1mb7-nano-8.7.1.drv",
+      "description": "Small, user-friendly console text editor",
+      "install_id": "nano",
+      "license": "GPL-3.0-or-later",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "name": "nano-8.7.1",
+      "pname": "nano",
+      "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "rev_count": 975402,
+      "rev_date": "2026-04-05T21:03:29Z",
+      "scrape_date": "2026-04-07T06:03:55.015606Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "8.7.1",
+      "outputs_to_install": [
+        "man",
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/vxj5jpg5xnj1bswaa88i178z9q9c870r-nano-8.7.1-doc",
+        "info": "/nix/store/xjapdip38d6vmrxvm4s05jih1ildw43x-nano-8.7.1-info",
+        "man": "/nix/store/m1iy1dw0pjbs8140c7chqyjrmk8k5cgp-nano-8.7.1-man",
+        "out": "/nix/store/qnp60c5jyfnh8271kg48rkmg9bkz9biz-nano-8.7.1"
+      },
+      "system": "aarch64-darwin",
+      "group": "editors",
+      "priority": 5
+    },
+    {
+      "attr_path": "nano",
+      "broken": false,
+      "derivation": "/nix/store/6vqxa7c4s5y261pfxj43pkcaji8w31k3-nano-8.7.1.drv",
+      "description": "Small, user-friendly console text editor",
+      "install_id": "nano",
+      "license": "GPL-3.0-or-later",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "name": "nano-8.7.1",
+      "pname": "nano",
+      "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "rev_count": 975402,
+      "rev_date": "2026-04-05T21:03:29Z",
+      "scrape_date": "2026-04-07T06:35:35.983049Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "8.7.1",
+      "outputs_to_install": [
+        "man",
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/3ar89b1m3q04cdapsnmzxfn2g44x2l1i-nano-8.7.1-doc",
+        "info": "/nix/store/8vw98zsvgiz1r40fv1ijb6i9hqa6yivy-nano-8.7.1-info",
+        "man": "/nix/store/qbm7xjv15n2lzwigpk8jnd0kbflzg7pw-nano-8.7.1-man",
+        "out": "/nix/store/5m6ffl3wymvf3d43zvcq2s7qva0v9d2n-nano-8.7.1"
+      },
+      "system": "aarch64-linux",
+      "group": "editors",
+      "priority": 5
+    },
+    {
+      "attr_path": "nano",
+      "broken": false,
+      "derivation": "/nix/store/f6pcndgbipmlx4v27wggfcfsd29706vc-nano-8.7.1.drv",
+      "description": "Small, user-friendly console text editor",
+      "install_id": "nano",
+      "license": "GPL-3.0-or-later",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "name": "nano-8.7.1",
+      "pname": "nano",
+      "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "rev_count": 975402,
+      "rev_date": "2026-04-05T21:03:29Z",
+      "scrape_date": "2026-04-07T07:05:23.213628Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "8.7.1",
+      "outputs_to_install": [
+        "man",
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/vrp2hgd4nc7w760vfcjj7x0g01y8qh54-nano-8.7.1-doc",
+        "info": "/nix/store/hj79ch51xnsxia1nnp0ppr96srcdfpgn-nano-8.7.1-info",
+        "man": "/nix/store/a1xj7jswm20f05rvcbwjrivw2yfabsd3-nano-8.7.1-man",
+        "out": "/nix/store/859x4b3gb1yvlxia40hnhdzjf4kww2gm-nano-8.7.1"
+      },
+      "system": "x86_64-darwin",
+      "group": "editors",
+      "priority": 5
+    },
+    {
+      "attr_path": "nano",
+      "broken": false,
+      "derivation": "/nix/store/nm9i85rz38x743jdjhmpl5r8mp69r5wq-nano-8.7.1.drv",
+      "description": "Small, user-friendly console text editor",
+      "install_id": "nano",
+      "license": "GPL-3.0-or-later",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "name": "nano-8.7.1",
+      "pname": "nano",
+      "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "rev_count": 975402,
+      "rev_date": "2026-04-05T21:03:29Z",
+      "scrape_date": "2026-04-07T07:39:44.737854Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "8.7.1",
+      "outputs_to_install": [
+        "man",
+        "out"
+      ],
+      "outputs": {
+        "doc": "/nix/store/mz96yiifdajw96cqvhzw0g4x0x9l3ndx-nano-8.7.1-doc",
+        "info": "/nix/store/z7g8pgv5m94pl3143rczz6hf5g7jxsay-nano-8.7.1-info",
+        "man": "/nix/store/197icy1f9kphqd03mz58dmf8iw1cwy4v-nano-8.7.1-man",
+        "out": "/nix/store/jlh7h359alm298af9h8h7fx0n9j6m713-nano-8.7.1"
+      },
+      "system": "x86_64-linux",
+      "group": "editors",
+      "priority": 5
+    },
+    {
       "attr_path": "vim",
       "broken": false,
       "derivation": "/nix/store/rapdrxj5k858fdlhw079l5p22b22lvbn-vim-9.2.0106.drv",
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
       "name": "vim-9.2.0106",
       "pname": "vim",
-      "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
-      "rev_count": 972949,
-      "rev_date": "2026-04-01T09:47:46Z",
-      "scrape_date": "2026-04-02T18:03:32.667255Z",
+      "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "rev_count": 975402,
+      "rev_date": "2026-04-05T21:03:29Z",
+      "scrape_date": "2026-04-07T06:06:06.377291Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -752,15 +891,14 @@
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
       "name": "vim-9.2.0106",
       "pname": "vim",
-      "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
-      "rev_count": 972949,
-      "rev_date": "2026-04-01T09:47:46Z",
-      "scrape_date": "2026-04-02T18:35:47.919391Z",
+      "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "rev_count": 975402,
+      "rev_date": "2026-04-05T21:03:29Z",
+      "scrape_date": "2026-04-07T06:38:33.098290Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -784,15 +922,14 @@
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
       "name": "vim-9.2.0106",
       "pname": "vim",
-      "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
-      "rev_count": 972949,
-      "rev_date": "2026-04-01T09:47:46Z",
-      "scrape_date": "2026-04-02T19:04:43.332798Z",
+      "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "rev_count": 975402,
+      "rev_date": "2026-04-05T21:03:29Z",
+      "scrape_date": "2026-04-07T07:07:31.647662Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -816,15 +953,14 @@
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=6201e203d09599479a3b3450ed24fa81537ebc4e",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
       "name": "vim-9.2.0106",
       "pname": "vim",
-      "rev": "6201e203d09599479a3b3450ed24fa81537ebc4e",
-      "rev_count": 972949,
-      "rev_date": "2026-04-01T09:47:46Z",
-      "scrape_date": "2026-04-02T19:39:58.688907Z",
+      "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "rev_count": 975402,
+      "rev_date": "2026-04-05T21:03:29Z",
+      "scrape_date": "2026-04-07T07:42:36.960831Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -2808,6 +2944,122 @@
       },
       "system": "x86_64-linux",
       "group": "starship",
+      "priority": 5
+    },
+    {
+      "attr_path": "claude-code",
+      "broken": false,
+      "derivation": "/nix/store/hy4jm9pr155a8wi5cggsk8laicpc6wf3-claude-code-2.1.92.drv",
+      "description": "Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
+      "install_id": "claude-code",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "name": "claude-code-2.1.92",
+      "pname": "claude-code",
+      "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "rev_count": 975402,
+      "rev_date": "2026-04-05T21:03:29Z",
+      "scrape_date": "2026-04-07T06:03:32.064848Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "2.1.92",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/fykidfp6v1mw5a3cc5l0v13w1vbwipfq-claude-code-2.1.92"
+      },
+      "system": "aarch64-darwin",
+      "group": "ai-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "claude-code",
+      "broken": false,
+      "derivation": "/nix/store/7lv6z0jq7l499i30q5bf2ijwdd3h0xc9-claude-code-2.1.92.drv",
+      "description": "Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
+      "install_id": "claude-code",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "name": "claude-code-2.1.92",
+      "pname": "claude-code",
+      "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "rev_count": 975402,
+      "rev_date": "2026-04-05T21:03:29Z",
+      "scrape_date": "2026-04-07T06:34:56.570220Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "2.1.92",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/cdaqkh1akzha1w9ciy1m926g2m62c4fj-claude-code-2.1.92"
+      },
+      "system": "aarch64-linux",
+      "group": "ai-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "claude-code",
+      "broken": false,
+      "derivation": "/nix/store/afkkdkim7f87y1gq8lbhqacbrj685kyr-claude-code-2.1.92.drv",
+      "description": "Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
+      "install_id": "claude-code",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "name": "claude-code-2.1.92",
+      "pname": "claude-code",
+      "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "rev_count": 975402,
+      "rev_date": "2026-04-05T21:03:29Z",
+      "scrape_date": "2026-04-07T07:04:59.821438Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "2.1.92",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/zqda0xnbsck6lay0s2w7za1psmgrjwbn-claude-code-2.1.92"
+      },
+      "system": "x86_64-darwin",
+      "group": "ai-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "claude-code",
+      "broken": false,
+      "derivation": "/nix/store/7klqv2xnfdj4fifg187gxj8qdmjmx371-claude-code-2.1.92.drv",
+      "description": "Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
+      "install_id": "claude-code",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "name": "claude-code-2.1.92",
+      "pname": "claude-code",
+      "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+      "rev_count": 975402,
+      "rev_date": "2026-04-05T21:03:29Z",
+      "scrape_date": "2026-04-07T07:39:06.309010Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "2.1.92",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/7xbkdwgn5k8i47kghiif44brynxc6z6d-claude-code-2.1.92"
+      },
+      "system": "x86_64-linux",
+      "group": "ai-tools",
       "priority": 5
     }
   ]
