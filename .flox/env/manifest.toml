@@ -64,7 +64,8 @@ ngrok.pkg-group = "dev-tools"
 pre-commit.pkg-path = "pre-commit"
 pre-commit.pkg-group = "dev-tools"
 pre-commit.outputs = "all"
-
+sprite.pkg-path = "sprite"
+sprite.pkg-group = "dev-tools"
 
 # AI tools
 claude-code.pkg-path = "claude-code"
