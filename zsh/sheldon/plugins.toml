@@ -31,6 +31,10 @@ apply = ["source","fpath"]
 github = "jonstacks/ohmyzsh"
 dir = "plugins/talosctl"
 
+[plugins.sprite]
+github = "jonstacks/ohmyzsh"
+dir = "plugins/sprite"
+
 [plugins.zsh_autosuggestions]
 github = "zsh-users/zsh-autosuggestions"
 
