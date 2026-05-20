@@ -68,6 +68,8 @@ sprite.pkg-path = "sprite"
 sprite.pkg-group = "dev-tools"
 
 # AI tools
+beads.pkg-path = "beads"
+beads.pkg-group = "ai-tools"
 claude-code.pkg-path = "claude-code"
 claude-code.pkg-group = "ai-tools"
 github-copilot-cli.pkg-path = "github-copilot-cli"
