@@ -11,6 +11,10 @@
         "pkg-path": "beads",
         "pkg-group": "ai-tools"
       },
+      "btop": {
+        "pkg-path": "btop",
+        "pkg-group": "btop"
+      },
       "claude-code": {
         "pkg-path": "claude-code",
         "pkg-group": "ai-tools"
@@ -364,6 +368,735 @@
       },
       "system": "x86_64-linux",
       "group": "ai-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "gh",
+      "broken": false,
+      "derivation": "/nix/store/43bxjypc0n9qj4krksnjyqv1kwwv3vag-gh-2.92.0.drv",
+      "description": "GitHub CLI tool",
+      "install_id": "gh",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "gh-2.92.0",
+      "pname": "gh",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T07:05:51.749561Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.92.0",
+      "outputs_to_install": [
+        "out",
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/iqnlcrakmwilxwwm2v127lvic5f11wj4-gh-2.92.0"
+      },
+      "system": "aarch64-darwin",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "gh",
+      "broken": false,
+      "derivation": "/nix/store/rbcx0cd44k66ksaggqyd85d5rmjxx0pd-gh-2.92.0.drv",
+      "description": "GitHub CLI tool",
+      "install_id": "gh",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "gh-2.92.0",
+      "pname": "gh",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T07:33:30.537129Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.92.0",
+      "outputs_to_install": [
+        "out",
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/rh89irgvdyragn9269ja281wz97rrzjp-gh-2.92.0"
+      },
+      "system": "aarch64-linux",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "gh",
+      "broken": false,
+      "derivation": "/nix/store/j8nylxrmk2bj035bksdkxq23hi3hr70f-gh-2.92.0.drv",
+      "description": "GitHub CLI tool",
+      "install_id": "gh",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "gh-2.92.0",
+      "pname": "gh",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T08:01:18.230208Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.92.0",
+      "outputs_to_install": [
+        "out",
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/v2baccv5siwfhqdk8lz570vncd3i5ali-gh-2.92.0"
+      },
+      "system": "x86_64-darwin",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "gh",
+      "broken": false,
+      "derivation": "/nix/store/zhcp7aiz84gviczr4pazv1jny67j4xn2-gh-2.92.0.drv",
+      "description": "GitHub CLI tool",
+      "install_id": "gh",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "gh-2.92.0",
+      "pname": "gh",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T08:32:10.919706Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2.92.0",
+      "outputs_to_install": [
+        "out",
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/y3m73nv1ry783kqfjqq17p3kxxaxx5d1-gh-2.92.0"
+      },
+      "system": "x86_64-linux",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "github-copilot-cli",
+      "broken": false,
+      "derivation": "/nix/store/zgv32wl3rlglp4r246q5mwpd41qj9l5s-github-copilot-cli-1.0.44.drv",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
+      "install_id": "github-copilot-cli",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "github-copilot-cli-1.0.44",
+      "pname": "github-copilot-cli",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T07:05:51.836414Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "1.0.44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/2r08k53n2vz4lj4mdav7ldasqd088dpz-github-copilot-cli-1.0.44"
+      },
+      "system": "aarch64-darwin",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "github-copilot-cli",
+      "broken": false,
+      "derivation": "/nix/store/qjjh846sz6yrhi2kylqjcj24mwrfzbhl-github-copilot-cli-1.0.44.drv",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
+      "install_id": "github-copilot-cli",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "github-copilot-cli-1.0.44",
+      "pname": "github-copilot-cli",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T07:33:30.650938Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "1.0.44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/4yaq8kkv3v8pdaazraln6pbfh9hapmjl-github-copilot-cli-1.0.44"
+      },
+      "system": "aarch64-linux",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "github-copilot-cli",
+      "broken": false,
+      "derivation": "/nix/store/l876ig1ka6ng2qg279fg56krizzs78nx-github-copilot-cli-1.0.44.drv",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
+      "install_id": "github-copilot-cli",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "github-copilot-cli-1.0.44",
+      "pname": "github-copilot-cli",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T08:01:18.318372Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "1.0.44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/f6mv53p0xpskz9mziz8awnpj9ii6cf7m-github-copilot-cli-1.0.44"
+      },
+      "system": "x86_64-darwin",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "github-copilot-cli",
+      "broken": false,
+      "derivation": "/nix/store/4f27r4jcka5gz2z42xhpvw6s6drvv2bj-github-copilot-cli-1.0.44.drv",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
+      "install_id": "github-copilot-cli",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "github-copilot-cli-1.0.44",
+      "pname": "github-copilot-cli",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T08:32:11.044353Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "1.0.44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/gk8lnwk9v1psnz30ig0s0agpfl3q2gfl-github-copilot-cli-1.0.44"
+      },
+      "system": "x86_64-linux",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "heroku",
+      "broken": false,
+      "derivation": "/nix/store/43gn01920lw38rrn5zx4xjzlizqddnaw-heroku-10.16.0.drv",
+      "description": "Everything you need to get started using Heroku",
+      "install_id": "heroku",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "heroku-10.16.0",
+      "pname": "heroku",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T07:06:06.308029Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "10.16.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/hbpz4xp36fg890phv1hxq2dzhw1z2yn8-heroku-10.16.0"
+      },
+      "system": "aarch64-darwin",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "heroku",
+      "broken": false,
+      "derivation": "/nix/store/ngppv5v8c8yhq7955pid3faqgd4qgxr7-heroku-10.16.0.drv",
+      "description": "Everything you need to get started using Heroku",
+      "install_id": "heroku",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "heroku-10.16.0",
+      "pname": "heroku",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T07:33:48.275938Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "10.16.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/p5b3i9isgm2dsdlvw90pdsd5x0vqfb5g-heroku-10.16.0"
+      },
+      "system": "aarch64-linux",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "heroku",
+      "broken": false,
+      "derivation": "/nix/store/8qc8w4d9aia63y0wi1xrq04b3zklw5xq-heroku-10.16.0.drv",
+      "description": "Everything you need to get started using Heroku",
+      "install_id": "heroku",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "heroku-10.16.0",
+      "pname": "heroku",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T08:01:33.311089Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "10.16.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/l120gh987p9r0jdllspd78nql1w47g1c-heroku-10.16.0"
+      },
+      "system": "x86_64-darwin",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "heroku",
+      "broken": false,
+      "derivation": "/nix/store/zv0g4yr1akfnphccy4phgar55bgxdj9v-heroku-10.16.0.drv",
+      "description": "Everything you need to get started using Heroku",
+      "install_id": "heroku",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "heroku-10.16.0",
+      "pname": "heroku",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T08:32:29.922367Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "10.16.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/cds44xkmzchqgy08r84hzikp2hp9q0gv-heroku-10.16.0"
+      },
+      "system": "x86_64-linux",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "ngrok",
+      "broken": false,
+      "derivation": "/nix/store/alqxjffrnjn29gn7k9sg3vkl7gsfacq7-ngrok-3.31.0.drv",
+      "description": "Allows you to expose a web server running on your local machine to the internet",
+      "install_id": "ngrok",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "ngrok-3.31.0",
+      "pname": "ngrok",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T07:06:14.792286Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "3.31.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/96n31x033rnwkaqa6fbrjvsd5mr3bk12-ngrok-3.31.0"
+      },
+      "system": "aarch64-darwin",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "ngrok",
+      "broken": false,
+      "derivation": "/nix/store/960j04yb9mp1kc7jpr3mk6hjv0m4n7jl-ngrok-3.31.0.drv",
+      "description": "Allows you to expose a web server running on your local machine to the internet",
+      "install_id": "ngrok",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "ngrok-3.31.0",
+      "pname": "ngrok",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T07:34:05.459393Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "3.31.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/2i4hr4jya48aqalp90hy94fpi7qqc7il-ngrok-3.31.0"
+      },
+      "system": "aarch64-linux",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "ngrok",
+      "broken": false,
+      "derivation": "/nix/store/84z90i051gi3ylh15dymydw041wzxvhi-ngrok-3.31.0.drv",
+      "description": "Allows you to expose a web server running on your local machine to the internet",
+      "install_id": "ngrok",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "ngrok-3.31.0",
+      "pname": "ngrok",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T08:01:42.200392Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "3.31.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/hwhs13l30dbyvrj2z54cidvba090h41d-ngrok-3.31.0"
+      },
+      "system": "x86_64-darwin",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "ngrok",
+      "broken": false,
+      "derivation": "/nix/store/q188k5z7d3c14bifmhcfd84w2jawn6zj-ngrok-3.31.0.drv",
+      "description": "Allows you to expose a web server running on your local machine to the internet",
+      "install_id": "ngrok",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "ngrok-3.31.0",
+      "pname": "ngrok",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T08:32:49.811888Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "3.31.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/p94aphaphrlmgvwcz8qmwlsywp6v3439-ngrok-3.31.0"
+      },
+      "system": "x86_64-linux",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "pre-commit",
+      "broken": false,
+      "derivation": "/nix/store/jqq99ripb8zzqhmg0fyx5dmn9qdms9l4-pre-commit-4.5.1.drv",
+      "description": "Framework for managing and maintaining multi-language pre-commit hooks",
+      "install_id": "pre-commit",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "pre-commit-4.5.1",
+      "pname": "pre-commit",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T07:06:30.203065Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "4.5.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/nc7n6xzxylg7yz99wpvya66fa59nj4ia-pre-commit-4.5.1-dist",
+        "out": "/nix/store/4y39fninb80ps3y1bnc7xyv31b775iv4-pre-commit-4.5.1"
+      },
+      "system": "aarch64-darwin",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "pre-commit",
+      "broken": false,
+      "derivation": "/nix/store/s0w4mm3rj7iq1i87ra3fsh6q4j65a51q-pre-commit-4.5.1.drv",
+      "description": "Framework for managing and maintaining multi-language pre-commit hooks",
+      "install_id": "pre-commit",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "pre-commit-4.5.1",
+      "pname": "pre-commit",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T07:34:26.228139Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "4.5.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/g115vm8wcjg1xrr4jzyrr75dain0q6lc-pre-commit-4.5.1-dist",
+        "out": "/nix/store/92335zilycqlwb1274csqaya0x026asa-pre-commit-4.5.1"
+      },
+      "system": "aarch64-linux",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "pre-commit",
+      "broken": false,
+      "derivation": "/nix/store/6k4v5y1ys2vai85k1ii10b46lw3f3v2w-pre-commit-4.5.1.drv",
+      "description": "Framework for managing and maintaining multi-language pre-commit hooks",
+      "install_id": "pre-commit",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "pre-commit-4.5.1",
+      "pname": "pre-commit",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T08:01:58.718446Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "4.5.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/07bqg3w88gl45vrx21x6rbnsg8c8p5xc-pre-commit-4.5.1-dist",
+        "out": "/nix/store/cyg8p7vsriyvh8ciq8iv1p8x33vcjia8-pre-commit-4.5.1"
+      },
+      "system": "x86_64-darwin",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "pre-commit",
+      "broken": false,
+      "derivation": "/nix/store/h8qghjz9jfrr8k6l4kk2xvcd3vshmnmw-pre-commit-4.5.1.drv",
+      "description": "Framework for managing and maintaining multi-language pre-commit hooks",
+      "install_id": "pre-commit",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "pre-commit-4.5.1",
+      "pname": "pre-commit",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T08:33:12.805385Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "4.5.1",
+      "outputs_to_install": [
+        "out",
+        "out"
+      ],
+      "outputs": {
+        "dist": "/nix/store/wrwjqaz58lnq793za7qlk50zsbrqywpd-pre-commit-4.5.1-dist",
+        "out": "/nix/store/vahfa5p05q8zyjhj47i4543nzd47y24n-pre-commit-4.5.1"
+      },
+      "system": "x86_64-linux",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/1q03akap98v9i47i3py8p8a6xbnwgy32-sprite-0.0.1-rc43.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "sprite-0.0.1-rc43",
+      "pname": "sprite",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T07:07:39.445644Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc43",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/cggfawf5h0rb5dd6g1kfkkjimm21dvz7-sprite-0.0.1-rc43"
+      },
+      "system": "aarch64-darwin",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/fza7i61jb7ivbip8vgf3nasn0ammfg8g-sprite-0.0.1-rc43.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "sprite-0.0.1-rc43",
+      "pname": "sprite",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T07:35:52.387989Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc43",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/0nqjg7hyy4sy0lpwpj85n4p4kq4d1psh-sprite-0.0.1-rc43"
+      },
+      "system": "aarch64-linux",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/41bmbcsb604qdh20agh406q5bkzqv240-sprite-0.0.1-rc43.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "sprite-0.0.1-rc43",
+      "pname": "sprite",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T08:03:12.790105Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc43",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/dxpcpjnzhyjj0xn95h9i6vc0k5gc80zc-sprite-0.0.1-rc43"
+      },
+      "system": "x86_64-darwin",
+      "group": "dev-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/195jxm8c9vb63w8609qx7fwqn6rpz8rr-sprite-0.0.1-rc43.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
+      "name": "sprite-0.0.1-rc43",
+      "pname": "sprite",
+      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
+      "rev_count": 998534,
+      "rev_date": "2026-05-15T18:21:44Z",
+      "scrape_date": "2026-05-17T08:34:44.743965Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc43",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/0q4s0dbglifrgahqp3hc0233lphs3szd-sprite-0.0.1-rc43"
+      },
+      "system": "x86_64-linux",
+      "group": "dev-tools",
       "priority": 5
     },
     {
@@ -2579,732 +3312,123 @@
       "priority": 5
     },
     {
-      "attr_path": "gh",
+      "attr_path": "btop",
       "broken": false,
-      "derivation": "/nix/store/43bxjypc0n9qj4krksnjyqv1kwwv3vag-gh-2.92.0.drv",
-      "description": "GitHub CLI tool",
-      "install_id": "gh",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "gh-2.92.0",
-      "pname": "gh",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T07:05:51.749561Z",
+      "derivation": "/nix/store/ygpv5w24v5yr4439zg4qf6m1xb48n6ad-btop-1.4.7.drv",
+      "description": "Monitor of resources",
+      "install_id": "btop",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=64c08a7ca051951c8eae34e3e3cb1e202fe36786",
+      "name": "btop-1.4.7",
+      "pname": "btop",
+      "rev": "64c08a7ca051951c8eae34e3e3cb1e202fe36786",
+      "rev_count": 1004030,
+      "rev_date": "2026-05-23T18:24:25Z",
+      "scrape_date": "2026-05-26T07:06:02.728592Z",
       "stabilities": [
         "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "2.92.0",
+      "version": "1.4.7",
       "outputs_to_install": [
-        "out",
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/iqnlcrakmwilxwwm2v127lvic5f11wj4-gh-2.92.0"
+        "out": "/nix/store/qlpn820im5b36q9pf6i80ahj8fdispkv-btop-1.4.7"
       },
       "system": "aarch64-darwin",
-      "group": "dev-tools",
+      "group": "btop",
       "priority": 5
     },
     {
-      "attr_path": "gh",
+      "attr_path": "btop",
       "broken": false,
-      "derivation": "/nix/store/rbcx0cd44k66ksaggqyd85d5rmjxx0pd-gh-2.92.0.drv",
-      "description": "GitHub CLI tool",
-      "install_id": "gh",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "gh-2.92.0",
-      "pname": "gh",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T07:33:30.537129Z",
+      "derivation": "/nix/store/nmrq12xxg0r8h0p91bf58b1fhqmnkqz9-btop-1.4.7.drv",
+      "description": "Monitor of resources",
+      "install_id": "btop",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=64c08a7ca051951c8eae34e3e3cb1e202fe36786",
+      "name": "btop-1.4.7",
+      "pname": "btop",
+      "rev": "64c08a7ca051951c8eae34e3e3cb1e202fe36786",
+      "rev_count": 1004030,
+      "rev_date": "2026-05-23T18:24:25Z",
+      "scrape_date": "2026-05-26T07:34:25.944928Z",
       "stabilities": [
         "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "2.92.0",
+      "version": "1.4.7",
       "outputs_to_install": [
-        "out",
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/rh89irgvdyragn9269ja281wz97rrzjp-gh-2.92.0"
+        "out": "/nix/store/zik59i3sarl472n49sg9x4wa4xxh95d0-btop-1.4.7"
       },
       "system": "aarch64-linux",
-      "group": "dev-tools",
+      "group": "btop",
       "priority": 5
     },
     {
-      "attr_path": "gh",
+      "attr_path": "btop",
       "broken": false,
-      "derivation": "/nix/store/j8nylxrmk2bj035bksdkxq23hi3hr70f-gh-2.92.0.drv",
-      "description": "GitHub CLI tool",
-      "install_id": "gh",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "gh-2.92.0",
-      "pname": "gh",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T08:01:18.230208Z",
+      "derivation": "/nix/store/62clff51hd283xgw4jqrpw78hkj1436r-btop-1.4.7.drv",
+      "description": "Monitor of resources",
+      "install_id": "btop",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=64c08a7ca051951c8eae34e3e3cb1e202fe36786",
+      "name": "btop-1.4.7",
+      "pname": "btop",
+      "rev": "64c08a7ca051951c8eae34e3e3cb1e202fe36786",
+      "rev_count": 1004030,
+      "rev_date": "2026-05-23T18:24:25Z",
+      "scrape_date": "2026-05-26T08:02:11.939796Z",
       "stabilities": [
         "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "2.92.0",
+      "version": "1.4.7",
       "outputs_to_install": [
-        "out",
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/v2baccv5siwfhqdk8lz570vncd3i5ali-gh-2.92.0"
+        "out": "/nix/store/y9szcag8b7d4byqk7134441m4lwny24f-btop-1.4.7"
       },
       "system": "x86_64-darwin",
-      "group": "dev-tools",
+      "group": "btop",
       "priority": 5
     },
     {
-      "attr_path": "gh",
+      "attr_path": "btop",
       "broken": false,
-      "derivation": "/nix/store/zhcp7aiz84gviczr4pazv1jny67j4xn2-gh-2.92.0.drv",
-      "description": "GitHub CLI tool",
-      "install_id": "gh",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "gh-2.92.0",
-      "pname": "gh",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T08:32:10.919706Z",
+      "derivation": "/nix/store/3wp77l1ha2q8dnnsbknm6csh041xb4y3-btop-1.4.7.drv",
+      "description": "Monitor of resources",
+      "install_id": "btop",
+      "license": "Apache-2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=64c08a7ca051951c8eae34e3e3cb1e202fe36786",
+      "name": "btop-1.4.7",
+      "pname": "btop",
+      "rev": "64c08a7ca051951c8eae34e3e3cb1e202fe36786",
+      "rev_count": 1004030,
+      "rev_date": "2026-05-23T18:24:25Z",
+      "scrape_date": "2026-05-26T08:32:51.019405Z",
       "stabilities": [
         "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "2.92.0",
+      "version": "1.4.7",
       "outputs_to_install": [
-        "out",
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/y3m73nv1ry783kqfjqq17p3kxxaxx5d1-gh-2.92.0"
+        "out": "/nix/store/d2a48mxsm97f6p63yzrs8h50xp9ifcqj-btop-1.4.7"
       },
       "system": "x86_64-linux",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "github-copilot-cli",
-      "broken": false,
-      "derivation": "/nix/store/zgv32wl3rlglp4r246q5mwpd41qj9l5s-github-copilot-cli-1.0.44.drv",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
-      "install_id": "github-copilot-cli",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "github-copilot-cli-1.0.44",
-      "pname": "github-copilot-cli",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T07:05:51.836414Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "1.0.44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/2r08k53n2vz4lj4mdav7ldasqd088dpz-github-copilot-cli-1.0.44"
-      },
-      "system": "aarch64-darwin",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "github-copilot-cli",
-      "broken": false,
-      "derivation": "/nix/store/qjjh846sz6yrhi2kylqjcj24mwrfzbhl-github-copilot-cli-1.0.44.drv",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
-      "install_id": "github-copilot-cli",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "github-copilot-cli-1.0.44",
-      "pname": "github-copilot-cli",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T07:33:30.650938Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "1.0.44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/4yaq8kkv3v8pdaazraln6pbfh9hapmjl-github-copilot-cli-1.0.44"
-      },
-      "system": "aarch64-linux",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "github-copilot-cli",
-      "broken": false,
-      "derivation": "/nix/store/l876ig1ka6ng2qg279fg56krizzs78nx-github-copilot-cli-1.0.44.drv",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
-      "install_id": "github-copilot-cli",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "github-copilot-cli-1.0.44",
-      "pname": "github-copilot-cli",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T08:01:18.318372Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "1.0.44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/f6mv53p0xpskz9mziz8awnpj9ii6cf7m-github-copilot-cli-1.0.44"
-      },
-      "system": "x86_64-darwin",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "github-copilot-cli",
-      "broken": false,
-      "derivation": "/nix/store/4f27r4jcka5gz2z42xhpvw6s6drvv2bj-github-copilot-cli-1.0.44.drv",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
-      "install_id": "github-copilot-cli",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "github-copilot-cli-1.0.44",
-      "pname": "github-copilot-cli",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T08:32:11.044353Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "1.0.44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/gk8lnwk9v1psnz30ig0s0agpfl3q2gfl-github-copilot-cli-1.0.44"
-      },
-      "system": "x86_64-linux",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "heroku",
-      "broken": false,
-      "derivation": "/nix/store/43gn01920lw38rrn5zx4xjzlizqddnaw-heroku-10.16.0.drv",
-      "description": "Everything you need to get started using Heroku",
-      "install_id": "heroku",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "heroku-10.16.0",
-      "pname": "heroku",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T07:06:06.308029Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "10.16.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/hbpz4xp36fg890phv1hxq2dzhw1z2yn8-heroku-10.16.0"
-      },
-      "system": "aarch64-darwin",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "heroku",
-      "broken": false,
-      "derivation": "/nix/store/ngppv5v8c8yhq7955pid3faqgd4qgxr7-heroku-10.16.0.drv",
-      "description": "Everything you need to get started using Heroku",
-      "install_id": "heroku",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "heroku-10.16.0",
-      "pname": "heroku",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T07:33:48.275938Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "10.16.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/p5b3i9isgm2dsdlvw90pdsd5x0vqfb5g-heroku-10.16.0"
-      },
-      "system": "aarch64-linux",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "heroku",
-      "broken": false,
-      "derivation": "/nix/store/8qc8w4d9aia63y0wi1xrq04b3zklw5xq-heroku-10.16.0.drv",
-      "description": "Everything you need to get started using Heroku",
-      "install_id": "heroku",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "heroku-10.16.0",
-      "pname": "heroku",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T08:01:33.311089Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "10.16.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/l120gh987p9r0jdllspd78nql1w47g1c-heroku-10.16.0"
-      },
-      "system": "x86_64-darwin",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "heroku",
-      "broken": false,
-      "derivation": "/nix/store/zv0g4yr1akfnphccy4phgar55bgxdj9v-heroku-10.16.0.drv",
-      "description": "Everything you need to get started using Heroku",
-      "install_id": "heroku",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "heroku-10.16.0",
-      "pname": "heroku",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T08:32:29.922367Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "10.16.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/cds44xkmzchqgy08r84hzikp2hp9q0gv-heroku-10.16.0"
-      },
-      "system": "x86_64-linux",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "ngrok",
-      "broken": false,
-      "derivation": "/nix/store/alqxjffrnjn29gn7k9sg3vkl7gsfacq7-ngrok-3.31.0.drv",
-      "description": "Allows you to expose a web server running on your local machine to the internet",
-      "install_id": "ngrok",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "ngrok-3.31.0",
-      "pname": "ngrok",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T07:06:14.792286Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "3.31.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/96n31x033rnwkaqa6fbrjvsd5mr3bk12-ngrok-3.31.0"
-      },
-      "system": "aarch64-darwin",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "ngrok",
-      "broken": false,
-      "derivation": "/nix/store/960j04yb9mp1kc7jpr3mk6hjv0m4n7jl-ngrok-3.31.0.drv",
-      "description": "Allows you to expose a web server running on your local machine to the internet",
-      "install_id": "ngrok",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "ngrok-3.31.0",
-      "pname": "ngrok",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T07:34:05.459393Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "3.31.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/2i4hr4jya48aqalp90hy94fpi7qqc7il-ngrok-3.31.0"
-      },
-      "system": "aarch64-linux",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "ngrok",
-      "broken": false,
-      "derivation": "/nix/store/84z90i051gi3ylh15dymydw041wzxvhi-ngrok-3.31.0.drv",
-      "description": "Allows you to expose a web server running on your local machine to the internet",
-      "install_id": "ngrok",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "ngrok-3.31.0",
-      "pname": "ngrok",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T08:01:42.200392Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "3.31.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/hwhs13l30dbyvrj2z54cidvba090h41d-ngrok-3.31.0"
-      },
-      "system": "x86_64-darwin",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "ngrok",
-      "broken": false,
-      "derivation": "/nix/store/q188k5z7d3c14bifmhcfd84w2jawn6zj-ngrok-3.31.0.drv",
-      "description": "Allows you to expose a web server running on your local machine to the internet",
-      "install_id": "ngrok",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "ngrok-3.31.0",
-      "pname": "ngrok",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T08:32:49.811888Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "3.31.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/p94aphaphrlmgvwcz8qmwlsywp6v3439-ngrok-3.31.0"
-      },
-      "system": "x86_64-linux",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "pre-commit",
-      "broken": false,
-      "derivation": "/nix/store/jqq99ripb8zzqhmg0fyx5dmn9qdms9l4-pre-commit-4.5.1.drv",
-      "description": "Framework for managing and maintaining multi-language pre-commit hooks",
-      "install_id": "pre-commit",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "pre-commit-4.5.1",
-      "pname": "pre-commit",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T07:06:30.203065Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "4.5.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "dist": "/nix/store/nc7n6xzxylg7yz99wpvya66fa59nj4ia-pre-commit-4.5.1-dist",
-        "out": "/nix/store/4y39fninb80ps3y1bnc7xyv31b775iv4-pre-commit-4.5.1"
-      },
-      "system": "aarch64-darwin",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "pre-commit",
-      "broken": false,
-      "derivation": "/nix/store/s0w4mm3rj7iq1i87ra3fsh6q4j65a51q-pre-commit-4.5.1.drv",
-      "description": "Framework for managing and maintaining multi-language pre-commit hooks",
-      "install_id": "pre-commit",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "pre-commit-4.5.1",
-      "pname": "pre-commit",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T07:34:26.228139Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "4.5.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "dist": "/nix/store/g115vm8wcjg1xrr4jzyrr75dain0q6lc-pre-commit-4.5.1-dist",
-        "out": "/nix/store/92335zilycqlwb1274csqaya0x026asa-pre-commit-4.5.1"
-      },
-      "system": "aarch64-linux",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "pre-commit",
-      "broken": false,
-      "derivation": "/nix/store/6k4v5y1ys2vai85k1ii10b46lw3f3v2w-pre-commit-4.5.1.drv",
-      "description": "Framework for managing and maintaining multi-language pre-commit hooks",
-      "install_id": "pre-commit",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "pre-commit-4.5.1",
-      "pname": "pre-commit",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T08:01:58.718446Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "4.5.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "dist": "/nix/store/07bqg3w88gl45vrx21x6rbnsg8c8p5xc-pre-commit-4.5.1-dist",
-        "out": "/nix/store/cyg8p7vsriyvh8ciq8iv1p8x33vcjia8-pre-commit-4.5.1"
-      },
-      "system": "x86_64-darwin",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "pre-commit",
-      "broken": false,
-      "derivation": "/nix/store/h8qghjz9jfrr8k6l4kk2xvcd3vshmnmw-pre-commit-4.5.1.drv",
-      "description": "Framework for managing and maintaining multi-language pre-commit hooks",
-      "install_id": "pre-commit",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "pre-commit-4.5.1",
-      "pname": "pre-commit",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T08:33:12.805385Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "4.5.1",
-      "outputs_to_install": [
-        "out",
-        "out"
-      ],
-      "outputs": {
-        "dist": "/nix/store/wrwjqaz58lnq793za7qlk50zsbrqywpd-pre-commit-4.5.1-dist",
-        "out": "/nix/store/vahfa5p05q8zyjhj47i4543nzd47y24n-pre-commit-4.5.1"
-      },
-      "system": "x86_64-linux",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/1q03akap98v9i47i3py8p8a6xbnwgy32-sprite-0.0.1-rc43.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "sprite-0.0.1-rc43",
-      "pname": "sprite",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T07:07:39.445644Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc43",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/cggfawf5h0rb5dd6g1kfkkjimm21dvz7-sprite-0.0.1-rc43"
-      },
-      "system": "aarch64-darwin",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/fza7i61jb7ivbip8vgf3nasn0ammfg8g-sprite-0.0.1-rc43.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "sprite-0.0.1-rc43",
-      "pname": "sprite",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T07:35:52.387989Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc43",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/0nqjg7hyy4sy0lpwpj85n4p4kq4d1psh-sprite-0.0.1-rc43"
-      },
-      "system": "aarch64-linux",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/41bmbcsb604qdh20agh406q5bkzqv240-sprite-0.0.1-rc43.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "sprite-0.0.1-rc43",
-      "pname": "sprite",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T08:03:12.790105Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc43",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/dxpcpjnzhyjj0xn95h9i6vc0k5gc80zc-sprite-0.0.1-rc43"
-      },
-      "system": "x86_64-darwin",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/195jxm8c9vb63w8609qx7fwqn6rpz8rr-sprite-0.0.1-rc43.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d233902339c02a9c334e7e593de68855ad26c4cb",
-      "name": "sprite-0.0.1-rc43",
-      "pname": "sprite",
-      "rev": "d233902339c02a9c334e7e593de68855ad26c4cb",
-      "rev_count": 998534,
-      "rev_date": "2026-05-15T18:21:44Z",
-      "scrape_date": "2026-05-17T08:34:44.743965Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc43",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/0q4s0dbglifrgahqp3hc0233lphs3szd-sprite-0.0.1-rc43"
-      },
-      "system": "x86_64-linux",
-      "group": "dev-tools",
+      "group": "btop",
       "priority": 5
     }
   ]

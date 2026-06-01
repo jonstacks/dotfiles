@@ -9,6 +9,8 @@ schema-version = "1.11.0"
 [install]
 
 # Shell tools
+btop.pkg-path = "btop"
+btop.pkg-group = "btop"
 direnv.pkg-path = "direnv"
 direnv.pkg-group = "shell-tools"
 eza.pkg-path = "eza"
