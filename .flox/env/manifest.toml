@@ -70,13 +70,15 @@ sprite.pkg-path = "sprite"
 sprite.pkg-group = "dev-tools"
 
 # AI tools
+antigravity-cli.pkg-path = "antigravity-cli"
+antigravity-cli.pkg-group = "ai-tools"
+antigravity-cli.version = "1.0.3"
 beads.pkg-path = "beads"
 beads.pkg-group = "ai-tools"
 claude-code.pkg-path = "claude-code"
 claude-code.pkg-group = "ai-tools"
-github-copilot-cli.pkg-path = "github-copilot-cli"
+github-copilot-cli.pkg-path = "flox/copilot-cli"
 github-copilot-cli.pkg-group = "dev-tools"
-github-copilot-cli.version = ">=1.0.44"
 
 ## Environment Variables ---------------------------------------------
 ##  ... available for use in the activated environment
