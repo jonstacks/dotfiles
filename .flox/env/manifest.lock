@@ -100,7 +100,7 @@
       },
       "sprite": {
         "pkg-path": "sprite",
-        "pkg-group": "dev-tools"
+        "pkg-group": "sprite"
       },
       "starship": {
         "pkg-path": "starship",
@@ -137,28 +137,28 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/wn7wbsywngmr4fdnr9rprwc7470kyd3w-claude-code-2.1.185.drv",
+      "derivation": "/nix/store/79nn0fignbrcalx4pblyval1bqwrv0q2-claude-code-2.1.193.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs.git?rev=05d20dea9caf84413cf63c92028c4723a8643d23",
-      "name": "claude-code-2.1.185",
+      "locked_url": "https://github.com/flox/floxenvs?rev=d9a633704b2f74143af5218941580b41cb8f34f5",
+      "name": "claude-code-2.1.193",
       "pname": "claude-code",
-      "rev": "05d20dea9caf84413cf63c92028c4723a8643d23",
-      "rev_count": 9806,
-      "rev_date": "2026-06-21T20:51:38Z",
-      "scrape_date": "2026-06-23T14:12:43.373297914Z",
+      "rev": "d9a633704b2f74143af5218941580b41cb8f34f5",
+      "rev_count": 11117,
+      "rev_date": "2026-06-26T20:01:20Z",
+      "scrape_date": "2026-06-29T13:45:51.682416718Z",
       "stabilities": [
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "2.1.185",
+      "version": "2.1.193",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/sbpcbyd1chn48y5inzi8ja50gh4n9a3d-claude-code-2.1.185"
+        "out": "/nix/store/xcyij2kh9q9x45xffx4zzajxf1l4vdxr-claude-code-2.1.193"
       },
       "system": "aarch64-darwin",
       "group": "ai-claude",
@@ -167,28 +167,28 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/x60z3sbqf4f4spfv4hcrawygm5d071g4-claude-code-2.1.185.drv",
+      "derivation": "/nix/store/w6j80fh1xz5ilpp058090ky0kv4c0vz5-claude-code-2.1.193.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=9335e0828de86d7cbcc83f38226518302179a50a",
-      "name": "claude-code-2.1.185",
+      "locked_url": "https://github.com/flox/floxenvs?rev=d9a633704b2f74143af5218941580b41cb8f34f5",
+      "name": "claude-code-2.1.193",
       "pname": "claude-code",
-      "rev": "9335e0828de86d7cbcc83f38226518302179a50a",
-      "rev_count": 9730,
-      "rev_date": "2026-06-21T19:11:38Z",
-      "scrape_date": "2026-06-23T14:12:43.373301351Z",
+      "rev": "d9a633704b2f74143af5218941580b41cb8f34f5",
+      "rev_count": 11117,
+      "rev_date": "2026-06-26T20:01:20Z",
+      "scrape_date": "2026-06-29T13:45:51.682421998Z",
       "stabilities": [
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "2.1.185",
+      "version": "2.1.193",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/yziz37g9nyqrknbjz6i8w8yyj9ngrkq6-claude-code-2.1.185"
+        "out": "/nix/store/9w2z8m8yp7ybh4g870wncnvcksg5i9kj-claude-code-2.1.193"
       },
       "system": "aarch64-linux",
       "group": "ai-claude",
@@ -197,28 +197,28 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/q748m3a5v9482951r67zx3291vhn08sr-claude-code-2.1.185.drv",
+      "derivation": "/nix/store/ap2wwyy4aq24q3mwihq5d9cgk49zy16n-claude-code-2.1.193.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=9335e0828de86d7cbcc83f38226518302179a50a",
-      "name": "claude-code-2.1.185",
+      "locked_url": "https://github.com/flox/floxenvs?rev=d9a633704b2f74143af5218941580b41cb8f34f5",
+      "name": "claude-code-2.1.193",
       "pname": "claude-code",
-      "rev": "9335e0828de86d7cbcc83f38226518302179a50a",
-      "rev_count": 9730,
-      "rev_date": "2026-06-21T19:11:38Z",
-      "scrape_date": "2026-06-23T14:12:43.373301882Z",
+      "rev": "d9a633704b2f74143af5218941580b41cb8f34f5",
+      "rev_count": 11117,
+      "rev_date": "2026-06-26T20:01:20Z",
+      "scrape_date": "2026-06-29T13:45:51.682422700Z",
       "stabilities": [
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "2.1.185",
+      "version": "2.1.193",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/zirfy7jc92j9l4is7hgqkdqgpfnm0qal-claude-code-2.1.185"
+        "out": "/nix/store/m80dbmv5xizmijdlyy7lsfcjn8qqd44i-claude-code-2.1.193"
       },
       "system": "x86_64-darwin",
       "group": "ai-claude",
@@ -227,28 +227,28 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/83pw5bgy4llmy9lg3vm2rzqqv7p95ffl-claude-code-2.1.185.drv",
+      "derivation": "/nix/store/qz120rj5i1x33s8ws4nysi8593lrrh86-claude-code-2.1.193.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs.git?rev=05d20dea9caf84413cf63c92028c4723a8643d23",
-      "name": "claude-code-2.1.185",
+      "locked_url": "https://github.com/flox/floxenvs?rev=d9a633704b2f74143af5218941580b41cb8f34f5",
+      "name": "claude-code-2.1.193",
       "pname": "claude-code",
-      "rev": "05d20dea9caf84413cf63c92028c4723a8643d23",
-      "rev_count": 9806,
-      "rev_date": "2026-06-21T20:51:38Z",
-      "scrape_date": "2026-06-23T14:12:43.373302282Z",
+      "rev": "d9a633704b2f74143af5218941580b41cb8f34f5",
+      "rev_count": 11117,
+      "rev_date": "2026-06-26T20:01:20Z",
+      "scrape_date": "2026-06-29T13:45:51.682423351Z",
       "stabilities": [
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "2.1.185",
+      "version": "2.1.193",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/rbf0yabs53cm1anwnfjkm0crpvsj1kyw-claude-code-2.1.185"
+        "out": "/nix/store/02a6hgpy1x6aq770vvx05p0a77x3wqj7-claude-code-2.1.193"
       },
       "system": "x86_64-linux",
       "group": "ai-claude",
@@ -489,19 +489,18 @@
     {
       "attr_path": "btop",
       "broken": false,
-      "derivation": "/nix/store/f45clqvmr417m9khsc7zxiq4249wc0p8-btop-1.4.7.drv",
+      "derivation": "/nix/store/gdsv1ingzvw05jkgpwjgc9cja5ar1n5h-btop-1.4.7.drv",
       "description": "Monitor of resources",
       "install_id": "btop",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "btop-1.4.7",
       "pname": "btop",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:13:13.706944Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:16:43.116539Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -510,7 +509,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/qlpn820im5b36q9pf6i80ahj8fdispkv-btop-1.4.7"
+        "out": "/nix/store/cv1xm2vck1v3d8zzidskz5hrj7wr7vy9-btop-1.4.7"
       },
       "system": "aarch64-darwin",
       "group": "btop",
@@ -519,19 +518,18 @@
     {
       "attr_path": "btop",
       "broken": false,
-      "derivation": "/nix/store/0k0fjipgck2ybxksi6x0w5dnfd7wjvd8-btop-1.4.7.drv",
+      "derivation": "/nix/store/gsxx8xdhm8ga54j1q8hgnqdd9lsjahlv-btop-1.4.7.drv",
       "description": "Monitor of resources",
       "install_id": "btop",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "btop-1.4.7",
       "pname": "btop",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:44:08.047518Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:49:22.627910Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -540,7 +538,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/zik59i3sarl472n49sg9x4wa4xxh95d0-btop-1.4.7"
+        "out": "/nix/store/801gmcfwicjahfrkhzpzlv7w6nysyjyc-btop-1.4.7"
       },
       "system": "aarch64-linux",
       "group": "btop",
@@ -549,19 +547,18 @@
     {
       "attr_path": "btop",
       "broken": false,
-      "derivation": "/nix/store/lm5fwv2gpyf3jwhrlps9hampc86kkdcm-btop-1.4.7.drv",
+      "derivation": "/nix/store/1p4bl4mi3s9xxmb61zzhs1jk7j4rfs72-btop-1.4.7.drv",
       "description": "Monitor of resources",
       "install_id": "btop",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "btop-1.4.7",
       "pname": "btop",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:13:05.965199Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:21:04.326865Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -570,7 +567,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/y9szcag8b7d4byqk7134441m4lwny24f-btop-1.4.7"
+        "out": "/nix/store/df7ia770i2p7dskap0cj6iq3ag65l44f-btop-1.4.7"
       },
       "system": "x86_64-darwin",
       "group": "btop",
@@ -579,19 +576,18 @@
     {
       "attr_path": "btop",
       "broken": false,
-      "derivation": "/nix/store/nxjghb55idxpixkxqa3p8bqivfk65h97-btop-1.4.7.drv",
+      "derivation": "/nix/store/ybsrvychn6jqvjcjcy40q76mlchmyqid-btop-1.4.7.drv",
       "description": "Monitor of resources",
       "install_id": "btop",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "btop-1.4.7",
       "pname": "btop",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:47:04.062514Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:55:44.177443Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -600,7 +596,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/d2a48mxsm97f6p63yzrs8h50xp9ifcqj-btop-1.4.7"
+        "out": "/nix/store/hp7xlnx67l3idd6va283jfn423nigcm2-btop-1.4.7"
       },
       "system": "x86_64-linux",
       "group": "btop",
@@ -743,7 +739,7 @@
       "rev": "05d20dea9caf84413cf63c92028c4723a8643d23",
       "rev_count": 9806,
       "rev_date": "2026-06-21T20:51:38Z",
-      "scrape_date": "2026-06-23T14:12:43.373355447Z",
+      "scrape_date": "2026-06-29T13:45:51.682500131Z",
       "stabilities": [
         "staging",
         "unstable"
@@ -773,7 +769,7 @@
       "rev": "9335e0828de86d7cbcc83f38226518302179a50a",
       "rev_count": 9730,
       "rev_date": "2026-06-21T19:11:38Z",
-      "scrape_date": "2026-06-23T14:12:43.373355807Z",
+      "scrape_date": "2026-06-29T13:45:51.682500852Z",
       "stabilities": [
         "staging",
         "unstable"
@@ -803,7 +799,7 @@
       "rev": "05d20dea9caf84413cf63c92028c4723a8643d23",
       "rev_count": 9806,
       "rev_date": "2026-06-21T20:51:38Z",
-      "scrape_date": "2026-06-23T14:12:43.373356248Z",
+      "scrape_date": "2026-06-29T13:45:51.682501414Z",
       "stabilities": [
         "staging",
         "unstable"
@@ -833,7 +829,7 @@
       "rev": "05d20dea9caf84413cf63c92028c4723a8643d23",
       "rev_count": 9806,
       "rev_date": "2026-06-21T20:51:38Z",
-      "scrape_date": "2026-06-23T14:12:43.373356649Z",
+      "scrape_date": "2026-06-29T13:45:51.682502145Z",
       "stabilities": [
         "staging",
         "unstable"
@@ -1216,141 +1212,20 @@
       "priority": 5
     },
     {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/a3fwg6rkffmc7wm7x9f3ais3pqkyrpqk-sprite-0.0.1-rc43.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "name": "sprite-0.0.1-rc43",
-      "pname": "sprite",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:15:14.099492Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc43",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/cr7k9ijzp096kb519zvvczqqzm9n34nr-sprite-0.0.1-rc43"
-      },
-      "system": "aarch64-darwin",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/hbgbxc74j3d69jkjmmx2g7qmpil2wp2a-sprite-0.0.1-rc43.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "name": "sprite-0.0.1-rc43",
-      "pname": "sprite",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:46:40.897561Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc43",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/5w3d9c17pyp2dw48milvqlv7g6kb8cjx-sprite-0.0.1-rc43"
-      },
-      "system": "aarch64-linux",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/mkmsf78s4wvhpi9zi3438qld3nzqg5xy-sprite-0.0.1-rc43.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "name": "sprite-0.0.1-rc43",
-      "pname": "sprite",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:15:07.743324Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc43",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/2bx9lbciv212rihb70pxbxhcny7pksg6-sprite-0.0.1-rc43"
-      },
-      "system": "x86_64-darwin",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/nqwq4ws9ky3n9xahg49054sifgvn4rjk-sprite-0.0.1-rc43.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "name": "sprite-0.0.1-rc43",
-      "pname": "sprite",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:49:43.925410Z",
-      "stabilities": [
-        "staging",
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc43",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/1ijk2k7kx9k490d299vvczq8gnnmcdcz-sprite-0.0.1-rc43"
-      },
-      "system": "x86_64-linux",
-      "group": "dev-tools",
-      "priority": 5
-    },
-    {
       "attr_path": "nano",
       "broken": false,
-      "derivation": "/nix/store/n3rhad08zj0ind62shbv7mn88dykx7xy-nano-9.0.drv",
+      "derivation": "/nix/store/hv4z5qzrazy4jsjkab96b3fiq0qhsbdn-nano-9.0.drv",
       "description": "Small, user-friendly console text editor",
       "install_id": "nano",
       "license": "GPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "nano-9.0",
       "pname": "nano",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:13:38.159664Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:17:07.210781Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1360,10 +1235,10 @@
         "out"
       ],
       "outputs": {
-        "doc": "/nix/store/qihbic7fj93f9g5ysrvms4da6i28d7dy-nano-9.0-doc",
-        "info": "/nix/store/0r1q8z9rrg2zcdg154gspms0gb1rg80b-nano-9.0-info",
-        "man": "/nix/store/g05022cm9wjxdvz7wnd47v641qz73mbw-nano-9.0-man",
-        "out": "/nix/store/7f4l5kwzk7fwgpmanhq72vrkljj92w5d-nano-9.0"
+        "doc": "/nix/store/4gyqql426ja7rz8q2kj73z3s8z6xwf6l-nano-9.0-doc",
+        "info": "/nix/store/cqz4hb2n84z71hpy0ccb4pnyqwv382bx-nano-9.0-info",
+        "man": "/nix/store/99ww0mjk4cngd8qkwqyjz1qdaqc83k36-nano-9.0-man",
+        "out": "/nix/store/v114dg12n6k8ax99ibxs99zmfs9q474k-nano-9.0"
       },
       "system": "aarch64-darwin",
       "group": "editors",
@@ -1372,19 +1247,18 @@
     {
       "attr_path": "nano",
       "broken": false,
-      "derivation": "/nix/store/jb71zjrx0ggakrz2gav23f4m6ilcm64q-nano-9.0.drv",
+      "derivation": "/nix/store/andl3h84whaayifhw8scffr0vc9h49h7-nano-9.0.drv",
       "description": "Small, user-friendly console text editor",
       "install_id": "nano",
       "license": "GPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "nano-9.0",
       "pname": "nano",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:44:46.559007Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:49:59.378742Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1394,10 +1268,10 @@
         "out"
       ],
       "outputs": {
-        "doc": "/nix/store/z08774ph4356s6hh13g86bnzng27055r-nano-9.0-doc",
-        "info": "/nix/store/m8y8jxbh8z22csam52xbfww99yalf46x-nano-9.0-info",
-        "man": "/nix/store/pmrhz9gb9a6a8ab1154hs4w8vldnkacb-nano-9.0-man",
-        "out": "/nix/store/9pnrq2a898bkykmdwylpn5jnyln8b2i4-nano-9.0"
+        "doc": "/nix/store/gnk9wm010acal17ixirag7cfwr7h9b8d-nano-9.0-doc",
+        "info": "/nix/store/f3jjis4h40af6fkgvhjgp8ypqiipd8d3-nano-9.0-info",
+        "man": "/nix/store/3nm096gpczqfx583bm5d764dk0yfs85j-nano-9.0-man",
+        "out": "/nix/store/hmrpb02cb4w39ib28asml90985q9wvs9-nano-9.0"
       },
       "system": "aarch64-linux",
       "group": "editors",
@@ -1406,19 +1280,18 @@
     {
       "attr_path": "nano",
       "broken": false,
-      "derivation": "/nix/store/bf3hfx1vmf00kklaghdvkzizay8fxg2y-nano-9.0.drv",
+      "derivation": "/nix/store/sjhzsfdl28p4811xfy3310nyd09gns9r-nano-9.0.drv",
       "description": "Small, user-friendly console text editor",
       "install_id": "nano",
       "license": "GPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "nano-9.0",
       "pname": "nano",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:13:31.365661Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:21:28.922053Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1428,10 +1301,10 @@
         "out"
       ],
       "outputs": {
-        "doc": "/nix/store/61z1wxi0rzl0haf1jw2w30nnsp05mfsx-nano-9.0-doc",
-        "info": "/nix/store/hshizaxrjk59ic38a2y2yllsq8d0x19q-nano-9.0-info",
-        "man": "/nix/store/2rxd89c7lvfawwmsiz332dcr48sm8dhw-nano-9.0-man",
-        "out": "/nix/store/yiga0iv8rxwsx7cvs19y2469dwpqcjmb-nano-9.0"
+        "doc": "/nix/store/fckm3sbdqpc0yx1wfb2zxxf4pm6ykvwq-nano-9.0-doc",
+        "info": "/nix/store/6h14lpwkm3gawdk1ppb25707bab4lxm4-nano-9.0-info",
+        "man": "/nix/store/sw2yblfbpjwz0yzysb11jp48wfnb9s4j-nano-9.0-man",
+        "out": "/nix/store/4is3xsw9vvkfq09ad0md3bs8rmk8fnb0-nano-9.0"
       },
       "system": "x86_64-darwin",
       "group": "editors",
@@ -1440,19 +1313,18 @@
     {
       "attr_path": "nano",
       "broken": false,
-      "derivation": "/nix/store/05w8ymhh1icmnjldbfx84na9cnzcwyr7-nano-9.0.drv",
+      "derivation": "/nix/store/674dcq56w7xs35jf38lpi7yh23v0szk6-nano-9.0.drv",
       "description": "Small, user-friendly console text editor",
       "install_id": "nano",
       "license": "GPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "nano-9.0",
       "pname": "nano",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:47:46.269669Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:56:24.755344Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1462,10 +1334,10 @@
         "out"
       ],
       "outputs": {
-        "doc": "/nix/store/jc1f8dk3mv6q1y1jp56fvfvmh9631wpv-nano-9.0-doc",
-        "info": "/nix/store/rpwyax8a5f6wafry3pzd3d2qj2f5li50-nano-9.0-info",
-        "man": "/nix/store/6k7iq1b4dg5wdnf9ik96sz6gmk5s0bza-nano-9.0-man",
-        "out": "/nix/store/2vwaypq7ixwzmxsx75abwiljf74yz5sp-nano-9.0"
+        "doc": "/nix/store/rxlzg03jsgvmiah5l29xza9y8c6kf62d-nano-9.0-doc",
+        "info": "/nix/store/qk89x634ycb0lzc8jy07ba40mknhcjcv-nano-9.0-info",
+        "man": "/nix/store/iy447lrrnignzy5ggysk1zvypyai0aqv-nano-9.0-man",
+        "out": "/nix/store/kay8v2dbll95bn9ybi4hbl20lc5s4iq6-nano-9.0"
       },
       "system": "x86_64-linux",
       "group": "editors",
@@ -1474,19 +1346,18 @@
     {
       "attr_path": "vim",
       "broken": false,
-      "derivation": "/nix/store/1q5qn5ff82nhrk1p0wnrf7dgir17xbhd-vim-9.2.0389.drv",
+      "derivation": "/nix/store/ry3x57ws6mdghw394skdkxn5sfna8kp2-vim-9.2.0389.drv",
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "vim-9.2.0389",
       "pname": "vim",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:16:02.901626Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:19:21.704598Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1496,8 +1367,8 @@
         "xxd"
       ],
       "outputs": {
-        "out": "/nix/store/6vbkykg92w603c0sw3mkk7p7mfaawbns-vim-9.2.0389",
-        "xxd": "/nix/store/9iv8rc5y9i1xb59630q4vd9091imvrm3-vim-9.2.0389-xxd"
+        "out": "/nix/store/2l4likjhz0bhdg80bvy076x7sn3qghgh-vim-9.2.0389",
+        "xxd": "/nix/store/4i8fx9f0qfrkls87hja9qjcx6air09dl-vim-9.2.0389-xxd"
       },
       "system": "aarch64-darwin",
       "group": "editors",
@@ -1506,19 +1377,18 @@
     {
       "attr_path": "vim",
       "broken": false,
-      "derivation": "/nix/store/rv0ibdr5njhpnndhvcqkch8pg509wgqd-vim-9.2.0389.drv",
+      "derivation": "/nix/store/g33kp8y3dhg5kxn370391k97r6wy9kzh-vim-9.2.0389.drv",
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "vim-9.2.0389",
       "pname": "vim",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:47:43.799581Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:52:47.124821Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1528,8 +1398,8 @@
         "xxd"
       ],
       "outputs": {
-        "out": "/nix/store/v8c7pvx26irvy9k5sbwd183cyvckzzb3-vim-9.2.0389",
-        "xxd": "/nix/store/ylzgwhwcdpk88zgfxxqqcq9k15j8ii2p-vim-9.2.0389-xxd"
+        "out": "/nix/store/jwsp1cfhrpdf68iq3kir2awf4szw4myk-vim-9.2.0389",
+        "xxd": "/nix/store/fv231nvb56ynwyml4xp7qr6myamf9maz-vim-9.2.0389-xxd"
       },
       "system": "aarch64-linux",
       "group": "editors",
@@ -1538,19 +1408,18 @@
     {
       "attr_path": "vim",
       "broken": false,
-      "derivation": "/nix/store/bp28n9y2zlyczrb7w6hsam7jq6rmk35y-vim-9.2.0389.drv",
+      "derivation": "/nix/store/149z7jb4ny471x9flbi5hkfh7nxsdqk5-vim-9.2.0389.drv",
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "vim-9.2.0389",
       "pname": "vim",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:15:56.928873Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:23:41.185354Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1560,8 +1429,8 @@
         "xxd"
       ],
       "outputs": {
-        "out": "/nix/store/s8z8fl451bwm9l3fclyswk340nfjpnsd-vim-9.2.0389",
-        "xxd": "/nix/store/wbadf0b67q8srdvs1br31z1xflcwv1ln-vim-9.2.0389-xxd"
+        "out": "/nix/store/adx7z7bn6jw2ckvda8wvzw8s1n88s5vp-vim-9.2.0389",
+        "xxd": "/nix/store/7pi53f7wr9y363igm8iiqa1dbhnlrbdm-vim-9.2.0389-xxd"
       },
       "system": "x86_64-darwin",
       "group": "editors",
@@ -1570,19 +1439,18 @@
     {
       "attr_path": "vim",
       "broken": false,
-      "derivation": "/nix/store/4ql9hd0y1lf1rg5gy0grqgscnbfsal0f-vim-9.2.0389.drv",
+      "derivation": "/nix/store/ia4q639ypp1qzvzc6n18q257806jh53d-vim-9.2.0389.drv",
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "vim-9.2.0389",
       "pname": "vim",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:50:47.109697Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:59:18.682874Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1592,8 +1460,8 @@
         "xxd"
       ],
       "outputs": {
-        "out": "/nix/store/hvyqx52g4g2fxhgpans3fksjj6lmlyaw-vim-9.2.0389",
-        "xxd": "/nix/store/3sj58myrhxqip9kyvci9pm7836mbnhrh-vim-9.2.0389-xxd"
+        "out": "/nix/store/jsmihdnq58nj9r7dvzdayyb0z5l79w9n-vim-9.2.0389",
+        "xxd": "/nix/store/5blvkzgmb8faam0hfn1bj9m2ys95ayy1-vim-9.2.0389-xxd"
       },
       "system": "x86_64-linux",
       "group": "editors",
@@ -1602,28 +1470,27 @@
     {
       "attr_path": "go",
       "broken": false,
-      "derivation": "/nix/store/3wcz439vgpp14pn7jmfnhj1gfjz16pfm-go-1.26.3.drv",
+      "derivation": "/nix/store/0j94l4ngkz3fppqd0wxqsvjwri4fny1y-go-1.26.4.drv",
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "name": "go-1.26.3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "go-1.26.4",
       "pname": "go",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:13:14.979907Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:16:44.385641Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "1.26.3",
+      "version": "1.26.4",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/7ycp8j45iay38g9mjaxmy4jhwdsrb47y-go-1.26.3"
+        "out": "/nix/store/kyai650rrywrzflnwda9mbk2c2j9w68r-go-1.26.4"
       },
       "system": "aarch64-darwin",
       "group": "go",
@@ -1632,28 +1499,27 @@
     {
       "attr_path": "go",
       "broken": false,
-      "derivation": "/nix/store/350ianh8b5f8pz5rb79f6hbjkzyglzn5-go-1.26.3.drv",
+      "derivation": "/nix/store/a402qx3ryvfilga56w29z0izz6jgi7gi-go-1.26.4.drv",
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "name": "go-1.26.3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "go-1.26.4",
       "pname": "go",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:44:10.523965Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:49:25.021336Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "1.26.3",
+      "version": "1.26.4",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/jkcwcbwvhgzmxg59798z4clmj4bfv42i-go-1.26.3"
+        "out": "/nix/store/lgcj27hrbanbc93xm9zdrldds7b1jrw8-go-1.26.4"
       },
       "system": "aarch64-linux",
       "group": "go",
@@ -1662,28 +1528,27 @@
     {
       "attr_path": "go",
       "broken": false,
-      "derivation": "/nix/store/7injq3dc4gh49fwhgh403kf7n1y6f9ci-go-1.26.3.drv",
+      "derivation": "/nix/store/0lvbzgq250sass3jyxxvpamk09gcnym3-go-1.26.4.drv",
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "name": "go-1.26.3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "go-1.26.4",
       "pname": "go",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:13:07.336579Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:21:05.637364Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "1.26.3",
+      "version": "1.26.4",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/3f2jzvxmhhlarjqxy1p7i9r5l34siz29-go-1.26.3"
+        "out": "/nix/store/h0z6ghmi3cihlbm163d72xs9p9nn04a1-go-1.26.4"
       },
       "system": "x86_64-darwin",
       "group": "go",
@@ -1692,29 +1557,27 @@
     {
       "attr_path": "go",
       "broken": false,
-      "derivation": "/nix/store/zalhv7i71i9c3v7vm61psf2arglbzjfg-go-1.26.3.drv",
+      "derivation": "/nix/store/z0b6qhv17xys7hfpnxmk0vm31nc3pxdf-go-1.26.4.drv",
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "name": "go-1.26.3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "go-1.26.4",
       "pname": "go",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:47:06.772425Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:55:46.870590Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "1.26.3",
+      "version": "1.26.4",
       "outputs_to_install": [
-        "out",
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/33fw5m31lfcnk4ff2f0df7j2bxnh8lgk-go-1.26.3"
+        "out": "/nix/store/gb0njhqswlc5n127ikgyikvq39r40l6f-go-1.26.4"
       },
       "system": "x86_64-linux",
       "group": "go",
@@ -2696,30 +2559,27 @@
     {
       "attr_path": "nodejs",
       "broken": false,
-      "derivation": "/nix/store/vbx35am7lar9zvwhk4nfl3lysmbd0ils-nodejs-24.15.0.drv",
+      "derivation": "/nix/store/1a0cn85p1mwixhwy16db7v2652pz7l8g-nodejs-24.16.0.drv",
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "name": "nodejs-24.15.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "nodejs-24.16.0",
       "pname": "nodejs",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:13:39.213888Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:17:08.197943Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "24.15.0",
+      "version": "24.16.0",
       "outputs_to_install": [
-        "out",
-        "out",
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/3mvbmkd7lmxi3xlka1avra24flwbgjv9-nodejs-24.15.0"
+        "out": "/nix/store/1zm1xb652wk1kscxbcvbryq8y45b0gy5-nodejs-24.16.0"
       },
       "system": "aarch64-darwin",
       "group": "nodejs",
@@ -2728,29 +2588,27 @@
     {
       "attr_path": "nodejs",
       "broken": false,
-      "derivation": "/nix/store/zc41z1042wi0d1gmyc8mlwv5av8fds2q-nodejs-24.15.0.drv",
+      "derivation": "/nix/store/aay2n9r5ljwfvlva807p9f0p1vpwg7mb-nodejs-24.16.0.drv",
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "name": "nodejs-24.15.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "nodejs-24.16.0",
       "pname": "nodejs",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:44:48.128392Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:50:00.922428Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "24.15.0",
+      "version": "24.16.0",
       "outputs_to_install": [
-        "out",
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/rmdjmd0iy5zlyg0j2i1cd0s7ha1562fs-nodejs-24.15.0"
+        "out": "/nix/store/60vys190zxlx4k1jz0kyvk4vydzr7qml-nodejs-24.16.0"
       },
       "system": "aarch64-linux",
       "group": "nodejs",
@@ -2759,29 +2617,27 @@
     {
       "attr_path": "nodejs",
       "broken": false,
-      "derivation": "/nix/store/f0ay9hny5gn4c0lfrb95xrakm7yf3s2q-nodejs-24.15.0.drv",
+      "derivation": "/nix/store/yc1bpd21mkkawwxkq2zskmkqjmzwgv54-nodejs-24.16.0.drv",
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "name": "nodejs-24.15.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "nodejs-24.16.0",
       "pname": "nodejs",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:13:32.462339Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:21:29.941494Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "24.15.0",
+      "version": "24.16.0",
       "outputs_to_install": [
-        "out",
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/rhv8jiklgw2bw4ljh4nm3h3r3bpnkcl3-nodejs-24.15.0"
+        "out": "/nix/store/v04l0kjhdvbzkzrnw6ryf43dp8v0qapv-nodejs-24.16.0"
       },
       "system": "x86_64-darwin",
       "group": "nodejs",
@@ -2790,29 +2646,27 @@
     {
       "attr_path": "nodejs",
       "broken": false,
-      "derivation": "/nix/store/f8i8jydaqs0ngxm97c091zna2mnjb43f-nodejs-24.15.0.drv",
+      "derivation": "/nix/store/k9jn43g1p70zs7l9vgxh57aarg2s2jkv-nodejs-24.16.0.drv",
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "name": "nodejs-24.15.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "nodejs-24.16.0",
       "pname": "nodejs",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:47:47.914293Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:56:26.345327Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "24.15.0",
+      "version": "24.16.0",
       "outputs_to_install": [
-        "out",
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/5a8ysg1jnj8jmzzyfcfw7rvpvnp5rfpa-nodejs-24.15.0"
+        "out": "/nix/store/zvj0hl7rhh0ccr5vkcg3ijs3xm3sgyac-nodejs-24.16.0"
       },
       "system": "x86_64-linux",
       "group": "nodejs",
@@ -3448,19 +3302,18 @@
     {
       "attr_path": "starship",
       "broken": false,
-      "derivation": "/nix/store/6md82fh214rz0iabb43m4jbwkbr8z3cz-starship-1.25.1.drv",
+      "derivation": "/nix/store/zs59bhh63hlb4d5ncibzqj8iw07vvf5q-starship-1.25.1.drv",
       "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
       "install_id": "starship",
       "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "starship-1.25.1",
       "pname": "starship",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:15:14.657562Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:18:36.546039Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -3469,7 +3322,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/m9f8j44821984d29dwn1rbscq8sv1ibq-starship-1.25.1"
+        "out": "/nix/store/qkqzm1dngylqq2rb80lsxdfh73dmjy9f-starship-1.25.1"
       },
       "system": "aarch64-darwin",
       "group": "starship",
@@ -3478,19 +3331,18 @@
     {
       "attr_path": "starship",
       "broken": false,
-      "derivation": "/nix/store/d80y79d7x5z8rhg4rrqhr83drmy6s9vd-starship-1.25.1.drv",
+      "derivation": "/nix/store/8k6s6hmnrfc5x4s41jmacxrhcih0ghng-starship-1.25.1.drv",
       "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
       "install_id": "starship",
       "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "starship-1.25.1",
       "pname": "starship",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T03:46:41.625076Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:51:50.562583Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -3499,7 +3351,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/mvabjbivq379qb7lfl70idb6qjlxi2h0-starship-1.25.1"
+        "out": "/nix/store/4dk8lf6xqvfa180p841jm6ch7xzshfmw-starship-1.25.1"
       },
       "system": "aarch64-linux",
       "group": "starship",
@@ -3508,19 +3360,18 @@
     {
       "attr_path": "starship",
       "broken": false,
-      "derivation": "/nix/store/vmaq2z11p0apqlbj6nkk66rd43ddczq6-starship-1.25.1.drv",
+      "derivation": "/nix/store/iqcsy06dksvz434b3h676vz1qhsip95j-starship-1.25.1.drv",
       "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
       "install_id": "starship",
       "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "starship-1.25.1",
       "pname": "starship",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:15:08.292397Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:22:57.395693Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -3529,7 +3380,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/vvgxw2s2pcxkpsrh3p8kq5h8yaxra0ga-starship-1.25.1"
+        "out": "/nix/store/mkbyq3xy5r7fimb4j493wfvm441hxl5g-starship-1.25.1"
       },
       "system": "x86_64-darwin",
       "group": "starship",
@@ -3538,32 +3389,146 @@
     {
       "attr_path": "starship",
       "broken": false,
-      "derivation": "/nix/store/jvaij2zaxrp6dgbabwiw3zc7p37gdwqh-starship-1.25.1.drv",
+      "derivation": "/nix/store/m5s6gzh0bbq35lm4p9lbjn0ial6qm45s-starship-1.25.1.drv",
       "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
       "install_id": "starship",
       "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
       "name": "starship-1.25.1",
       "pname": "starship",
-      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
-      "rev_count": 1017464,
-      "rev_date": "2026-06-16T02:33:49Z",
-      "scrape_date": "2026-06-17T04:49:44.700333Z",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:58:18.838999Z",
       "stabilities": [
-        "staging",
         "unstable"
       ],
       "unfree": false,
       "version": "1.25.1",
       "outputs_to_install": [
-        "out",
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/2iyzhxjwbpir2n2xaqgq14v8455kbrri-starship-1.25.1"
+        "out": "/nix/store/2k8dhqxqc63cm948hicx8h1yb24y2iwi-starship-1.25.1"
       },
       "system": "x86_64-linux",
       "group": "starship",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/ia3zddfsycaz0c26vnd8w0qibilfpj16-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:18:36.036052Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/54s6fq65f9mxg4344an2abb69m8mywyn-sprite-0.0.1-rc44"
+      },
+      "system": "aarch64-darwin",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/jjns4wjh9llfbxzljdl1yqqs3igghprb-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:51:49.874177Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/b7l2m6mq1rqm3czyqrg42khzyj2035xq-sprite-0.0.1-rc44"
+      },
+      "system": "aarch64-linux",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/pk97biar2yd33iy91gl2wj14c7fvnpf8-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:22:56.903440Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/8h0rsjmgqzi557x94gwj0f25j7cw4snl-sprite-0.0.1-rc44"
+      },
+      "system": "x86_64-darwin",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/6m0cw0qajf2lf8ndpkmygmw3ngchyma9-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:58:18.100076Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/xx76zxga5fj3mpgzmv6brz5b5vrajx2n-sprite-0.0.1-rc44"
+      },
+      "system": "x86_64-linux",
+      "group": "sprite",
       "priority": 5
     }
   ]
