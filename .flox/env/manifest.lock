@@ -117,6 +117,10 @@
       "vim": {
         "pkg-path": "vim",
         "pkg-group": "editors"
+      },
+      "zoxide": {
+        "pkg-path": "zoxide",
+        "pkg-group": "shell-tools"
       }
     },
     "hook": {},
@@ -2673,6 +2677,238 @@
       "priority": 5
     },
     {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/ia3zddfsycaz0c26vnd8w0qibilfpj16-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:18:36.036052Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/54s6fq65f9mxg4344an2abb69m8mywyn-sprite-0.0.1-rc44"
+      },
+      "system": "aarch64-darwin",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/jjns4wjh9llfbxzljdl1yqqs3igghprb-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:51:49.874177Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/b7l2m6mq1rqm3czyqrg42khzyj2035xq-sprite-0.0.1-rc44"
+      },
+      "system": "aarch64-linux",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/pk97biar2yd33iy91gl2wj14c7fvnpf8-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:22:56.903440Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/8h0rsjmgqzi557x94gwj0f25j7cw4snl-sprite-0.0.1-rc44"
+      },
+      "system": "x86_64-darwin",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/6m0cw0qajf2lf8ndpkmygmw3ngchyma9-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:58:18.100076Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/xx76zxga5fj3mpgzmv6brz5b5vrajx2n-sprite-0.0.1-rc44"
+      },
+      "system": "x86_64-linux",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "starship",
+      "broken": false,
+      "derivation": "/nix/store/zs59bhh63hlb4d5ncibzqj8iw07vvf5q-starship-1.25.1.drv",
+      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
+      "install_id": "starship",
+      "license": "ISC",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "starship-1.25.1",
+      "pname": "starship",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:18:36.546039Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.25.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/qkqzm1dngylqq2rb80lsxdfh73dmjy9f-starship-1.25.1"
+      },
+      "system": "aarch64-darwin",
+      "group": "starship",
+      "priority": 5
+    },
+    {
+      "attr_path": "starship",
+      "broken": false,
+      "derivation": "/nix/store/8k6s6hmnrfc5x4s41jmacxrhcih0ghng-starship-1.25.1.drv",
+      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
+      "install_id": "starship",
+      "license": "ISC",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "starship-1.25.1",
+      "pname": "starship",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T03:51:50.562583Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.25.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/4dk8lf6xqvfa180p841jm6ch7xzshfmw-starship-1.25.1"
+      },
+      "system": "aarch64-linux",
+      "group": "starship",
+      "priority": 5
+    },
+    {
+      "attr_path": "starship",
+      "broken": false,
+      "derivation": "/nix/store/iqcsy06dksvz434b3h676vz1qhsip95j-starship-1.25.1.drv",
+      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
+      "install_id": "starship",
+      "license": "ISC",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "starship-1.25.1",
+      "pname": "starship",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:22:57.395693Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.25.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/mkbyq3xy5r7fimb4j493wfvm441hxl5g-starship-1.25.1"
+      },
+      "system": "x86_64-darwin",
+      "group": "starship",
+      "priority": 5
+    },
+    {
+      "attr_path": "starship",
+      "broken": false,
+      "derivation": "/nix/store/m5s6gzh0bbq35lm4p9lbjn0ial6qm45s-starship-1.25.1.drv",
+      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
+      "install_id": "starship",
+      "license": "ISC",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "name": "starship-1.25.1",
+      "pname": "starship",
+      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "rev_count": 1022855,
+      "rev_date": "2026-06-26T09:58:34Z",
+      "scrape_date": "2026-06-27T04:58:18.838999Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.25.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/2k8dhqxqc63cm948hicx8h1yb24y2iwi-starship-1.25.1"
+      },
+      "system": "x86_64-linux",
+      "group": "starship",
+      "priority": 5
+    },
+    {
       "attr_path": "direnv",
       "broken": false,
       "derivation": "/nix/store/jvbl2643v0ra7d7ncj67ki8y8lal65vn-direnv-2.37.1.drv",
@@ -3300,235 +3536,123 @@
       "priority": 5
     },
     {
-      "attr_path": "starship",
+      "attr_path": "zoxide",
       "broken": false,
-      "derivation": "/nix/store/zs59bhh63hlb4d5ncibzqj8iw07vvf5q-starship-1.25.1.drv",
-      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
-      "install_id": "starship",
-      "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "starship-1.25.1",
-      "pname": "starship",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:18:36.546039Z",
+      "derivation": "/nix/store/53r2l0x059i44qxndn45lnrli54p8gwd-zoxide-0.9.9.drv",
+      "description": "Fast cd command that learns your habits",
+      "install_id": "zoxide",
+      "license": "[ MIT ]",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "name": "zoxide-0.9.9",
+      "pname": "zoxide",
+      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "rev_count": 1017464,
+      "rev_date": "2026-06-16T02:33:49Z",
+      "scrape_date": "2026-06-17T03:16:20.072708Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "1.25.1",
+      "version": "0.9.9",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/qkqzm1dngylqq2rb80lsxdfh73dmjy9f-starship-1.25.1"
+        "out": "/nix/store/5d2paxw05l6091l9xqb2fgx608wxnxqq-zoxide-0.9.9"
       },
       "system": "aarch64-darwin",
-      "group": "starship",
+      "group": "shell-tools",
       "priority": 5
     },
     {
-      "attr_path": "starship",
+      "attr_path": "zoxide",
       "broken": false,
-      "derivation": "/nix/store/8k6s6hmnrfc5x4s41jmacxrhcih0ghng-starship-1.25.1.drv",
-      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
-      "install_id": "starship",
-      "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "starship-1.25.1",
-      "pname": "starship",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:51:50.562583Z",
+      "derivation": "/nix/store/cm3c2lwch7znrj7y77gvv1x9jd314bfw-zoxide-0.9.9.drv",
+      "description": "Fast cd command that learns your habits",
+      "install_id": "zoxide",
+      "license": "[ MIT ]",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "name": "zoxide-0.9.9",
+      "pname": "zoxide",
+      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "rev_count": 1017464,
+      "rev_date": "2026-06-16T02:33:49Z",
+      "scrape_date": "2026-06-17T03:48:05.475935Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "1.25.1",
+      "version": "0.9.9",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/4dk8lf6xqvfa180p841jm6ch7xzshfmw-starship-1.25.1"
+        "out": "/nix/store/fzazl44a85n2axmk1wch1x9yk3m2hxil-zoxide-0.9.9"
       },
       "system": "aarch64-linux",
-      "group": "starship",
+      "group": "shell-tools",
       "priority": 5
     },
     {
-      "attr_path": "starship",
+      "attr_path": "zoxide",
       "broken": false,
-      "derivation": "/nix/store/iqcsy06dksvz434b3h676vz1qhsip95j-starship-1.25.1.drv",
-      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
-      "install_id": "starship",
-      "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "starship-1.25.1",
-      "pname": "starship",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:22:57.395693Z",
+      "derivation": "/nix/store/9fmwkrkvhnca72lkacqg6fl84scdn6rm-zoxide-0.9.9.drv",
+      "description": "Fast cd command that learns your habits",
+      "install_id": "zoxide",
+      "license": "[ MIT ]",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "name": "zoxide-0.9.9",
+      "pname": "zoxide",
+      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "rev_count": 1017464,
+      "rev_date": "2026-06-16T02:33:49Z",
+      "scrape_date": "2026-06-17T04:16:14.324057Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "1.25.1",
+      "version": "0.9.9",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/mkbyq3xy5r7fimb4j493wfvm441hxl5g-starship-1.25.1"
+        "out": "/nix/store/pwax6arrjzrr89s33p0sraz262kphgan-zoxide-0.9.9"
       },
       "system": "x86_64-darwin",
-      "group": "starship",
+      "group": "shell-tools",
       "priority": 5
     },
     {
-      "attr_path": "starship",
+      "attr_path": "zoxide",
       "broken": false,
-      "derivation": "/nix/store/m5s6gzh0bbq35lm4p9lbjn0ial6qm45s-starship-1.25.1.drv",
-      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
-      "install_id": "starship",
-      "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "starship-1.25.1",
-      "pname": "starship",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:58:18.838999Z",
+      "derivation": "/nix/store/qpilxlym0s3yiic8a3awl10kzyr3kvrm-zoxide-0.9.9.drv",
+      "description": "Fast cd command that learns your habits",
+      "install_id": "zoxide",
+      "license": "[ MIT ]",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "name": "zoxide-0.9.9",
+      "pname": "zoxide",
+      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "rev_count": 1017464,
+      "rev_date": "2026-06-16T02:33:49Z",
+      "scrape_date": "2026-06-17T04:51:09.784083Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
-      "version": "1.25.1",
+      "version": "0.9.9",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/2k8dhqxqc63cm948hicx8h1yb24y2iwi-starship-1.25.1"
+        "out": "/nix/store/rm4j8cv6xnmwc6ys4zdfpwamkmn8g1cd-zoxide-0.9.9"
       },
       "system": "x86_64-linux",
-      "group": "starship",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/ia3zddfsycaz0c26vnd8w0qibilfpj16-sprite-0.0.1-rc44.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "sprite-0.0.1-rc44",
-      "pname": "sprite",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:18:36.036052Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/54s6fq65f9mxg4344an2abb69m8mywyn-sprite-0.0.1-rc44"
-      },
-      "system": "aarch64-darwin",
-      "group": "sprite",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/jjns4wjh9llfbxzljdl1yqqs3igghprb-sprite-0.0.1-rc44.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "sprite-0.0.1-rc44",
-      "pname": "sprite",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:51:49.874177Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/b7l2m6mq1rqm3czyqrg42khzyj2035xq-sprite-0.0.1-rc44"
-      },
-      "system": "aarch64-linux",
-      "group": "sprite",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/pk97biar2yd33iy91gl2wj14c7fvnpf8-sprite-0.0.1-rc44.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "sprite-0.0.1-rc44",
-      "pname": "sprite",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:22:56.903440Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/8h0rsjmgqzi557x94gwj0f25j7cw4snl-sprite-0.0.1-rc44"
-      },
-      "system": "x86_64-darwin",
-      "group": "sprite",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/6m0cw0qajf2lf8ndpkmygmw3ngchyma9-sprite-0.0.1-rc44.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "sprite-0.0.1-rc44",
-      "pname": "sprite",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:58:18.100076Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/xx76zxga5fj3mpgzmv6brz5b5vrajx2n-sprite-0.0.1-rc44"
-      },
-      "system": "x86_64-linux",
-      "group": "sprite",
+      "group": "shell-tools",
       "priority": 5
     }
   ]

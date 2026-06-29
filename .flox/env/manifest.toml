@@ -23,6 +23,8 @@ sheldon.pkg-path = "sheldon"
 sheldon.pkg-group = "shell-tools"
 tree.pkg-path = "tree"
 tree.pkg-group = "shell-tools"
+zoxide.pkg-path = "zoxide"
+zoxide.pkg-group = "shell-tools"
 
 # Editors
 nano.pkg-path = "nano"

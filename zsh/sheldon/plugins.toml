@@ -24,6 +24,7 @@ use = [
   "{pip}/*.plugin.zsh",
   "{ssh}/*.plugin.zsh",
   "{ssh-agent}/*.plugin.zsh",
+  "{zoxide}/*.plugin.zsh",
 ]
 apply = ["source","fpath"]
 
