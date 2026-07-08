@@ -144,6 +144,88 @@ install_dotfiles () {
     link_file "$DOTFILES_ROOT" "$HOME/.dotfiles"
   fi
 }
+is_nix_daemon_mode () {
+  [ "$NIX_REMOTE" == "daemon" ] || [ -d /nix/var/nix/daemon-socket ]
+}
+
+start_nix_daemon () {
+  if pidof nix-daemon > /dev/null 2>&1
+  then
+    info "nix-daemon is already running"
+    return 0
+  fi
+
+  info "nix-daemon is not running, attempting to start..."
+  set +e
+  local start_ok=false
+  if [ "$(id -u)" == "0" ]
+  then
+    ( . /nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh; /nix/var/nix/profiles/default/bin/nix-daemon > /tmp/nix-daemon.log 2>&1 ) &
+    if [ "$?" == "0" ]; then
+      start_ok=true
+    fi
+  elif type sudo > /dev/null 2>&1
+  then
+    sudo -n sh -c '. /nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh; /nix/var/nix/profiles/default/bin/nix-daemon > /tmp/nix-daemon.log 2>&1' &
+    if [ "$?" == "0" ]; then
+      start_ok=true
+    fi
+  fi
+  if [ "${start_ok}" == "false" ]
+  then
+    info "failed to start nix-daemon as root"
+  fi
+  set -e
+
+  # Wait for nix-daemon to be ready (up to 30 seconds)
+  info "Waiting for nix-daemon to be ready..."
+  for i in $(seq 1 30)
+  do
+    if nix --version > /dev/null 2>&1
+    then
+      info "nix-daemon is ready"
+      return 0
+    fi
+    sleep 1
+  done
+
+  fail "nix-daemon failed to become ready"
+}
+
+install_flox_in_codespace () {
+  if [ "$CODESPACES" != "true" ]
+  then
+    return 0
+  fi
+
+  info "checking for nix installation..."
+  if ! command -v nix > /dev/null 2>&1
+  then
+    fail "nix is not installed"
+  fi
+
+  if command -v flox > /dev/null 2>&1
+  then
+    info "flox is already installed"
+    exit 0
+  fi
+
+  if is_nix_daemon_mode
+  then
+    start_nix_daemon
+  fi
+
+  info "installing flox..."
+  if nix profile add \
+        --experimental-features "nix-command flakes" \
+        --accept-flake-config \
+        'github:flox/flox/latest'
+  then
+    success "flox installed successfully"
+  else
+    fail "failed to install flox"
+  fi
+}
 
 # setup_gitconfig
 install_dotfiles
@@ -165,5 +247,10 @@ then
   fi
 fi
 
+# Install flox if we are running in GitHub Codespaces
+install_flox_in_codespace
+
 echo ''
 echo '  All installed!'
+
+
