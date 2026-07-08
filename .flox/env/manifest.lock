@@ -141,28 +141,29 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/79nn0fignbrcalx4pblyval1bqwrv0q2-claude-code-2.1.193.drv",
+      "derivation": "/nix/store/rvndmi0kgd3q6xjzik2by9p5k6j0d2ir-claude-code-2.1.196.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=d9a633704b2f74143af5218941580b41cb8f34f5",
-      "name": "claude-code-2.1.193",
+      "locked_url": "https://github.com/flox/floxenvs?rev=9beaf019e4ff75d1456dc4658d6ac789fcc20f5b",
+      "name": "claude-code-2.1.196",
       "pname": "claude-code",
-      "rev": "d9a633704b2f74143af5218941580b41cb8f34f5",
-      "rev_count": 11117,
-      "rev_date": "2026-06-26T20:01:20Z",
-      "scrape_date": "2026-06-29T13:45:51.682416718Z",
+      "rev": "9beaf019e4ff75d1456dc4658d6ac789fcc20f5b",
+      "rev_count": 11617,
+      "rev_date": "2026-06-30T01:00:10Z",
+      "scrape_date": "2026-07-07T19:58:59.945920637Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "2.1.193",
+      "version": "2.1.196",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/xcyij2kh9q9x45xffx4zzajxf1l4vdxr-claude-code-2.1.193"
+        "out": "/nix/store/v3lnxcwgxx0k2kqdig6l1ccz7i2bcdbr-claude-code-2.1.196"
       },
       "system": "aarch64-darwin",
       "group": "ai-claude",
@@ -171,28 +172,29 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/w6j80fh1xz5ilpp058090ky0kv4c0vz5-claude-code-2.1.193.drv",
+      "derivation": "/nix/store/rklrs848cmg75i67cw3sdzvafcr7fcyw-claude-code-2.1.196.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=d9a633704b2f74143af5218941580b41cb8f34f5",
-      "name": "claude-code-2.1.193",
+      "locked_url": "https://github.com/flox/floxenvs?rev=9beaf019e4ff75d1456dc4658d6ac789fcc20f5b",
+      "name": "claude-code-2.1.196",
       "pname": "claude-code",
-      "rev": "d9a633704b2f74143af5218941580b41cb8f34f5",
-      "rev_count": 11117,
-      "rev_date": "2026-06-26T20:01:20Z",
-      "scrape_date": "2026-06-29T13:45:51.682421998Z",
+      "rev": "9beaf019e4ff75d1456dc4658d6ac789fcc20f5b",
+      "rev_count": 11617,
+      "rev_date": "2026-06-30T01:00:10Z",
+      "scrape_date": "2026-07-07T19:58:59.945924144Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "2.1.193",
+      "version": "2.1.196",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/9w2z8m8yp7ybh4g870wncnvcksg5i9kj-claude-code-2.1.193"
+        "out": "/nix/store/9qgkrnq79gw8xwyzwnmrpwg3y460hb9f-claude-code-2.1.196"
       },
       "system": "aarch64-linux",
       "group": "ai-claude",
@@ -201,28 +203,29 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/ap2wwyy4aq24q3mwihq5d9cgk49zy16n-claude-code-2.1.193.drv",
+      "derivation": "/nix/store/96b7lvyhb29wnzh9x2ycbcbbvjgc4awr-claude-code-2.1.196.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=d9a633704b2f74143af5218941580b41cb8f34f5",
-      "name": "claude-code-2.1.193",
+      "locked_url": "https://github.com/flox/floxenvs?rev=9beaf019e4ff75d1456dc4658d6ac789fcc20f5b",
+      "name": "claude-code-2.1.196",
       "pname": "claude-code",
-      "rev": "d9a633704b2f74143af5218941580b41cb8f34f5",
-      "rev_count": 11117,
-      "rev_date": "2026-06-26T20:01:20Z",
-      "scrape_date": "2026-06-29T13:45:51.682422700Z",
+      "rev": "9beaf019e4ff75d1456dc4658d6ac789fcc20f5b",
+      "rev_count": 11617,
+      "rev_date": "2026-06-30T01:00:10Z",
+      "scrape_date": "2026-07-07T19:58:59.945924945Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "2.1.193",
+      "version": "2.1.196",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/m80dbmv5xizmijdlyy7lsfcjn8qqd44i-claude-code-2.1.193"
+        "out": "/nix/store/hzwk338sl3vngwa02d3pi9bry48k6wv1-claude-code-2.1.196"
       },
       "system": "x86_64-darwin",
       "group": "ai-claude",
@@ -231,28 +234,29 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/qz120rj5i1x33s8ws4nysi8593lrrh86-claude-code-2.1.193.drv",
+      "derivation": "/nix/store/7mdwz16vqs2n45hw3zjjiz66n4l75d1m-claude-code-2.1.196.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=d9a633704b2f74143af5218941580b41cb8f34f5",
-      "name": "claude-code-2.1.193",
+      "locked_url": "https://github.com/flox/floxenvs?rev=9beaf019e4ff75d1456dc4658d6ac789fcc20f5b",
+      "name": "claude-code-2.1.196",
       "pname": "claude-code",
-      "rev": "d9a633704b2f74143af5218941580b41cb8f34f5",
-      "rev_count": 11117,
-      "rev_date": "2026-06-26T20:01:20Z",
-      "scrape_date": "2026-06-29T13:45:51.682423351Z",
+      "rev": "9beaf019e4ff75d1456dc4658d6ac789fcc20f5b",
+      "rev_count": 11617,
+      "rev_date": "2026-06-30T01:00:10Z",
+      "scrape_date": "2026-07-07T19:58:59.945925496Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "2.1.193",
+      "version": "2.1.196",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/02a6hgpy1x6aq770vvx05p0a77x3wqj7-claude-code-2.1.193"
+        "out": "/nix/store/mahaaw4akach2kvq1q6c6j8z8rwbd4yk-claude-code-2.1.196"
       },
       "system": "x86_64-linux",
       "group": "ai-claude",
@@ -497,13 +501,13 @@
       "description": "Monitor of resources",
       "install_id": "btop",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "btop-1.4.7",
       "pname": "btop",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:16:43.116539Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:12:54.942301Z",
       "stabilities": [
         "unstable"
       ],
@@ -526,13 +530,13 @@
       "description": "Monitor of resources",
       "install_id": "btop",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "btop-1.4.7",
       "pname": "btop",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:49:22.627910Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:41:21.500175Z",
       "stabilities": [
         "unstable"
       ],
@@ -555,13 +559,13 @@
       "description": "Monitor of resources",
       "install_id": "btop",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "btop-1.4.7",
       "pname": "btop",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:21:04.326865Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:09:00.255695Z",
       "stabilities": [
         "unstable"
       ],
@@ -584,13 +588,13 @@
       "description": "Monitor of resources",
       "install_id": "btop",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "btop-1.4.7",
       "pname": "btop",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:55:44.177443Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:40:24.123510Z",
       "stabilities": [
         "unstable"
       ],
@@ -621,6 +625,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:14.808449Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -652,6 +657,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:09.734419Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -683,6 +689,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:07.124706Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -714,6 +721,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:05.900645Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -743,8 +751,9 @@
       "rev": "05d20dea9caf84413cf63c92028c4723a8643d23",
       "rev_count": 9806,
       "rev_date": "2026-06-21T20:51:38Z",
-      "scrape_date": "2026-06-29T13:45:51.682500131Z",
+      "scrape_date": "2026-07-07T19:58:59.945975164Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -773,8 +782,9 @@
       "rev": "9335e0828de86d7cbcc83f38226518302179a50a",
       "rev_count": 9730,
       "rev_date": "2026-06-21T19:11:38Z",
-      "scrape_date": "2026-06-29T13:45:51.682500852Z",
+      "scrape_date": "2026-07-07T19:58:59.945975624Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -803,8 +813,9 @@
       "rev": "05d20dea9caf84413cf63c92028c4723a8643d23",
       "rev_count": 9806,
       "rev_date": "2026-06-21T20:51:38Z",
-      "scrape_date": "2026-06-29T13:45:51.682501414Z",
+      "scrape_date": "2026-07-07T19:58:59.945976176Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -833,8 +844,9 @@
       "rev": "05d20dea9caf84413cf63c92028c4723a8643d23",
       "rev_count": 9806,
       "rev_date": "2026-06-21T20:51:38Z",
-      "scrape_date": "2026-06-29T13:45:51.682502145Z",
+      "scrape_date": "2026-07-07T19:58:59.945976586Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -865,6 +877,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:29.812807Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -895,6 +908,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:28.540438Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -925,6 +939,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:22.551769Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -955,6 +970,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:25.692106Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -985,6 +1001,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:38.643313Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1015,6 +1032,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:47.341495Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1045,6 +1063,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:31.862067Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1075,6 +1094,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:47.096676Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1105,6 +1125,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:55.154733Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1136,6 +1157,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:45:09.661247Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1167,6 +1189,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:48.794023Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1198,6 +1221,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:48:10.054542Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1218,31 +1242,31 @@
     {
       "attr_path": "nano",
       "broken": false,
-      "derivation": "/nix/store/hv4z5qzrazy4jsjkab96b3fiq0qhsbdn-nano-9.0.drv",
+      "derivation": "/nix/store/9030praps812bhldva3qfjk1z71yrfpj-nano-9.1.drv",
       "description": "Small, user-friendly console text editor",
       "install_id": "nano",
       "license": "GPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "nano-9.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "nano-9.1",
       "pname": "nano",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:17:07.210781Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:13:19.420841Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "9.0",
+      "version": "9.1",
       "outputs_to_install": [
         "man",
         "out"
       ],
       "outputs": {
-        "doc": "/nix/store/4gyqql426ja7rz8q2kj73z3s8z6xwf6l-nano-9.0-doc",
-        "info": "/nix/store/cqz4hb2n84z71hpy0ccb4pnyqwv382bx-nano-9.0-info",
-        "man": "/nix/store/99ww0mjk4cngd8qkwqyjz1qdaqc83k36-nano-9.0-man",
-        "out": "/nix/store/v114dg12n6k8ax99ibxs99zmfs9q474k-nano-9.0"
+        "doc": "/nix/store/rpacg65cf7w1j74s78b9fbcxp7v3slnk-nano-9.1-doc",
+        "info": "/nix/store/rbxijrq5dkkb0mhxj8y0gig4bv6rjzjl-nano-9.1-info",
+        "man": "/nix/store/hr7r7pdkz8dxzfn7g7yz9agmlfz7nsqm-nano-9.1-man",
+        "out": "/nix/store/qsf69b59p4v5qvysrhnjyyp7334331gn-nano-9.1"
       },
       "system": "aarch64-darwin",
       "group": "editors",
@@ -1251,31 +1275,31 @@
     {
       "attr_path": "nano",
       "broken": false,
-      "derivation": "/nix/store/andl3h84whaayifhw8scffr0vc9h49h7-nano-9.0.drv",
+      "derivation": "/nix/store/00apqfqsf4jrng0zikmnfzki04gp288y-nano-9.1.drv",
       "description": "Small, user-friendly console text editor",
       "install_id": "nano",
       "license": "GPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "nano-9.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "nano-9.1",
       "pname": "nano",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:49:59.378742Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:41:58.887125Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "9.0",
+      "version": "9.1",
       "outputs_to_install": [
         "man",
         "out"
       ],
       "outputs": {
-        "doc": "/nix/store/gnk9wm010acal17ixirag7cfwr7h9b8d-nano-9.0-doc",
-        "info": "/nix/store/f3jjis4h40af6fkgvhjgp8ypqiipd8d3-nano-9.0-info",
-        "man": "/nix/store/3nm096gpczqfx583bm5d764dk0yfs85j-nano-9.0-man",
-        "out": "/nix/store/hmrpb02cb4w39ib28asml90985q9wvs9-nano-9.0"
+        "doc": "/nix/store/i1k6cybjpidrlhir279av1vir2h95ahf-nano-9.1-doc",
+        "info": "/nix/store/0qjpwilklvqn9ai68hglhflnw8f0pf1x-nano-9.1-info",
+        "man": "/nix/store/s2alfph4z3a750lf00a3zmiwn94gh21b-nano-9.1-man",
+        "out": "/nix/store/5ha3b3xcizy5qly475m4x43kapbvrfh0-nano-9.1"
       },
       "system": "aarch64-linux",
       "group": "editors",
@@ -1284,31 +1308,31 @@
     {
       "attr_path": "nano",
       "broken": false,
-      "derivation": "/nix/store/sjhzsfdl28p4811xfy3310nyd09gns9r-nano-9.0.drv",
+      "derivation": "/nix/store/fhcfm372q83a7gbz68lmcii00q81labz-nano-9.1.drv",
       "description": "Small, user-friendly console text editor",
       "install_id": "nano",
       "license": "GPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "nano-9.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "nano-9.1",
       "pname": "nano",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:21:28.922053Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:09:30.945238Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "9.0",
+      "version": "9.1",
       "outputs_to_install": [
         "man",
         "out"
       ],
       "outputs": {
-        "doc": "/nix/store/fckm3sbdqpc0yx1wfb2zxxf4pm6ykvwq-nano-9.0-doc",
-        "info": "/nix/store/6h14lpwkm3gawdk1ppb25707bab4lxm4-nano-9.0-info",
-        "man": "/nix/store/sw2yblfbpjwz0yzysb11jp48wfnb9s4j-nano-9.0-man",
-        "out": "/nix/store/4is3xsw9vvkfq09ad0md3bs8rmk8fnb0-nano-9.0"
+        "doc": "/nix/store/qxsn2fv6xh3gmz327a1dl9l3r2a5id5c-nano-9.1-doc",
+        "info": "/nix/store/kxxy0zlramq7b3q38fi1j4zqdsnccmva-nano-9.1-info",
+        "man": "/nix/store/i3qs2k4vii18hsh04fm98hyrd26ps4px-nano-9.1-man",
+        "out": "/nix/store/mxypg8272ks9nnjlsjg83hsr29vqqvyd-nano-9.1"
       },
       "system": "x86_64-darwin",
       "group": "editors",
@@ -1317,31 +1341,31 @@
     {
       "attr_path": "nano",
       "broken": false,
-      "derivation": "/nix/store/674dcq56w7xs35jf38lpi7yh23v0szk6-nano-9.0.drv",
+      "derivation": "/nix/store/cb6qxhw3zmck18f58irqjw2srb6iilzj-nano-9.1.drv",
       "description": "Small, user-friendly console text editor",
       "install_id": "nano",
       "license": "GPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "nano-9.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "nano-9.1",
       "pname": "nano",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:56:24.755344Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:41:04.251370Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "9.0",
+      "version": "9.1",
       "outputs_to_install": [
         "man",
         "out"
       ],
       "outputs": {
-        "doc": "/nix/store/rxlzg03jsgvmiah5l29xza9y8c6kf62d-nano-9.0-doc",
-        "info": "/nix/store/qk89x634ycb0lzc8jy07ba40mknhcjcv-nano-9.0-info",
-        "man": "/nix/store/iy447lrrnignzy5ggysk1zvypyai0aqv-nano-9.0-man",
-        "out": "/nix/store/kay8v2dbll95bn9ybi4hbl20lc5s4iq6-nano-9.0"
+        "doc": "/nix/store/gh6qk4jxgfh66q4g9afmazvfdlh0vk7p-nano-9.1-doc",
+        "info": "/nix/store/zjlnqc8xaixf3qmrcw9wypybra0ah63k-nano-9.1-info",
+        "man": "/nix/store/23hqhqhiz4ss2yg7ym5v4m1kwcmv4n7m-nano-9.1-man",
+        "out": "/nix/store/bxpcyzr9vbmzkglrs9052l5pa3npvc4b-nano-9.1"
       },
       "system": "x86_64-linux",
       "group": "editors",
@@ -1354,13 +1378,13 @@
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "vim-9.2.0389",
       "pname": "vim",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:19:21.704598Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:15:39.783961Z",
       "stabilities": [
         "unstable"
       ],
@@ -1385,13 +1409,13 @@
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "vim-9.2.0389",
       "pname": "vim",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:52:47.124821Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:44:49.914410Z",
       "stabilities": [
         "unstable"
       ],
@@ -1416,13 +1440,13 @@
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "vim-9.2.0389",
       "pname": "vim",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:23:41.185354Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:12:24.122300Z",
       "stabilities": [
         "unstable"
       ],
@@ -1447,13 +1471,13 @@
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "vim-9.2.0389",
       "pname": "vim",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:59:18.682874Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:44:11.658517Z",
       "stabilities": [
         "unstable"
       ],
@@ -1478,19 +1502,20 @@
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "go-1.26.4",
       "pname": "go",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:16:44.385641Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:12:56.227877Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
       "version": "1.26.4",
       "outputs_to_install": [
+        "out",
         "out"
       ],
       "outputs": {
@@ -1507,13 +1532,13 @@
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "go-1.26.4",
       "pname": "go",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:49:25.021336Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:41:23.896640Z",
       "stabilities": [
         "unstable"
       ],
@@ -1536,13 +1561,13 @@
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "go-1.26.4",
       "pname": "go",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:21:05.637364Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:09:01.839364Z",
       "stabilities": [
         "unstable"
       ],
@@ -1565,13 +1590,13 @@
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "go-1.26.4",
       "pname": "go",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:55:46.870590Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:40:26.718134Z",
       "stabilities": [
         "unstable"
       ],
@@ -1602,6 +1627,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:13.562520Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1632,6 +1658,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:07.850948Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1662,6 +1689,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:05.814756Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1692,6 +1720,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:03.830215Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1723,6 +1752,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:30.092433Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1753,6 +1783,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:29.105633Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1783,6 +1814,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:22.831036Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1813,6 +1845,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:26.293275Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1843,6 +1876,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:31.419646Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1873,6 +1907,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:31.303611Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1903,6 +1938,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:24.241512Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1933,6 +1969,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:28.720845Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1963,6 +2000,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:31.745925Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -1993,6 +2031,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:32.469727Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2023,6 +2062,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:24.594817Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2053,6 +2093,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:30.017817Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2083,6 +2124,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:31.987657Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2113,6 +2155,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:32.908075Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2143,6 +2186,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:24.856075Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2173,6 +2217,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:30.522052Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2203,6 +2248,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:31.994864Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2236,6 +2282,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:32.916870Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2269,6 +2316,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:24.863568Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2302,6 +2350,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:30.531928Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2335,6 +2384,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:32.046643Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2365,6 +2415,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:32.983929Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2395,6 +2446,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:24.916620Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2425,6 +2477,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:30.598428Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2455,6 +2508,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:15:16.017369Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2485,6 +2539,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:46:43.736493Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2515,6 +2570,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:15:09.639469Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2545,6 +2601,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:49:47.078082Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2567,13 +2624,13 @@
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "nodejs-24.16.0",
       "pname": "nodejs",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:17:08.197943Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:13:20.493760Z",
       "stabilities": [
         "unstable"
       ],
@@ -2596,13 +2653,13 @@
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "nodejs-24.16.0",
       "pname": "nodejs",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:50:00.922428Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:42:00.460042Z",
       "stabilities": [
         "unstable"
       ],
@@ -2625,13 +2682,13 @@
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "nodejs-24.16.0",
       "pname": "nodejs",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:21:29.941494Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:09:32.244433Z",
       "stabilities": [
         "unstable"
       ],
@@ -2654,13 +2711,13 @@
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "nodejs-24.16.0",
       "pname": "nodejs",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:56:26.345327Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:41:05.911622Z",
       "stabilities": [
         "unstable"
       ],
@@ -2674,238 +2731,6 @@
       },
       "system": "x86_64-linux",
       "group": "nodejs",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/ia3zddfsycaz0c26vnd8w0qibilfpj16-sprite-0.0.1-rc44.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "sprite-0.0.1-rc44",
-      "pname": "sprite",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:18:36.036052Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/54s6fq65f9mxg4344an2abb69m8mywyn-sprite-0.0.1-rc44"
-      },
-      "system": "aarch64-darwin",
-      "group": "sprite",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/jjns4wjh9llfbxzljdl1yqqs3igghprb-sprite-0.0.1-rc44.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "sprite-0.0.1-rc44",
-      "pname": "sprite",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:51:49.874177Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/b7l2m6mq1rqm3czyqrg42khzyj2035xq-sprite-0.0.1-rc44"
-      },
-      "system": "aarch64-linux",
-      "group": "sprite",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/pk97biar2yd33iy91gl2wj14c7fvnpf8-sprite-0.0.1-rc44.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "sprite-0.0.1-rc44",
-      "pname": "sprite",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:22:56.903440Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/8h0rsjmgqzi557x94gwj0f25j7cw4snl-sprite-0.0.1-rc44"
-      },
-      "system": "x86_64-darwin",
-      "group": "sprite",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/6m0cw0qajf2lf8ndpkmygmw3ngchyma9-sprite-0.0.1-rc44.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "sprite-0.0.1-rc44",
-      "pname": "sprite",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:58:18.100076Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/xx76zxga5fj3mpgzmv6brz5b5vrajx2n-sprite-0.0.1-rc44"
-      },
-      "system": "x86_64-linux",
-      "group": "sprite",
-      "priority": 5
-    },
-    {
-      "attr_path": "starship",
-      "broken": false,
-      "derivation": "/nix/store/zs59bhh63hlb4d5ncibzqj8iw07vvf5q-starship-1.25.1.drv",
-      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
-      "install_id": "starship",
-      "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "starship-1.25.1",
-      "pname": "starship",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:18:36.546039Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "1.25.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/qkqzm1dngylqq2rb80lsxdfh73dmjy9f-starship-1.25.1"
-      },
-      "system": "aarch64-darwin",
-      "group": "starship",
-      "priority": 5
-    },
-    {
-      "attr_path": "starship",
-      "broken": false,
-      "derivation": "/nix/store/8k6s6hmnrfc5x4s41jmacxrhcih0ghng-starship-1.25.1.drv",
-      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
-      "install_id": "starship",
-      "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "starship-1.25.1",
-      "pname": "starship",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T03:51:50.562583Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "1.25.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/4dk8lf6xqvfa180p841jm6ch7xzshfmw-starship-1.25.1"
-      },
-      "system": "aarch64-linux",
-      "group": "starship",
-      "priority": 5
-    },
-    {
-      "attr_path": "starship",
-      "broken": false,
-      "derivation": "/nix/store/iqcsy06dksvz434b3h676vz1qhsip95j-starship-1.25.1.drv",
-      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
-      "install_id": "starship",
-      "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "starship-1.25.1",
-      "pname": "starship",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:22:57.395693Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "1.25.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/mkbyq3xy5r7fimb4j493wfvm441hxl5g-starship-1.25.1"
-      },
-      "system": "x86_64-darwin",
-      "group": "starship",
-      "priority": 5
-    },
-    {
-      "attr_path": "starship",
-      "broken": false,
-      "derivation": "/nix/store/m5s6gzh0bbq35lm4p9lbjn0ial6qm45s-starship-1.25.1.drv",
-      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
-      "install_id": "starship",
-      "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "name": "starship-1.25.1",
-      "pname": "starship",
-      "rev": "e73de5be04e0eff4190a1432b946d469c794e7b4",
-      "rev_count": 1022855,
-      "rev_date": "2026-06-26T09:58:34Z",
-      "scrape_date": "2026-06-27T04:58:18.838999Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "1.25.1",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/2k8dhqxqc63cm948hicx8h1yb24y2iwi-starship-1.25.1"
-      },
-      "system": "x86_64-linux",
-      "group": "starship",
       "priority": 5
     },
     {
@@ -2923,6 +2748,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:14.189185Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2953,6 +2779,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:08.761574Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -2983,6 +2810,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:06.459742Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3013,6 +2841,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:04.843494Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3044,6 +2873,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:14.466805Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3076,6 +2906,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:09.201740Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3108,6 +2939,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:06.802576Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3140,6 +2972,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:05.319675Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3172,6 +3005,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:13:15.222283Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3202,6 +3036,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:44:10.917697Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3232,6 +3067,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:13:07.576990Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3262,6 +3098,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:47:07.206266Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3292,6 +3129,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:15:12.207328Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3322,6 +3160,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:46:38.187045Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3352,6 +3191,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:15:05.730158Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3382,6 +3222,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:49:41.055285Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3412,6 +3253,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:15:39.418746Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3448,6 +3290,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:47:16.818575Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3482,6 +3325,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:15:33.604246Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3516,6 +3360,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:50:19.799361Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3550,6 +3395,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:16:20.072708Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3580,6 +3426,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T03:48:05.475935Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3610,6 +3457,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:16:14.324057Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3640,6 +3488,7 @@
       "rev_date": "2026-06-16T02:33:49Z",
       "scrape_date": "2026-06-17T04:51:09.784083Z",
       "stabilities": [
+        "stable",
         "staging",
         "unstable"
       ],
@@ -3653,6 +3502,238 @@
       },
       "system": "x86_64-linux",
       "group": "shell-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/ia3zddfsycaz0c26vnd8w0qibilfpj16-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:14:51.929947Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/54s6fq65f9mxg4344an2abb69m8mywyn-sprite-0.0.1-rc44"
+      },
+      "system": "aarch64-darwin",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/jjns4wjh9llfbxzljdl1yqqs3igghprb-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:43:51.537966Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/b7l2m6mq1rqm3czyqrg42khzyj2035xq-sprite-0.0.1-rc44"
+      },
+      "system": "aarch64-linux",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/pk97biar2yd33iy91gl2wj14c7fvnpf8-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:11:25.405971Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/8h0rsjmgqzi557x94gwj0f25j7cw4snl-sprite-0.0.1-rc44"
+      },
+      "system": "x86_64-darwin",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/6m0cw0qajf2lf8ndpkmygmw3ngchyma9-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:43:07.633832Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/xx76zxga5fj3mpgzmv6brz5b5vrajx2n-sprite-0.0.1-rc44"
+      },
+      "system": "x86_64-linux",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "starship",
+      "broken": false,
+      "derivation": "/nix/store/nkl766cwlb0irbh2p2897kynjcj5z5m5-starship-1.26.0.drv",
+      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
+      "install_id": "starship",
+      "license": "ISC",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "starship-1.26.0",
+      "pname": "starship",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:14:52.468097Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.26.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/bdxd2la52jv7gh4sy46na0clc0jafrqv-starship-1.26.0"
+      },
+      "system": "aarch64-darwin",
+      "group": "starship",
+      "priority": 5
+    },
+    {
+      "attr_path": "starship",
+      "broken": false,
+      "derivation": "/nix/store/b2akg04vxj22y17xs3s1ac873k2bsrka-starship-1.26.0.drv",
+      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
+      "install_id": "starship",
+      "license": "ISC",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "starship-1.26.0",
+      "pname": "starship",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:43:52.242118Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.26.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/wyr9la08k4cvd7nggadjqm84ryk49h6y-starship-1.26.0"
+      },
+      "system": "aarch64-linux",
+      "group": "starship",
+      "priority": 5
+    },
+    {
+      "attr_path": "starship",
+      "broken": false,
+      "derivation": "/nix/store/pyy27ay7bz8qg2v1bq28xn70zfwm3z1j-starship-1.26.0.drv",
+      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
+      "install_id": "starship",
+      "license": "ISC",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "starship-1.26.0",
+      "pname": "starship",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:11:26.036401Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.26.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/mpyjw3wc4ns7gwdaljq1dnsxj0dv3pdf-starship-1.26.0"
+      },
+      "system": "x86_64-darwin",
+      "group": "starship",
+      "priority": 5
+    },
+    {
+      "attr_path": "starship",
+      "broken": false,
+      "derivation": "/nix/store/kqbg5ivl3bbqyvg4dvfwgy6gakamxa2l-starship-1.26.0.drv",
+      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
+      "install_id": "starship",
+      "license": "ISC",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "starship-1.26.0",
+      "pname": "starship",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:43:08.441234Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.26.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/0nlqa67n9vibr6kxlp0a6yhgngnp2caw-starship-1.26.0"
+      },
+      "system": "x86_64-linux",
+      "group": "starship",
       "priority": 5
     }
   ]
