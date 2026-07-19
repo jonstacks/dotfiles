@@ -6,7 +6,7 @@
       "antigravity-cli": {
         "pkg-path": "antigravity-cli",
         "pkg-group": "ai-tools",
-        "version": "1.0.6"
+        "version": "1.0.12"
       },
       "argocd": {
         "pkg-path": "argocd",
@@ -55,6 +55,10 @@
       "hugo": {
         "pkg-path": "hugo",
         "pkg-group": "go-tools"
+      },
+      "hwatch": {
+        "pkg-path": "hwatch",
+        "pkg-group": "shell-tools"
       },
       "k6": {
         "pkg-path": "k6",
@@ -141,29 +145,29 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/8wlk28j3xlnql3bdhmgk1n2y97ch0xhr-claude-code-2.1.206.drv",
+      "derivation": "/nix/store/8nsv15gi42c6pybhdqzlwixqssnfjgb5-claude-code-2.1.212.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=78b40b06091c0f1c47adf3fa2a8031ff43edea68",
-      "name": "claude-code-2.1.206",
+      "locked_url": "https://github.com/flox/floxenvs?rev=fe223bd2ed64a59b52d93e33c8b8fd8d5d19e79e",
+      "name": "claude-code-2.1.212",
       "pname": "claude-code",
-      "rev": "78b40b06091c0f1c47adf3fa2a8031ff43edea68",
-      "rev_count": 13519,
-      "rev_date": "2026-07-10T01:01:07Z",
-      "scrape_date": "2026-07-10T10:19:12.293614706Z",
+      "rev": "fe223bd2ed64a59b52d93e33c8b8fd8d5d19e79e",
+      "rev_count": 14882,
+      "rev_date": "2026-07-17T01:00:52Z",
+      "scrape_date": "2026-07-19T05:12:01.322993Z",
       "stabilities": [
         "stable",
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "2.1.206",
+      "version": "2.1.212",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/xvhfy5mhmb9254l7b0mzhz3m392854ka-claude-code-2.1.206"
+        "out": "/nix/store/riqxfi0rhf4l0r93c7kl8x9zb9l05r13-claude-code-2.1.212"
       },
       "system": "aarch64-darwin",
       "group": "ai-claude",
@@ -172,29 +176,29 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/hs3z89drnn42npd90bdw81xd6197fw2l-claude-code-2.1.206.drv",
+      "derivation": "/nix/store/imqka6r46rx65ll55sq2kk2dkrrhdiy7-claude-code-2.1.212.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=78b40b06091c0f1c47adf3fa2a8031ff43edea68",
-      "name": "claude-code-2.1.206",
+      "locked_url": "https://github.com/flox/floxenvs?rev=fe223bd2ed64a59b52d93e33c8b8fd8d5d19e79e",
+      "name": "claude-code-2.1.212",
       "pname": "claude-code",
-      "rev": "78b40b06091c0f1c47adf3fa2a8031ff43edea68",
-      "rev_count": 13519,
-      "rev_date": "2026-07-10T01:01:07Z",
-      "scrape_date": "2026-07-10T10:19:12.293619636Z",
+      "rev": "fe223bd2ed64a59b52d93e33c8b8fd8d5d19e79e",
+      "rev_count": 14882,
+      "rev_date": "2026-07-17T01:00:52Z",
+      "scrape_date": "2026-07-19T05:12:01.322997Z",
       "stabilities": [
         "stable",
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "2.1.206",
+      "version": "2.1.212",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/pr6iqgl11qdjal1vf0xig0jv80c3iwn3-claude-code-2.1.206"
+        "out": "/nix/store/wxy29ivglnwbbiq0j2fim3mpx9c7j4wg-claude-code-2.1.212"
       },
       "system": "aarch64-linux",
       "group": "ai-claude",
@@ -203,29 +207,29 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/ga1wfjwvvcaz24m95vydb7hn5pjmppgq-claude-code-2.1.206.drv",
+      "derivation": "/nix/store/kzpiabhhh4x9csc2h2wpakad2qppary2-claude-code-2.1.212.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=78b40b06091c0f1c47adf3fa2a8031ff43edea68",
-      "name": "claude-code-2.1.206",
+      "locked_url": "https://github.com/flox/floxenvs?rev=fe223bd2ed64a59b52d93e33c8b8fd8d5d19e79e",
+      "name": "claude-code-2.1.212",
       "pname": "claude-code",
-      "rev": "78b40b06091c0f1c47adf3fa2a8031ff43edea68",
-      "rev_count": 13519,
-      "rev_date": "2026-07-10T01:01:07Z",
-      "scrape_date": "2026-07-10T10:19:12.293620417Z",
+      "rev": "fe223bd2ed64a59b52d93e33c8b8fd8d5d19e79e",
+      "rev_count": 14882,
+      "rev_date": "2026-07-17T01:00:52Z",
+      "scrape_date": "2026-07-19T05:12:01.322998Z",
       "stabilities": [
         "stable",
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "2.1.206",
+      "version": "2.1.212",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/7jd1b3vw81is5mywnfqw2da6py5bz96b-claude-code-2.1.206"
+        "out": "/nix/store/kjrpbwvx9dpxaf5qx1pa5gqdra5dzvf8-claude-code-2.1.212"
       },
       "system": "x86_64-darwin",
       "group": "ai-claude",
@@ -234,29 +238,29 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/plcr8vhw3yc2gxgal2gas5n7ggrrn7ji-claude-code-2.1.206.drv",
+      "derivation": "/nix/store/kdysm1vkazw4irni4mib2h2f8jc1rxl0-claude-code-2.1.212.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=78b40b06091c0f1c47adf3fa2a8031ff43edea68",
-      "name": "claude-code-2.1.206",
+      "locked_url": "https://github.com/flox/floxenvs?rev=fe223bd2ed64a59b52d93e33c8b8fd8d5d19e79e",
+      "name": "claude-code-2.1.212",
       "pname": "claude-code",
-      "rev": "78b40b06091c0f1c47adf3fa2a8031ff43edea68",
-      "rev_count": 13519,
-      "rev_date": "2026-07-10T01:01:07Z",
-      "scrape_date": "2026-07-10T10:19:12.293621239Z",
+      "rev": "fe223bd2ed64a59b52d93e33c8b8fd8d5d19e79e",
+      "rev_count": 14882,
+      "rev_date": "2026-07-17T01:00:52Z",
+      "scrape_date": "2026-07-19T05:12:01.322999Z",
       "stabilities": [
         "stable",
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "2.1.206",
+      "version": "2.1.212",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/hd4vi0p2vlzhsm3s7bfakajsb8zfnfbq-claude-code-2.1.206"
+        "out": "/nix/store/j656pf9cp4zz4pzbk76zm1zj5n6q0jnf-claude-code-2.1.212"
       },
       "system": "x86_64-linux",
       "group": "ai-claude",
@@ -265,27 +269,28 @@
     {
       "attr_path": "antigravity-cli",
       "broken": false,
-      "derivation": "/nix/store/qisgr5rh51rilnlr1bcn88ar1iijf3jk-antigravity-cli-1.0.6.drv",
+      "derivation": "/nix/store/hsh7bwdyj3cy84xkzy31kzy5qa7q4acy-antigravity-cli-1.0.12.drv",
       "description": "Google's Go-based terminal user interface (TUI) agent client",
       "install_id": "antigravity-cli",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=a799d3e3886da994fa307f817a6bc705ae538eeb",
-      "name": "antigravity-cli-1.0.6",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "antigravity-cli-1.0.12",
       "pname": "antigravity-cli",
-      "rev": "a799d3e3886da994fa307f817a6bc705ae538eeb",
-      "rev_count": 1011622,
-      "rev_date": "2026-06-06T12:30:50Z",
-      "scrape_date": "2026-06-08T03:14:18.561692Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:12:54.780916Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "1.0.6",
+      "version": "1.0.12",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/gzzwpbjm04x686bm3xyg6n0r863h64s1-antigravity-cli-1.0.6"
+        "out": "/nix/store/8nh9y0mjrmsk7h079r0wcc5hga1wbw5v-antigravity-cli-1.0.12"
       },
       "system": "aarch64-darwin",
       "group": "ai-tools",
@@ -294,27 +299,28 @@
     {
       "attr_path": "antigravity-cli",
       "broken": false,
-      "derivation": "/nix/store/vk6aphkxp3kj7xkjis3np6wgjaprzbp8-antigravity-cli-1.0.6.drv",
+      "derivation": "/nix/store/ls2fgkv0715mn67j46r91wy5vrjjpza2-antigravity-cli-1.0.12.drv",
       "description": "Google's Go-based terminal user interface (TUI) agent client",
       "install_id": "antigravity-cli",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=a799d3e3886da994fa307f817a6bc705ae538eeb",
-      "name": "antigravity-cli-1.0.6",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "antigravity-cli-1.0.12",
       "pname": "antigravity-cli",
-      "rev": "a799d3e3886da994fa307f817a6bc705ae538eeb",
-      "rev_count": 1011622,
-      "rev_date": "2026-06-06T12:30:50Z",
-      "scrape_date": "2026-06-08T03:46:50.678343Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:41:21.242110Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "1.0.6",
+      "version": "1.0.12",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/fjxrhi3b5g960rasa2m8aij2byhp20lk-antigravity-cli-1.0.6"
+        "out": "/nix/store/an3hs70fllavrm8zajrw5dx9ln2gqmhp-antigravity-cli-1.0.12"
       },
       "system": "aarch64-linux",
       "group": "ai-tools",
@@ -323,27 +329,28 @@
     {
       "attr_path": "antigravity-cli",
       "broken": false,
-      "derivation": "/nix/store/9pglzmk1iq3dxacxl6bl6835zkj0phmg-antigravity-cli-1.0.6.drv",
+      "derivation": "/nix/store/j9598fsmk7ijsp54zg85m1cy7v4hx7n6-antigravity-cli-1.0.12.drv",
       "description": "Google's Go-based terminal user interface (TUI) agent client",
       "install_id": "antigravity-cli",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=a799d3e3886da994fa307f817a6bc705ae538eeb",
-      "name": "antigravity-cli-1.0.6",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "antigravity-cli-1.0.12",
       "pname": "antigravity-cli",
-      "rev": "a799d3e3886da994fa307f817a6bc705ae538eeb",
-      "rev_count": 1011622,
-      "rev_date": "2026-06-06T12:30:50Z",
-      "scrape_date": "2026-06-08T04:17:43.416871Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:09:00.051004Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "1.0.6",
+      "version": "1.0.12",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/kayadhp4k3zl2z9ajg77vgmxkkmwk8q6-antigravity-cli-1.0.6"
+        "out": "/nix/store/74mmki7z6ky4y03hbd95vnxm53innn4n-antigravity-cli-1.0.12"
       },
       "system": "x86_64-darwin",
       "group": "ai-tools",
@@ -352,27 +359,28 @@
     {
       "attr_path": "antigravity-cli",
       "broken": false,
-      "derivation": "/nix/store/fbldqnqprmjkdi7g9dyvbgnfkdw456g5-antigravity-cli-1.0.6.drv",
+      "derivation": "/nix/store/sw3vckd1anplsb35dhagnqj70wrdv9v3-antigravity-cli-1.0.12.drv",
       "description": "Google's Go-based terminal user interface (TUI) agent client",
       "install_id": "antigravity-cli",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=a799d3e3886da994fa307f817a6bc705ae538eeb",
-      "name": "antigravity-cli-1.0.6",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "antigravity-cli-1.0.12",
       "pname": "antigravity-cli",
-      "rev": "a799d3e3886da994fa307f817a6bc705ae538eeb",
-      "rev_count": 1011622,
-      "rev_date": "2026-06-06T12:30:50Z",
-      "scrape_date": "2026-06-08T04:53:14.255905Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:40:23.877424Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "1.0.6",
+      "version": "1.0.12",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/3yyz8zi6mlmi0kvnxrqhch68idmxd70b-antigravity-cli-1.0.6"
+        "out": "/nix/store/6zmxcffhfymnc5zyhdmzsd8xfi9pbkna-antigravity-cli-1.0.12"
       },
       "system": "x86_64-linux",
       "group": "ai-tools",
@@ -381,18 +389,19 @@
     {
       "attr_path": "beads",
       "broken": false,
-      "derivation": "/nix/store/n9pq9n8pypkyx18zk44rwd7sg8v86rcd-beads-1.0.3.drv",
+      "derivation": "/nix/store/6hfwzwhqvxx3czzsnxgvvdyrqby73n51-beads-1.0.3.drv",
       "description": "Lightweight memory system for AI coding agents with graph-based issue tracking",
       "install_id": "beads",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=a799d3e3886da994fa307f817a6bc705ae538eeb",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "beads-1.0.3",
       "pname": "beads",
-      "rev": "a799d3e3886da994fa307f817a6bc705ae538eeb",
-      "rev_count": 1011622,
-      "rev_date": "2026-06-06T12:30:50Z",
-      "scrape_date": "2026-06-08T03:14:18.723658Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:12:54.874676Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -401,7 +410,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/xcjsrq72dkz8bpbv6k90yph87kiirbs9-beads-1.0.3"
+        "out": "/nix/store/y1i073h13nmvxkzf80c8k0nr4xr7w6ny-beads-1.0.3"
       },
       "system": "aarch64-darwin",
       "group": "ai-tools",
@@ -410,18 +419,19 @@
     {
       "attr_path": "beads",
       "broken": false,
-      "derivation": "/nix/store/3frkj427lgd270dryf5cf29b3lw4k440-beads-1.0.3.drv",
+      "derivation": "/nix/store/snsb2k1z317cvpnjll4192fn3z8vihcm-beads-1.0.3.drv",
       "description": "Lightweight memory system for AI coding agents with graph-based issue tracking",
       "install_id": "beads",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=a799d3e3886da994fa307f817a6bc705ae538eeb",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "beads-1.0.3",
       "pname": "beads",
-      "rev": "a799d3e3886da994fa307f817a6bc705ae538eeb",
-      "rev_count": 1011622,
-      "rev_date": "2026-06-06T12:30:50Z",
-      "scrape_date": "2026-06-08T03:46:50.808662Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:41:21.403293Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -430,7 +440,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/zgllshrq6mvsck3j8wkkcap47j4x0fxx-beads-1.0.3"
+        "out": "/nix/store/ah21p8qjsh8zjrf6k6cf5cgwdp0wysg8-beads-1.0.3"
       },
       "system": "aarch64-linux",
       "group": "ai-tools",
@@ -439,18 +449,19 @@
     {
       "attr_path": "beads",
       "broken": false,
-      "derivation": "/nix/store/q5l5932d45hflxzslsdc7y7rp43a8kz9-beads-1.0.3.drv",
+      "derivation": "/nix/store/kcv6ffi7jrd5b25031vgwxqbpmfdflxg-beads-1.0.3.drv",
       "description": "Lightweight memory system for AI coding agents with graph-based issue tracking",
       "install_id": "beads",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=a799d3e3886da994fa307f817a6bc705ae538eeb",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "beads-1.0.3",
       "pname": "beads",
-      "rev": "a799d3e3886da994fa307f817a6bc705ae538eeb",
-      "rev_count": 1011622,
-      "rev_date": "2026-06-06T12:30:50Z",
-      "scrape_date": "2026-06-08T04:17:43.512211Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:09:00.166750Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -459,7 +470,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/6ml29v1pgnx71a0r65mxrn7l1vjl71qg-beads-1.0.3"
+        "out": "/nix/store/kdjdkxl59qv1nx50851dbmij4dajgpf9-beads-1.0.3"
       },
       "system": "x86_64-darwin",
       "group": "ai-tools",
@@ -468,18 +479,19 @@
     {
       "attr_path": "beads",
       "broken": false,
-      "derivation": "/nix/store/1r15dxkxjd7fqg7nili718hhgs8nrgl3-beads-1.0.3.drv",
+      "derivation": "/nix/store/1yz4mz7vf14fwi7j3ji80c1gp3layfz1-beads-1.0.3.drv",
       "description": "Lightweight memory system for AI coding agents with graph-based issue tracking",
       "install_id": "beads",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=a799d3e3886da994fa307f817a6bc705ae538eeb",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
       "name": "beads-1.0.3",
       "pname": "beads",
-      "rev": "a799d3e3886da994fa307f817a6bc705ae538eeb",
-      "rev_count": 1011622,
-      "rev_date": "2026-06-06T12:30:50Z",
-      "scrape_date": "2026-06-08T04:53:14.397559Z",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:40:24.014167Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -488,7 +500,7 @@
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/2xk1gw514c9lcynzk8ksnq1b4kyb1psa-beads-1.0.3"
+        "out": "/nix/store/md9wy6q4lgjsyyj3f06sz7ls0x085w4y-beads-1.0.3"
       },
       "system": "x86_64-linux",
       "group": "ai-tools",
@@ -509,6 +521,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T03:12:54.942301Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -538,6 +551,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T03:41:21.500175Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -567,6 +581,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T04:09:00.255695Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -596,6 +611,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T04:40:24.123510Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -729,6 +745,7 @@
       "version": "2.94.0",
       "outputs_to_install": [
         "out",
+        "out",
         "out"
       ],
       "outputs": {
@@ -741,29 +758,29 @@
     {
       "attr_path": "copilot-cli",
       "broken": false,
-      "derivation": "/nix/store/blplhzbnlz8m52a1xxiql99ri5iw93vw-copilot-cli-1.0.63.drv",
+      "derivation": "/nix/store/jc879g3hgvj4924l6gxyr79cr36yjzxv-copilot-cli-1.0.70.drv",
       "description": "GitHub Copilot CLI - Copilot coding agent in your terminal",
       "install_id": "github-copilot-cli",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs.git?rev=05d20dea9caf84413cf63c92028c4723a8643d23",
-      "name": "copilot-cli-1.0.63",
+      "locked_url": "https://github.com/flox/floxenvs?rev=146027ed5d51549e7c5db9f6d84551f9a50e438e",
+      "name": "copilot-cli-1.0.70",
       "pname": "copilot-cli",
-      "rev": "05d20dea9caf84413cf63c92028c4723a8643d23",
-      "rev_count": 9806,
-      "rev_date": "2026-06-21T20:51:38Z",
-      "scrape_date": "2026-07-10T10:19:12.293689553Z",
+      "rev": "146027ed5d51549e7c5db9f6d84551f9a50e438e",
+      "rev_count": 14257,
+      "rev_date": "2026-07-13T22:08:08Z",
+      "scrape_date": "2026-07-19T05:12:01.323085Z",
       "stabilities": [
         "stable",
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "1.0.63",
+      "version": "1.0.70",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/lnq7bk6rdraciqjrj87ypv3x4wdm5mnf-copilot-cli-1.0.63"
+        "out": "/nix/store/v4c5g88fn4lagjjbvzdx3gvp81rmsqip-copilot-cli-1.0.70"
       },
       "system": "aarch64-darwin",
       "group": "dev-tools",
@@ -772,29 +789,29 @@
     {
       "attr_path": "copilot-cli",
       "broken": false,
-      "derivation": "/nix/store/pbsh09933xh2mhs82gqd5hbv4z2xvh1r-copilot-cli-1.0.63.drv",
+      "derivation": "/nix/store/9zllp0g96agc0q9z353vhnc9pwh7v461-copilot-cli-1.0.70.drv",
       "description": "GitHub Copilot CLI - Copilot coding agent in your terminal",
       "install_id": "github-copilot-cli",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=9335e0828de86d7cbcc83f38226518302179a50a",
-      "name": "copilot-cli-1.0.63",
+      "locked_url": "https://github.com/flox/floxenvs?rev=146027ed5d51549e7c5db9f6d84551f9a50e438e",
+      "name": "copilot-cli-1.0.70",
       "pname": "copilot-cli",
-      "rev": "9335e0828de86d7cbcc83f38226518302179a50a",
-      "rev_count": 9730,
-      "rev_date": "2026-06-21T19:11:38Z",
-      "scrape_date": "2026-07-10T10:19:12.293690254Z",
+      "rev": "146027ed5d51549e7c5db9f6d84551f9a50e438e",
+      "rev_count": 14257,
+      "rev_date": "2026-07-13T22:08:08Z",
+      "scrape_date": "2026-07-19T05:12:01.323086Z",
       "stabilities": [
         "stable",
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "1.0.63",
+      "version": "1.0.70",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/5bsv39hfj7apvqvs497yrlv441fim293-copilot-cli-1.0.63"
+        "out": "/nix/store/xvbway20y75jxp1inbcl5jhrpsf52w4f-copilot-cli-1.0.70"
       },
       "system": "aarch64-linux",
       "group": "dev-tools",
@@ -803,29 +820,29 @@
     {
       "attr_path": "copilot-cli",
       "broken": false,
-      "derivation": "/nix/store/45zdaxch3p4ipb6fdv1xl0zl7pw7mlnf-copilot-cli-1.0.63.drv",
+      "derivation": "/nix/store/b3yf0i8gbs40grw4z943afrn2bsi40hg-copilot-cli-1.0.70.drv",
       "description": "GitHub Copilot CLI - Copilot coding agent in your terminal",
       "install_id": "github-copilot-cli",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs.git?rev=05d20dea9caf84413cf63c92028c4723a8643d23",
-      "name": "copilot-cli-1.0.63",
+      "locked_url": "https://github.com/flox/floxenvs?rev=146027ed5d51549e7c5db9f6d84551f9a50e438e",
+      "name": "copilot-cli-1.0.70",
       "pname": "copilot-cli",
-      "rev": "05d20dea9caf84413cf63c92028c4723a8643d23",
-      "rev_count": 9806,
-      "rev_date": "2026-06-21T20:51:38Z",
-      "scrape_date": "2026-07-10T10:19:12.293690875Z",
+      "rev": "146027ed5d51549e7c5db9f6d84551f9a50e438e",
+      "rev_count": 14257,
+      "rev_date": "2026-07-13T22:08:08Z",
+      "scrape_date": "2026-07-19T05:12:01.323086Z",
       "stabilities": [
         "stable",
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "1.0.63",
+      "version": "1.0.70",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/mdnq8djfw6rsd1j3xl075syxs5d960cd-copilot-cli-1.0.63"
+        "out": "/nix/store/y1qn5fg4gargyyr3fa0mzscdvzy9vahb-copilot-cli-1.0.70"
       },
       "system": "x86_64-darwin",
       "group": "dev-tools",
@@ -834,29 +851,29 @@
     {
       "attr_path": "copilot-cli",
       "broken": false,
-      "derivation": "/nix/store/sfzsmv9s6y2qkl6lkj4axdxn233nl4ai-copilot-cli-1.0.63.drv",
+      "derivation": "/nix/store/47bkv8d4ncc7v8x4j8p6g6g3lans5ic8-copilot-cli-1.0.70.drv",
       "description": "GitHub Copilot CLI - Copilot coding agent in your terminal",
       "install_id": "github-copilot-cli",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs.git?rev=05d20dea9caf84413cf63c92028c4723a8643d23",
-      "name": "copilot-cli-1.0.63",
+      "locked_url": "https://github.com/flox/floxenvs?rev=146027ed5d51549e7c5db9f6d84551f9a50e438e",
+      "name": "copilot-cli-1.0.70",
       "pname": "copilot-cli",
-      "rev": "05d20dea9caf84413cf63c92028c4723a8643d23",
-      "rev_count": 9806,
-      "rev_date": "2026-06-21T20:51:38Z",
-      "scrape_date": "2026-07-10T10:19:12.293691577Z",
+      "rev": "146027ed5d51549e7c5db9f6d84551f9a50e438e",
+      "rev_count": 14257,
+      "rev_date": "2026-07-13T22:08:08Z",
+      "scrape_date": "2026-07-19T05:12:01.323087Z",
       "stabilities": [
         "stable",
         "staging",
         "unstable"
       ],
       "unfree": true,
-      "version": "1.0.63",
+      "version": "1.0.70",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/54nbncb44bfd9y4n1n0r1q0n7kda71ls-copilot-cli-1.0.63"
+        "out": "/nix/store/a8gggij7c1s67ad3fxw7q98afj0dnkb1-copilot-cli-1.0.70"
       },
       "system": "x86_64-linux",
       "group": "dev-tools",
@@ -1254,6 +1271,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T03:13:19.420841Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1287,6 +1305,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T03:41:58.887125Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1320,6 +1339,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T04:09:30.945238Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1353,6 +1373,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T04:41:04.251370Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1386,6 +1407,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T03:15:39.783961Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1417,6 +1439,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T03:44:49.914410Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1448,6 +1471,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T04:12:24.122300Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1479,6 +1503,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T04:44:11.658517Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1510,6 +1535,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T03:12:56.227877Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1540,6 +1566,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T03:41:23.896640Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1569,6 +1596,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T04:09:01.839364Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -1598,6 +1626,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T04:40:26.718134Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -2358,6 +2387,8 @@
       "version": "1.36.1",
       "outputs_to_install": [
         "man",
+        "man",
+        "out",
         "out"
       ],
       "outputs": {
@@ -2632,6 +2663,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T03:13:20.493760Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -2661,6 +2693,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T03:42:00.460042Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -2690,6 +2723,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T04:09:32.244433Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -2719,6 +2753,7 @@
       "rev_date": "2026-07-05T04:06:12Z",
       "scrape_date": "2026-07-06T04:41:05.911622Z",
       "stabilities": [
+        "staging",
         "unstable"
       ],
       "unfree": false,
@@ -2731,6 +2766,246 @@
       },
       "system": "x86_64-linux",
       "group": "nodejs",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/ia3zddfsycaz0c26vnd8w0qibilfpj16-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:14:51.929947Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/54s6fq65f9mxg4344an2abb69m8mywyn-sprite-0.0.1-rc44"
+      },
+      "system": "aarch64-darwin",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/jjns4wjh9llfbxzljdl1yqqs3igghprb-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:43:51.537966Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/b7l2m6mq1rqm3czyqrg42khzyj2035xq-sprite-0.0.1-rc44"
+      },
+      "system": "aarch64-linux",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/pk97biar2yd33iy91gl2wj14c7fvnpf8-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:11:25.405971Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/8h0rsjmgqzi557x94gwj0f25j7cw4snl-sprite-0.0.1-rc44"
+      },
+      "system": "x86_64-darwin",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "sprite",
+      "broken": false,
+      "derivation": "/nix/store/6m0cw0qajf2lf8ndpkmygmw3ngchyma9-sprite-0.0.1-rc44.drv",
+      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
+      "install_id": "sprite",
+      "license": "Unfree",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "sprite-0.0.1-rc44",
+      "pname": "sprite",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:43:07.633832Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": true,
+      "version": "0.0.1-rc44",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/xx76zxga5fj3mpgzmv6brz5b5vrajx2n-sprite-0.0.1-rc44"
+      },
+      "system": "x86_64-linux",
+      "group": "sprite",
+      "priority": 5
+    },
+    {
+      "attr_path": "starship",
+      "broken": false,
+      "derivation": "/nix/store/nkl766cwlb0irbh2p2897kynjcj5z5m5-starship-1.26.0.drv",
+      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
+      "install_id": "starship",
+      "license": "ISC",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "starship-1.26.0",
+      "pname": "starship",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:14:52.468097Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.26.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/bdxd2la52jv7gh4sy46na0clc0jafrqv-starship-1.26.0"
+      },
+      "system": "aarch64-darwin",
+      "group": "starship",
+      "priority": 5
+    },
+    {
+      "attr_path": "starship",
+      "broken": false,
+      "derivation": "/nix/store/b2akg04vxj22y17xs3s1ac873k2bsrka-starship-1.26.0.drv",
+      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
+      "install_id": "starship",
+      "license": "ISC",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "starship-1.26.0",
+      "pname": "starship",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T03:43:52.242118Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.26.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/wyr9la08k4cvd7nggadjqm84ryk49h6y-starship-1.26.0"
+      },
+      "system": "aarch64-linux",
+      "group": "starship",
+      "priority": 5
+    },
+    {
+      "attr_path": "starship",
+      "broken": false,
+      "derivation": "/nix/store/pyy27ay7bz8qg2v1bq28xn70zfwm3z1j-starship-1.26.0.drv",
+      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
+      "install_id": "starship",
+      "license": "ISC",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "starship-1.26.0",
+      "pname": "starship",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:11:26.036401Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.26.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/mpyjw3wc4ns7gwdaljq1dnsxj0dv3pdf-starship-1.26.0"
+      },
+      "system": "x86_64-darwin",
+      "group": "starship",
+      "priority": 5
+    },
+    {
+      "attr_path": "starship",
+      "broken": false,
+      "derivation": "/nix/store/kqbg5ivl3bbqyvg4dvfwgy6gakamxa2l-starship-1.26.0.drv",
+      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
+      "install_id": "starship",
+      "license": "ISC",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
+      "name": "starship-1.26.0",
+      "pname": "starship",
+      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
+      "rev_count": 1027867,
+      "rev_date": "2026-07-05T04:06:12Z",
+      "scrape_date": "2026-07-06T04:43:08.441234Z",
+      "stabilities": [
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "1.26.0",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/0nlqa67n9vibr6kxlp0a6yhgngnp2caw-starship-1.26.0"
+      },
+      "system": "x86_64-linux",
+      "group": "starship",
       "priority": 5
     },
     {
@@ -3109,6 +3384,130 @@
       ],
       "outputs": {
         "out": "/nix/store/2ii7sbkq44zrkv4iv6g7bqi47m4ch28b-gum-0.17.0"
+      },
+      "system": "x86_64-linux",
+      "group": "shell-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "hwatch",
+      "broken": false,
+      "derivation": "/nix/store/6bhs1r6jrqqlhdhycf9js9p256a4alyy-hwatch-0.4.2.drv",
+      "description": "Modern alternative to the watch command",
+      "install_id": "hwatch",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "name": "hwatch-0.4.2",
+      "pname": "hwatch",
+      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "rev_count": 1017464,
+      "rev_date": "2026-06-16T02:33:49Z",
+      "scrape_date": "2026-06-17T03:13:30.270866Z",
+      "stabilities": [
+        "stable",
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.4.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/i1m8613s0xrw3n7cbxp93hhdxnvji29l-hwatch-0.4.2"
+      },
+      "system": "aarch64-darwin",
+      "group": "shell-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "hwatch",
+      "broken": false,
+      "derivation": "/nix/store/3kwl40pjj285w331pjnixhw5w16pzzl9-hwatch-0.4.2.drv",
+      "description": "Modern alternative to the watch command",
+      "install_id": "hwatch",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "name": "hwatch-0.4.2",
+      "pname": "hwatch",
+      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "rev_count": 1017464,
+      "rev_date": "2026-06-16T02:33:49Z",
+      "scrape_date": "2026-06-17T03:44:29.333232Z",
+      "stabilities": [
+        "stable",
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.4.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/0drj89z155lm8df5n3jhm92nrll33a7v-hwatch-0.4.2"
+      },
+      "system": "aarch64-linux",
+      "group": "shell-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "hwatch",
+      "broken": false,
+      "derivation": "/nix/store/l2vhzcg9hgkzfhz0iddzfx9izqxcx1r2-hwatch-0.4.2.drv",
+      "description": "Modern alternative to the watch command",
+      "install_id": "hwatch",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "name": "hwatch-0.4.2",
+      "pname": "hwatch",
+      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "rev_count": 1017464,
+      "rev_date": "2026-06-16T02:33:49Z",
+      "scrape_date": "2026-06-17T04:13:23.010681Z",
+      "stabilities": [
+        "stable",
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.4.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/1rvn727ahilnflfhm2d9j95kd5jhjq5l-hwatch-0.4.2"
+      },
+      "system": "x86_64-darwin",
+      "group": "shell-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "hwatch",
+      "broken": false,
+      "derivation": "/nix/store/a5fk93rd7m19f4wdcscqhx4dm6d60ll3-hwatch-0.4.2.drv",
+      "description": "Modern alternative to the watch command",
+      "install_id": "hwatch",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "name": "hwatch-0.4.2",
+      "pname": "hwatch",
+      "rev": "567a49d1913ce81ac6e9582e3553dd90a955875f",
+      "rev_count": 1017464,
+      "rev_date": "2026-06-16T02:33:49Z",
+      "scrape_date": "2026-06-17T04:47:26.519410Z",
+      "stabilities": [
+        "stable",
+        "staging",
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.4.2",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/8qyl15xfkqbg30axvjra1i2ahhb6dy18-hwatch-0.4.2"
       },
       "system": "x86_64-linux",
       "group": "shell-tools",
@@ -3502,238 +3901,6 @@
       },
       "system": "x86_64-linux",
       "group": "shell-tools",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/ia3zddfsycaz0c26vnd8w0qibilfpj16-sprite-0.0.1-rc44.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
-      "name": "sprite-0.0.1-rc44",
-      "pname": "sprite",
-      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
-      "rev_count": 1027867,
-      "rev_date": "2026-07-05T04:06:12Z",
-      "scrape_date": "2026-07-06T03:14:51.929947Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/54s6fq65f9mxg4344an2abb69m8mywyn-sprite-0.0.1-rc44"
-      },
-      "system": "aarch64-darwin",
-      "group": "sprite",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/jjns4wjh9llfbxzljdl1yqqs3igghprb-sprite-0.0.1-rc44.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
-      "name": "sprite-0.0.1-rc44",
-      "pname": "sprite",
-      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
-      "rev_count": 1027867,
-      "rev_date": "2026-07-05T04:06:12Z",
-      "scrape_date": "2026-07-06T03:43:51.537966Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/b7l2m6mq1rqm3czyqrg42khzyj2035xq-sprite-0.0.1-rc44"
-      },
-      "system": "aarch64-linux",
-      "group": "sprite",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/pk97biar2yd33iy91gl2wj14c7fvnpf8-sprite-0.0.1-rc44.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
-      "name": "sprite-0.0.1-rc44",
-      "pname": "sprite",
-      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
-      "rev_count": 1027867,
-      "rev_date": "2026-07-05T04:06:12Z",
-      "scrape_date": "2026-07-06T04:11:25.405971Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/8h0rsjmgqzi557x94gwj0f25j7cw4snl-sprite-0.0.1-rc44"
-      },
-      "system": "x86_64-darwin",
-      "group": "sprite",
-      "priority": 5
-    },
-    {
-      "attr_path": "sprite",
-      "broken": false,
-      "derivation": "/nix/store/6m0cw0qajf2lf8ndpkmygmw3ngchyma9-sprite-0.0.1-rc44.drv",
-      "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
-      "install_id": "sprite",
-      "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
-      "name": "sprite-0.0.1-rc44",
-      "pname": "sprite",
-      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
-      "rev_count": 1027867,
-      "rev_date": "2026-07-05T04:06:12Z",
-      "scrape_date": "2026-07-06T04:43:07.633832Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": true,
-      "version": "0.0.1-rc44",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/xx76zxga5fj3mpgzmv6brz5b5vrajx2n-sprite-0.0.1-rc44"
-      },
-      "system": "x86_64-linux",
-      "group": "sprite",
-      "priority": 5
-    },
-    {
-      "attr_path": "starship",
-      "broken": false,
-      "derivation": "/nix/store/nkl766cwlb0irbh2p2897kynjcj5z5m5-starship-1.26.0.drv",
-      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
-      "install_id": "starship",
-      "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
-      "name": "starship-1.26.0",
-      "pname": "starship",
-      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
-      "rev_count": 1027867,
-      "rev_date": "2026-07-05T04:06:12Z",
-      "scrape_date": "2026-07-06T03:14:52.468097Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "1.26.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/bdxd2la52jv7gh4sy46na0clc0jafrqv-starship-1.26.0"
-      },
-      "system": "aarch64-darwin",
-      "group": "starship",
-      "priority": 5
-    },
-    {
-      "attr_path": "starship",
-      "broken": false,
-      "derivation": "/nix/store/b2akg04vxj22y17xs3s1ac873k2bsrka-starship-1.26.0.drv",
-      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
-      "install_id": "starship",
-      "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
-      "name": "starship-1.26.0",
-      "pname": "starship",
-      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
-      "rev_count": 1027867,
-      "rev_date": "2026-07-05T04:06:12Z",
-      "scrape_date": "2026-07-06T03:43:52.242118Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "1.26.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/wyr9la08k4cvd7nggadjqm84ryk49h6y-starship-1.26.0"
-      },
-      "system": "aarch64-linux",
-      "group": "starship",
-      "priority": 5
-    },
-    {
-      "attr_path": "starship",
-      "broken": false,
-      "derivation": "/nix/store/pyy27ay7bz8qg2v1bq28xn70zfwm3z1j-starship-1.26.0.drv",
-      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
-      "install_id": "starship",
-      "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
-      "name": "starship-1.26.0",
-      "pname": "starship",
-      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
-      "rev_count": 1027867,
-      "rev_date": "2026-07-05T04:06:12Z",
-      "scrape_date": "2026-07-06T04:11:26.036401Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "1.26.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/mpyjw3wc4ns7gwdaljq1dnsxj0dv3pdf-starship-1.26.0"
-      },
-      "system": "x86_64-darwin",
-      "group": "starship",
-      "priority": 5
-    },
-    {
-      "attr_path": "starship",
-      "broken": false,
-      "derivation": "/nix/store/kqbg5ivl3bbqyvg4dvfwgy6gakamxa2l-starship-1.26.0.drv",
-      "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
-      "install_id": "starship",
-      "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=d407951447dcd00442e97087bf374aad70c04cea",
-      "name": "starship-1.26.0",
-      "pname": "starship",
-      "rev": "d407951447dcd00442e97087bf374aad70c04cea",
-      "rev_count": 1027867,
-      "rev_date": "2026-07-05T04:06:12Z",
-      "scrape_date": "2026-07-06T04:43:08.441234Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "1.26.0",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/0nlqa67n9vibr6kxlp0a6yhgngnp2caw-starship-1.26.0"
-      },
-      "system": "x86_64-linux",
-      "group": "starship",
       "priority": 5
     }
   ]
