@@ -76,7 +76,6 @@ sprite.pkg-group = "sprite" # temp override
 # AI tools
 antigravity-cli.pkg-path = "antigravity-cli"
 antigravity-cli.pkg-group = "ai-tools"
-antigravity-cli.version = "1.0.12"
 beads.pkg-path = "beads"
 beads.pkg-group = "ai-tools"
 claude-code.pkg-path = "flox/claude-code"
