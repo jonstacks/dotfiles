@@ -151,29 +151,29 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/84w6d30azqdlzrygjh4grcgk3rygf24x-claude-code-2.1.312.drv",
+      "derivation": "/nix/store/26fd11qrwhk513lw5zr6k30k23c4fcbx-claude-code-2.1.318.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=a668da1a1cf490224f116ff231636ccdac20ccc9",
-      "name": "claude-code-2.1.312",
+      "locked_url": "https://github.com/flox/floxenvs?rev=f518b2746be6baf76f145eae39e687ff04cbc594",
+      "name": "claude-code-2.1.318",
       "pname": "claude-code",
-      "rev": "a668da1a1cf490224f116ff231636ccdac20ccc9",
-      "rev_count": 30422,
-      "rev_date": "2026-10-28T01:01:16Z",
-      "scrape_date": "2026-10-29T17:22:26.533865Z",
+      "rev": "f518b2746be6baf76f145eae39e687ff04cbc594",
+      "rev_count": 30836,
+      "rev_date": "2026-11-05T01:01:09Z",
+      "scrape_date": "2026-11-05T15:10:44.997258784Z",
       "stabilities": [
         "unstable",
         "stable",
         "staging"
       ],
       "unfree": true,
-      "version": "2.1.312",
+      "version": "2.1.318",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/mdwnr4v85cv9lfa3ld2m7ps3axidp0am-claude-code-2.1.312"
+        "out": "/nix/store/j4pvvbmcmxnzjadgqax4xarryljpymm6-claude-code-2.1.318"
       },
       "system": "aarch64-darwin",
       "group": "ai-claude",
@@ -182,29 +182,29 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/6kbxh7kdkfzfg4dn91ww5ik6jjnkc23m-claude-code-2.1.312.drv",
+      "derivation": "/nix/store/468xzsax7cbsp6l37kpw8dw5vqcy6asi-claude-code-2.1.318.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=a668da1a1cf490224f116ff231636ccdac20ccc9",
-      "name": "claude-code-2.1.312",
+      "locked_url": "https://github.com/flox/floxenvs?rev=f518b2746be6baf76f145eae39e687ff04cbc594",
+      "name": "claude-code-2.1.318",
       "pname": "claude-code",
-      "rev": "a668da1a1cf490224f116ff231636ccdac20ccc9",
-      "rev_count": 30422,
-      "rev_date": "2026-10-28T01:01:16Z",
-      "scrape_date": "2026-10-29T17:22:26.533870Z",
+      "rev": "f518b2746be6baf76f145eae39e687ff04cbc594",
+      "rev_count": 30836,
+      "rev_date": "2026-11-05T01:01:09Z",
+      "scrape_date": "2026-11-05T15:10:44.997268563Z",
       "stabilities": [
         "unstable",
         "stable",
         "staging"
       ],
       "unfree": true,
-      "version": "2.1.312",
+      "version": "2.1.318",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/wh289fpa5am1pm53wl8wfrb3lvw442kl-claude-code-2.1.312"
+        "out": "/nix/store/n753fvpr3rsasllac83p2n3kdda7nar6-claude-code-2.1.318"
       },
       "system": "aarch64-linux",
       "group": "ai-claude",
@@ -213,29 +213,29 @@
     {
       "attr_path": "claude-code",
       "broken": false,
-      "derivation": "/nix/store/2ba8pmlhrxgmk6cnp7nqrpwb0n3x68fh-claude-code-2.1.312.drv",
+      "derivation": "/nix/store/mgyih42xzk0wqrmb09smw7f2rw4i6b01-claude-code-2.1.318.drv",
       "description": "Agentic coding tool from Anthropic",
       "install_id": "claude-code",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/floxenvs?rev=a668da1a1cf490224f116ff231636ccdac20ccc9",
-      "name": "claude-code-2.1.312",
+      "locked_url": "https://github.com/flox/floxenvs?rev=f518b2746be6baf76f145eae39e687ff04cbc594",
+      "name": "claude-code-2.1.318",
       "pname": "claude-code",
-      "rev": "a668da1a1cf490224f116ff231636ccdac20ccc9",
-      "rev_count": 30422,
-      "rev_date": "2026-10-28T01:01:16Z",
-      "scrape_date": "2026-10-29T17:22:26.533872Z",
+      "rev": "f518b2746be6baf76f145eae39e687ff04cbc594",
+      "rev_count": 30836,
+      "rev_date": "2026-11-05T01:01:09Z",
+      "scrape_date": "2026-11-05T15:10:44.997270938Z",
       "stabilities": [
         "unstable",
         "stable",
         "staging"
       ],
       "unfree": true,
-      "version": "2.1.312",
+      "version": "2.1.318",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/6zqxcm8b5gfiapqpibafdxc1xjvcix9y-claude-code-2.1.312"
+        "out": "/nix/store/2zwjjn14x5yc9pvfxdyr3dc7218b1hp0-claude-code-2.1.318"
       },
       "system": "x86_64-linux",
       "group": "ai-claude",
@@ -248,13 +248,13 @@
       "description": "Google's Go-based terminal user interface (TUI) agent client",
       "install_id": "antigravity-cli",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "antigravity-cli-1.4.8",
       "pname": "antigravity-cli",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:03.557288Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.114610Z",
       "stabilities": [
         "unstable"
       ],
@@ -277,13 +277,13 @@
       "description": "Google's Go-based terminal user interface (TUI) agent client",
       "install_id": "antigravity-cli",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "antigravity-cli-1.4.8",
       "pname": "antigravity-cli",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.209468Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.092073Z",
       "stabilities": [
         "unstable"
       ],
@@ -306,13 +306,13 @@
       "description": "Google's Go-based terminal user interface (TUI) agent client",
       "install_id": "antigravity-cli",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "antigravity-cli-1.4.8",
       "pname": "antigravity-cli",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.359508Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.154928Z",
       "stabilities": [
         "unstable"
       ],
@@ -331,27 +331,27 @@
     {
       "attr_path": "beads",
       "broken": false,
-      "derivation": "/nix/store/1g6da6w3766h545y062jyrp7ahf9dbk5-beads-1.3.1.drv",
+      "derivation": "/nix/store/hdm4ab74f5al1vvxa2ikfwcm44fh9gvb-beads-1.3.2.drv",
       "description": "Lightweight memory system for AI coding agents with graph-based issue tracking",
       "install_id": "beads",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "name": "beads-1.3.1",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "beads-1.3.2",
       "pname": "beads",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:03.563078Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.118535Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "1.3.1",
+      "version": "1.3.2",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/5rk908cljajik2dj1f08n20q9gckhpdw-beads-1.3.1"
+        "out": "/nix/store/a17yqwbgz1jbybpzzklsbayrq48i02nn-beads-1.3.2"
       },
       "system": "aarch64-darwin",
       "group": "ai-tools",
@@ -360,27 +360,27 @@
     {
       "attr_path": "beads",
       "broken": false,
-      "derivation": "/nix/store/i8drx1k50cw5vrm3f4g3cy43kl5qc7pl-beads-1.3.1.drv",
+      "derivation": "/nix/store/zkxkv5fhh3k45wcjv0pfq6l11m5gk8dl-beads-1.3.2.drv",
       "description": "Lightweight memory system for AI coding agents with graph-based issue tracking",
       "install_id": "beads",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "name": "beads-1.3.1",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "beads-1.3.2",
       "pname": "beads",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.214263Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.097043Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "1.3.1",
+      "version": "1.3.2",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/rafhc8a56fx129c64cs52fhhypzb61fj-beads-1.3.1"
+        "out": "/nix/store/1xx2p7aj43p5hk87p4lnvil145sdhdfz-beads-1.3.2"
       },
       "system": "aarch64-linux",
       "group": "ai-tools",
@@ -389,27 +389,27 @@
     {
       "attr_path": "beads",
       "broken": false,
-      "derivation": "/nix/store/4kjyyid3yxr3r59j6v83v83wpyibyf8k-beads-1.3.1.drv",
+      "derivation": "/nix/store/ccmsgp4icv5ibdcj07mshb3c7ja6qnc7-beads-1.3.2.drv",
       "description": "Lightweight memory system for AI coding agents with graph-based issue tracking",
       "install_id": "beads",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "name": "beads-1.3.1",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "beads-1.3.2",
       "pname": "beads",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.364534Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.159850Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "1.3.1",
+      "version": "1.3.2",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/whyh5pfg88v2sgd0cwpvj03mczbmddi2-beads-1.3.1"
+        "out": "/nix/store/pv8vrgbmg0fhwy6pdpzjk4daijj8lkd0-beads-1.3.2"
       },
       "system": "x86_64-linux",
       "group": "ai-tools",
@@ -418,27 +418,27 @@
     {
       "attr_path": "btop",
       "broken": false,
-      "derivation": "/nix/store/h6jnqrxiav00m4qqbapvzvqck2f4447r-btop-1.4.7.drv",
+      "derivation": "/nix/store/cx9bd30w9ayjrrxvhq2niax2np8mz1af-btop-1.4.8.drv",
       "description": "Monitor of resources",
       "install_id": "btop",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "btop-1.4.7",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "btop-1.4.8",
       "pname": "btop",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T05:51:32.488152Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.120588Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "1.4.7",
+      "version": "1.4.8",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/if1dn9yhiwy7b3dbcgw76aj9nfxjqnrb-btop-1.4.7"
+        "out": "/nix/store/v2awgayfa30wc5616alb2mpsbrgq0cb6-btop-1.4.8"
       },
       "system": "aarch64-darwin",
       "group": "btop",
@@ -447,27 +447,27 @@
     {
       "attr_path": "btop",
       "broken": false,
-      "derivation": "/nix/store/56kan13barq1p55xdilbxd6y0qfxz0yq-btop-1.4.7.drv",
+      "derivation": "/nix/store/5alfz9sifi1hrf4dfvmfzh6rln5n20i4-btop-1.4.8.drv",
       "description": "Monitor of resources",
       "install_id": "btop",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "btop-1.4.7",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "btop-1.4.8",
       "pname": "btop",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T06:24:58.728197Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.112382Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "1.4.7",
+      "version": "1.4.8",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/pc5kzs4d02m432sdpb99k3p319cv0gpi-btop-1.4.7"
+        "out": "/nix/store/pynhf0z9b1ap535z4zvd2a8z26w136kj-btop-1.4.8"
       },
       "system": "aarch64-linux",
       "group": "btop",
@@ -476,27 +476,27 @@
     {
       "attr_path": "btop",
       "broken": false,
-      "derivation": "/nix/store/xjiln1z16chfvqw21p3k9jcin8ygpfh8-btop-1.4.7.drv",
+      "derivation": "/nix/store/3q6vlh58slhy317cpazvvchzpr1pkkh2-btop-1.4.8.drv",
       "description": "Monitor of resources",
       "install_id": "btop",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "btop-1.4.7",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "btop-1.4.8",
       "pname": "btop",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T07:01:24.175090Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.162662Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "1.4.7",
+      "version": "1.4.8",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/ldv2jmszha1v59il2rzc9m2f1bjvpmzw-btop-1.4.7"
+        "out": "/nix/store/yxmbmr0aivbwyxmbyd7s0wd405mwmzlq-btop-1.4.8"
       },
       "system": "x86_64-linux",
       "group": "btop",
@@ -612,7 +612,7 @@
       "rev": "50ecd4f4620fc5ead5e25ce7e4b9182ad3452af7",
       "rev_count": 19954,
       "rev_date": "2026-08-14T07:00:50Z",
-      "scrape_date": "2026-10-29T17:22:26.533933Z",
+      "scrape_date": "2026-11-05T15:10:44.997332962Z",
       "stabilities": [
         "staging",
         "unstable",
@@ -643,7 +643,7 @@
       "rev": "50ecd4f4620fc5ead5e25ce7e4b9182ad3452af7",
       "rev_count": 19954,
       "rev_date": "2026-08-14T07:00:50Z",
-      "scrape_date": "2026-10-29T17:22:26.533934Z",
+      "scrape_date": "2026-11-05T15:10:44.997334848Z",
       "stabilities": [
         "staging",
         "unstable",
@@ -674,7 +674,7 @@
       "rev": "50ecd4f4620fc5ead5e25ce7e4b9182ad3452af7",
       "rev_count": 19954,
       "rev_date": "2026-08-14T07:00:50Z",
-      "scrape_date": "2026-10-29T17:22:26.533940Z",
+      "scrape_date": "2026-11-05T15:10:44.997340994Z",
       "stabilities": [
         "staging",
         "unstable",
@@ -982,13 +982,13 @@
       "description": "Small, user-friendly console text editor",
       "install_id": "nano",
       "license": "GPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "nano-9.3",
       "pname": "nano",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:03.771404Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.262156Z",
       "stabilities": [
         "unstable"
       ],
@@ -1015,13 +1015,13 @@
       "description": "Small, user-friendly console text editor",
       "install_id": "nano",
       "license": "GPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "nano-9.3",
       "pname": "nano",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.511929Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.310458Z",
       "stabilities": [
         "unstable"
       ],
@@ -1048,13 +1048,13 @@
       "description": "Small, user-friendly console text editor",
       "install_id": "nano",
       "license": "GPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "nano-9.3",
       "pname": "nano",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.621921Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.458529Z",
       "stabilities": [
         "unstable"
       ],
@@ -1081,13 +1081,13 @@
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "vim-9.2.1164",
       "pname": "vim",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:04.206109Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.538724Z",
       "stabilities": [
         "unstable"
       ],
@@ -1112,13 +1112,13 @@
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "vim-9.2.1164",
       "pname": "vim",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.780908Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.578569Z",
       "stabilities": [
         "unstable"
       ],
@@ -1143,13 +1143,13 @@
       "description": "Most popular clone of the VI editor",
       "install_id": "vim",
       "license": "Vim",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "vim-9.2.1164",
       "pname": "vim",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.866721Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.695429Z",
       "stabilities": [
         "unstable"
       ],
@@ -1174,13 +1174,13 @@
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "go-1.26.10",
       "pname": "go",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:03.624780Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.150146Z",
       "stabilities": [
         "unstable"
       ],
@@ -1203,13 +1203,13 @@
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "go-1.26.10",
       "pname": "go",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.385853Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.169886Z",
       "stabilities": [
         "unstable"
       ],
@@ -1232,13 +1232,13 @@
       "description": "Go Programming language",
       "install_id": "go",
       "license": "BSD-3-Clause",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "go-1.26.10",
       "pname": "go",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.498049Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.209937Z",
       "stabilities": [
         "unstable"
       ],
@@ -1257,27 +1257,27 @@
     {
       "attr_path": "argocd",
       "broken": false,
-      "derivation": "/nix/store/3ag7h32khr541lk3hixkkdbwqhwvv2ya-argocd-3.4.6.drv",
+      "derivation": "/nix/store/v5qhf0xn6vwkxvf8bv9nnd6ni3c79xll-argocd-3.5.6.drv",
       "description": "Declarative continuous deployment for Kubernetes",
       "install_id": "argocd",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "argocd-3.4.6",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "argocd-3.5.6",
       "pname": "argocd",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T05:51:32.479500Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.115329Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "3.4.6",
+      "version": "3.5.6",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/vv61ffb03818wcqxpf7dldnjdcaq287r-argocd-3.4.6"
+        "out": "/nix/store/qmb7p6r6ykiwl1pivmbrzaxircmyng80-argocd-3.5.6"
       },
       "system": "aarch64-darwin",
       "group": "go-tools",
@@ -1286,27 +1286,27 @@
     {
       "attr_path": "argocd",
       "broken": false,
-      "derivation": "/nix/store/2hf9cc92agkxk31mwkdn2v4r23h8i0cy-argocd-3.4.6.drv",
+      "derivation": "/nix/store/lz80bns23xyidaxv3fp2vf7b3nz844c8-argocd-3.5.6.drv",
       "description": "Declarative continuous deployment for Kubernetes",
       "install_id": "argocd",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "argocd-3.4.6",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "argocd-3.5.6",
       "pname": "argocd",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T06:24:58.721742Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.093030Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "3.4.6",
+      "version": "3.5.6",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/099mzzybzkdvrhzq0icsdv2dbpzaml34-argocd-3.4.6"
+        "out": "/nix/store/yzhd79wvmxy8i0d1w3jpcd20fyrh26hs-argocd-3.5.6"
       },
       "system": "aarch64-linux",
       "group": "go-tools",
@@ -1315,27 +1315,27 @@
     {
       "attr_path": "argocd",
       "broken": false,
-      "derivation": "/nix/store/7i6php5f2fr61bbrbv56k0gxm15zf3bf-argocd-3.4.6.drv",
+      "derivation": "/nix/store/9l9ad7z3h804hvkparlbxv736r92nlil-argocd-3.5.6.drv",
       "description": "Declarative continuous deployment for Kubernetes",
       "install_id": "argocd",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "argocd-3.4.6",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "argocd-3.5.6",
       "pname": "argocd",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T07:01:24.168256Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.155875Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "3.4.6",
+      "version": "3.5.6",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/0jvl0c4y4rpwngmnzyyv1hcjf9wh344c-argocd-3.4.6"
+        "out": "/nix/store/c5aamwi41s8rvnwf477lgy87apsfh9r5-argocd-3.5.6"
       },
       "system": "x86_64-linux",
       "group": "go-tools",
@@ -1344,27 +1344,27 @@
     {
       "attr_path": "hugo",
       "broken": false,
-      "derivation": "/nix/store/2dhs1vgzih67wr7pix02naa1nw74q9lq-hugo-0.168.0.drv",
+      "derivation": "/nix/store/qd1mgg79v0fdf6k9jy3apy57970hl41n-hugo-0.169.0.drv",
       "description": "Fast and modern static website engine",
       "install_id": "hugo",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "hugo-0.168.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "hugo-0.169.0",
       "pname": "hugo",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T05:51:32.608605Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.228255Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "0.168.0",
+      "version": "0.169.0",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/kfx3752n5np6z4b2kpzdjwqyn69k0k5b-hugo-0.168.0"
+        "out": "/nix/store/sp14f4f83cy6rd16vxd0dqqb7m2bpqbj-hugo-0.169.0"
       },
       "system": "aarch64-darwin",
       "group": "go-tools",
@@ -1373,27 +1373,27 @@
     {
       "attr_path": "hugo",
       "broken": false,
-      "derivation": "/nix/store/b6iidhapma77qvbdlk28n2p72nb9ic38-hugo-0.168.0.drv",
+      "derivation": "/nix/store/mg90ldn5p1d8bk8vyakl9f9s42f2mh05-hugo-0.169.0.drv",
       "description": "Fast and modern static website engine",
       "install_id": "hugo",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "hugo-0.168.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "hugo-0.169.0",
       "pname": "hugo",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T06:24:58.852367Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.265275Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "0.168.0",
+      "version": "0.169.0",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/8mflrpksx5hifdhjr5mcink40s16d7d5-hugo-0.168.0"
+        "out": "/nix/store/vapsb4x39jn1r7mgfdcz8m292pkh97zz-hugo-0.169.0"
       },
       "system": "aarch64-linux",
       "group": "go-tools",
@@ -1402,27 +1402,27 @@
     {
       "attr_path": "hugo",
       "broken": false,
-      "derivation": "/nix/store/kqfwls7hs0amk2jcpwcs1v4hfkjkjmcj-hugo-0.168.0.drv",
+      "derivation": "/nix/store/jf8r3frwh24pj38vr8mhwag96hfhkdmp-hugo-0.169.0.drv",
       "description": "Fast and modern static website engine",
       "install_id": "hugo",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "hugo-0.168.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "hugo-0.169.0",
       "pname": "hugo",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T07:01:24.289383Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.287168Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "0.168.0",
+      "version": "0.169.0",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/9lrdjq46l2daz0m9880ywxkdxmqdzi1r-hugo-0.168.0"
+        "out": "/nix/store/4kj03lwx7r4qyza0ilz5k32cpvhx9qlx-hugo-0.169.0"
       },
       "system": "x86_64-linux",
       "group": "go-tools",
@@ -1431,27 +1431,27 @@
     {
       "attr_path": "k6",
       "broken": false,
-      "derivation": "/nix/store/s666x3ydkdwwg3i24jhgrah6f2jyfckm-k6-2.2.0.drv",
+      "derivation": "/nix/store/jdp0z24zhhb4ipd108ssbf0m0fp1krjl-k6-2.3.0.drv",
       "description": "Modern load testing tool, using Go and JavaScript",
       "install_id": "k6",
       "license": "AGPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "k6-2.2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "k6-2.3.0",
       "pname": "k6",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T05:51:32.612911Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.232577Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "2.2.0",
+      "version": "2.3.0",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/5ky499d0axsa5g2sxfqvrkqxlgv37zmz-k6-2.2.0"
+        "out": "/nix/store/lzymxn7vbs2191iyrnrznyzsp9yg769h-k6-2.3.0"
       },
       "system": "aarch64-darwin",
       "group": "go-tools",
@@ -1460,27 +1460,27 @@
     {
       "attr_path": "k6",
       "broken": false,
-      "derivation": "/nix/store/cnilvn1mqmjs1vwybpknjxhxhlqzmr7l-k6-2.2.0.drv",
+      "derivation": "/nix/store/9ms6d25jw59a12gg1szc07ya4h97cc1b-k6-2.3.0.drv",
       "description": "Modern load testing tool, using Go and JavaScript",
       "install_id": "k6",
       "license": "AGPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "k6-2.2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "k6-2.3.0",
       "pname": "k6",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T06:24:58.866296Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.271685Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "2.2.0",
+      "version": "2.3.0",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/6wjq6snf6anfggf4jjq75wnqazpkkkxw-k6-2.2.0"
+        "out": "/nix/store/8s683sg9plg7jc8401cw7jb5akwdbxl3-k6-2.3.0"
       },
       "system": "aarch64-linux",
       "group": "go-tools",
@@ -1489,27 +1489,27 @@
     {
       "attr_path": "k6",
       "broken": false,
-      "derivation": "/nix/store/g3pb2frz1az5knigzxp67bgiikyhpn8g-k6-2.2.0.drv",
+      "derivation": "/nix/store/d18mhq9fs9m0d90zc4j5z8hnq3r84qjq-k6-2.3.0.drv",
       "description": "Modern load testing tool, using Go and JavaScript",
       "install_id": "k6",
       "license": "AGPL-3.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "k6-2.2.0",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "k6-2.3.0",
       "pname": "k6",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T07:01:24.295835Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.293389Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "2.2.0",
+      "version": "2.3.0",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/6k41441pishlgvcj0myznv9fswccfbkq-k6-2.2.0"
+        "out": "/nix/store/lflccyrbv7hzjqppjr2a0njr2xam93d4-k6-2.3.0"
       },
       "system": "x86_64-linux",
       "group": "go-tools",
@@ -1522,13 +1522,13 @@
       "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
       "install_id": "kind",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "kind-0.33.0",
       "pname": "kind",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T05:51:32.614174Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.237651Z",
       "stabilities": [
         "unstable"
       ],
@@ -1551,13 +1551,13 @@
       "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
       "install_id": "kind",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "kind-0.33.0",
       "pname": "kind",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T06:24:58.869404Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.275158Z",
       "stabilities": [
         "unstable"
       ],
@@ -1580,13 +1580,13 @@
       "description": "Kubernetes IN Docker - local clusters for testing Kubernetes",
       "install_id": "kind",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "kind-0.33.0",
       "pname": "kind",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T07:01:24.298989Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.296644Z",
       "stabilities": [
         "unstable"
       ],
@@ -1609,13 +1609,13 @@
       "description": "SDK for building Kubernetes APIs using CRDs",
       "install_id": "kubebuilder",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "kubebuilder-4.15.0",
       "pname": "kubebuilder",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T05:51:32.614924Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.238440Z",
       "stabilities": [
         "unstable"
       ],
@@ -1638,13 +1638,13 @@
       "description": "SDK for building Kubernetes APIs using CRDs",
       "install_id": "kubebuilder",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "kubebuilder-4.15.0",
       "pname": "kubebuilder",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T06:24:58.870551Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.276406Z",
       "stabilities": [
         "unstable"
       ],
@@ -1667,13 +1667,13 @@
       "description": "SDK for building Kubernetes APIs using CRDs",
       "install_id": "kubebuilder",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "kubebuilder-4.15.0",
       "pname": "kubebuilder",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T07:01:24.300189Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.297863Z",
       "stabilities": [
         "unstable"
       ],
@@ -1692,30 +1692,30 @@
     {
       "attr_path": "kubectl",
       "broken": false,
-      "derivation": "/nix/store/f2i11kyhsw26abra5qq44jqfqyyr7v8x-kubectl-1.37.1.drv",
+      "derivation": "/nix/store/ppp0g6i6hjm4isap8srkadnbq0z36fkh-kubectl-1.37.2.drv",
       "description": "Kubernetes CLI",
       "install_id": "kubectl",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "kubectl-1.37.1",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "kubectl-1.37.2",
       "pname": "kubectl",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T05:51:32.614946Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.238458Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "1.37.1",
+      "version": "1.37.2",
       "outputs_to_install": [
         "man",
         "out"
       ],
       "outputs": {
-        "convert": "/nix/store/frqrwwskvnsnyd9wkxbm3cfkk8mwbs7c-kubectl-1.37.1-convert",
-        "man": "/nix/store/ir6p37lil847bl0nd6w10sfl6wj8mb1b-kubectl-1.37.1-man",
-        "out": "/nix/store/zlx2pr6ipw1q50nxs8580xna13d098iy-kubectl-1.37.1"
+        "convert": "/nix/store/f15yl7iwfb0r27m9xp285if951dw4mcr-kubectl-1.37.2-convert",
+        "man": "/nix/store/jwqp1sj9f78msxy38bcvbkmrvkls4aw4-kubectl-1.37.2-man",
+        "out": "/nix/store/cvg87ywlkgajjd6nwlimz54i0nzwwrhp-kubectl-1.37.2"
       },
       "system": "aarch64-darwin",
       "group": "go-tools",
@@ -1724,30 +1724,31 @@
     {
       "attr_path": "kubectl",
       "broken": false,
-      "derivation": "/nix/store/mwrxm0vssbp14726dpym1ivrl84aly8a-kubectl-1.37.1.drv",
+      "derivation": "/nix/store/2vdvqyzfc91qc8izkv4airhgqw9jbjv0-kubectl-1.37.2.drv",
       "description": "Kubernetes CLI",
       "install_id": "kubectl",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "kubectl-1.37.1",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "kubectl-1.37.2",
       "pname": "kubectl",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T06:24:58.870569Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.276427Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "1.37.1",
+      "version": "1.37.2",
       "outputs_to_install": [
         "man",
+        "out",
         "out"
       ],
       "outputs": {
-        "convert": "/nix/store/plx4r0x8xa75d17qq19f0bhqgha6xszv-kubectl-1.37.1-convert",
-        "man": "/nix/store/2b04gyvqxq3vzdc802nqlc14ckrhc2hy-kubectl-1.37.1-man",
-        "out": "/nix/store/mlysd3iy7c9wvpk0n7hkgm5091xmq8yg-kubectl-1.37.1"
+        "convert": "/nix/store/lzmy9b5dr7hxahdvwvawl12v9flvnkz1-kubectl-1.37.2-convert",
+        "man": "/nix/store/vc5fwb4j4lbs4scr0nlwz1bqw9xlvlm9-kubectl-1.37.2-man",
+        "out": "/nix/store/q587pl05z2dfvh5h5jjpngp9h3zakp25-kubectl-1.37.2"
       },
       "system": "aarch64-linux",
       "group": "go-tools",
@@ -1756,30 +1757,31 @@
     {
       "attr_path": "kubectl",
       "broken": false,
-      "derivation": "/nix/store/cqsiprwk16bb1wfq0kfzl3skcfv35ji8-kubectl-1.37.1.drv",
+      "derivation": "/nix/store/mhb72cpcx5a48jdvzyv378lgrs4bqsrk-kubectl-1.37.2.drv",
       "description": "Kubernetes CLI",
       "install_id": "kubectl",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "kubectl-1.37.1",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "kubectl-1.37.2",
       "pname": "kubectl",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T07:01:24.300208Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.297885Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "1.37.1",
+      "version": "1.37.2",
       "outputs_to_install": [
         "man",
+        "out",
         "out"
       ],
       "outputs": {
-        "convert": "/nix/store/fiz43g6p2qdb1q7h948igmj4gcw8c06z-kubectl-1.37.1-convert",
-        "man": "/nix/store/6lybg6xhzgwxd3fxb46r6zr2k4kfj273-kubectl-1.37.1-man",
-        "out": "/nix/store/8z4xajk9snqs3xdhdq4f8cdj019s3bwg-kubectl-1.37.1"
+        "convert": "/nix/store/y66gysak5fcpvdb3a38jf90sk8xzpplq-kubectl-1.37.2-convert",
+        "man": "/nix/store/rax263imq4n8wf96q0zgjcdg0ld1dn3m-kubectl-1.37.2-man",
+        "out": "/nix/store/2an4jgg539yg52insmgkn74k0wd7pf9q-kubectl-1.37.2"
       },
       "system": "x86_64-linux",
       "group": "go-tools",
@@ -1792,13 +1794,13 @@
       "description": "Package manager for kubernetes",
       "install_id": "kubernetes-helm",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "kubernetes-helm-4.3.1",
       "pname": "kubernetes-helm",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T05:51:32.615112Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.238600Z",
       "stabilities": [
         "unstable"
       ],
@@ -1821,13 +1823,13 @@
       "description": "Package manager for kubernetes",
       "install_id": "kubernetes-helm",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "kubernetes-helm-4.3.1",
       "pname": "kubernetes-helm",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T06:24:58.870714Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.276586Z",
       "stabilities": [
         "unstable"
       ],
@@ -1850,13 +1852,13 @@
       "description": "Package manager for kubernetes",
       "install_id": "kubernetes-helm",
       "license": "Apache-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "kubernetes-helm-4.3.1",
       "pname": "kubernetes-helm",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T07:01:24.300363Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.298054Z",
       "stabilities": [
         "unstable"
       ],
@@ -1875,27 +1877,27 @@
     {
       "attr_path": "talosctl",
       "broken": false,
-      "derivation": "/nix/store/kbga5a1lvvbl47b1ngljyffkzgjycaqz-talosctl-1.14.3.drv",
+      "derivation": "/nix/store/m4ah6jvxrqbchjnrkixg3dasan9pw4kh-talosctl-1.14.5.drv",
       "description": "CLI for out-of-band management of Kubernetes nodes created by Talos",
       "install_id": "talosctl",
       "license": "MPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "talosctl-1.14.3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "talosctl-1.14.5",
       "pname": "talosctl",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T05:51:32.935980Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.484808Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "1.14.3",
+      "version": "1.14.5",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/wsvxlgmx33jq6qjfcp0wfbvc81wrnkdy-talosctl-1.14.3"
+        "out": "/nix/store/rpi5y88yvq7rabr12prizcd6xknmk09i-talosctl-1.14.5"
       },
       "system": "aarch64-darwin",
       "group": "go-tools",
@@ -1904,27 +1906,27 @@
     {
       "attr_path": "talosctl",
       "broken": false,
-      "derivation": "/nix/store/4cfbp94rssdjd9h8m1dygy3n2mqnq0i6-talosctl-1.14.3.drv",
+      "derivation": "/nix/store/qr1l7bajgxc14swb582irhlpcvs4q92c-talosctl-1.14.5.drv",
       "description": "CLI for out-of-band management of Kubernetes nodes created by Talos",
       "install_id": "talosctl",
       "license": "MPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "talosctl-1.14.3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "talosctl-1.14.5",
       "pname": "talosctl",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T06:24:59.098221Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.509248Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "1.14.3",
+      "version": "1.14.5",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/h1jcsg7srxmn05fmqk07smw90nmr1mng-talosctl-1.14.3"
+        "out": "/nix/store/5a6rqq09vavshn31xhdllkzcb98qwkln-talosctl-1.14.5"
       },
       "system": "aarch64-linux",
       "group": "go-tools",
@@ -1933,30 +1935,117 @@
     {
       "attr_path": "talosctl",
       "broken": false,
-      "derivation": "/nix/store/dx2glfga8rhwi551h9631mad5yys75iq-talosctl-1.14.3.drv",
+      "derivation": "/nix/store/r7ib2zwdqh4gpaxki6kjlm20ib3q298h-talosctl-1.14.5.drv",
       "description": "CLI for out-of-band management of Kubernetes nodes created by Talos",
       "install_id": "talosctl",
       "license": "MPL-2.0",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "talosctl-1.14.3",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "talosctl-1.14.5",
       "pname": "talosctl",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T07:01:24.573221Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.634098Z",
       "stabilities": [
         "unstable"
       ],
       "unfree": false,
-      "version": "1.14.3",
+      "version": "1.14.5",
       "outputs_to_install": [
         "out"
       ],
       "outputs": {
-        "out": "/nix/store/1r1gaavcnjlqfcnni92w4xi9fizy0aca-talosctl-1.14.3"
+        "out": "/nix/store/6c2v7c6hk6ziggpizql92d9ya1yyqpnw-talosctl-1.14.5"
       },
       "system": "x86_64-linux",
       "group": "go-tools",
+      "priority": 5
+    },
+    {
+      "attr_path": "mise",
+      "broken": false,
+      "derivation": "/nix/store/5n449s2fccyk9i2qsnvii78xa6m3cvra-mise-2026.10.17.drv",
+      "description": "Front-end to your dev env",
+      "install_id": "mise",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "mise-2026.10.17",
+      "pname": "mise",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.259971Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2026.10.17",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/fxavcwkbclz36g018j62fhwclva4pxfs-mise-2026.10.17"
+      },
+      "system": "aarch64-darwin",
+      "group": "mise",
+      "priority": 5
+    },
+    {
+      "attr_path": "mise",
+      "broken": false,
+      "derivation": "/nix/store/4hz2nb7havs3gm1v9j76vmvfkzfv3r1v-mise-2026.10.17.drv",
+      "description": "Front-end to your dev env",
+      "install_id": "mise",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "mise-2026.10.17",
+      "pname": "mise",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.306756Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2026.10.17",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/f7rkp2zdq40qfgr5j9yq74189karvpb4-mise-2026.10.17"
+      },
+      "system": "aarch64-linux",
+      "group": "mise",
+      "priority": 5
+    },
+    {
+      "attr_path": "mise",
+      "broken": false,
+      "derivation": "/nix/store/fjr69p8fdh5q2iwjgkfz9yhpniaci50d-mise-2026.10.17.drv",
+      "description": "Front-end to your dev env",
+      "install_id": "mise",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "name": "mise-2026.10.17",
+      "pname": "mise",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.455573Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "2026.10.17",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "out": "/nix/store/46rfp2ra3zm87xgpgqvrs424jh7iw5pf-mise-2026.10.17"
+      },
+      "system": "x86_64-linux",
+      "group": "mise",
       "priority": 5
     },
     {
@@ -1966,13 +2055,13 @@
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "nodejs-24.21.0",
       "pname": "nodejs",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:03.779173Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.264923Z",
       "stabilities": [
         "unstable"
       ],
@@ -1996,13 +2085,13 @@
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "nodejs-24.21.0",
       "pname": "nodejs",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.515341Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.313924Z",
       "stabilities": [
         "unstable"
       ],
@@ -2026,13 +2115,13 @@
       "description": "Event-driven I/O framework for the V8 JavaScript engine",
       "install_id": "nodejs",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "nodejs-24.21.0",
       "pname": "nodejs",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.625354Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.462182Z",
       "stabilities": [
         "unstable"
       ],
@@ -2057,13 +2146,13 @@
       "description": "Shell extension that manages your environment",
       "install_id": "direnv",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "direnv-2.38.2",
       "pname": "direnv",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:03.591614Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.135198Z",
       "stabilities": [
         "unstable"
       ],
@@ -2086,13 +2175,13 @@
       "description": "Shell extension that manages your environment",
       "install_id": "direnv",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "direnv-2.38.2",
       "pname": "direnv",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.289679Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.125830Z",
       "stabilities": [
         "unstable"
       ],
@@ -2115,13 +2204,13 @@
       "description": "Shell extension that manages your environment",
       "install_id": "direnv",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "direnv-2.38.2",
       "pname": "direnv",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.444504Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.188659Z",
       "stabilities": [
         "unstable"
       ],
@@ -2144,13 +2233,13 @@
       "description": "Modern, maintained replacement for ls",
       "install_id": "eza",
       "license": "EUPL-1.2",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "eza-0.23.5",
       "pname": "eza",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:03.596355Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.139090Z",
       "stabilities": [
         "unstable"
       ],
@@ -2175,13 +2264,13 @@
       "description": "Modern, maintained replacement for ls",
       "install_id": "eza",
       "license": "EUPL-1.2",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "eza-0.23.5",
       "pname": "eza",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.298262Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.131794Z",
       "stabilities": [
         "unstable"
       ],
@@ -2206,13 +2295,13 @@
       "description": "Modern, maintained replacement for ls",
       "install_id": "eza",
       "license": "EUPL-1.2",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "eza-0.23.5",
       "pname": "eza",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.451406Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.194745Z",
       "stabilities": [
         "unstable"
       ],
@@ -2237,13 +2326,13 @@
       "description": "Tasty Bubble Gum for your shell",
       "install_id": "gum",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "gum-2.0.2",
       "pname": "gum",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:03.627261Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.152571Z",
       "stabilities": [
         "unstable"
       ],
@@ -2266,13 +2355,13 @@
       "description": "Tasty Bubble Gum for your shell",
       "install_id": "gum",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "gum-2.0.2",
       "pname": "gum",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.389076Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.173103Z",
       "stabilities": [
         "unstable"
       ],
@@ -2295,13 +2384,13 @@
       "description": "Tasty Bubble Gum for your shell",
       "install_id": "gum",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "gum-2.0.2",
       "pname": "gum",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.501626Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.213185Z",
       "stabilities": [
         "unstable"
       ],
@@ -2324,13 +2413,13 @@
       "description": "Modern alternative to the watch command",
       "install_id": "hwatch",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "hwatch-0.4.2",
       "pname": "hwatch",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:03.720788Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.228797Z",
       "stabilities": [
         "unstable"
       ],
@@ -2353,13 +2442,13 @@
       "description": "Modern alternative to the watch command",
       "install_id": "hwatch",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "hwatch-0.4.2",
       "pname": "hwatch",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.468785Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.265836Z",
       "stabilities": [
         "unstable"
       ],
@@ -2382,13 +2471,13 @@
       "description": "Modern alternative to the watch command",
       "install_id": "hwatch",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "hwatch-0.4.2",
       "pname": "hwatch",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.580161Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.287725Z",
       "stabilities": [
         "unstable"
       ],
@@ -2411,13 +2500,13 @@
       "description": "Utility that combines the usability of The Silver Searcher with the raw speed of grep",
       "install_id": "ripgrep",
       "license": "[ Unlicense, MIT ]",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "ripgrep-15.2.0",
       "pname": "ripgrep",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:04.049849Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.455507Z",
       "stabilities": [
         "unstable"
       ],
@@ -2441,13 +2530,13 @@
       "description": "Utility that combines the usability of The Silver Searcher with the raw speed of grep",
       "install_id": "ripgrep",
       "license": "[ Unlicense, MIT ]",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "ripgrep-15.2.0",
       "pname": "ripgrep",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.684748Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.468353Z",
       "stabilities": [
         "unstable"
       ],
@@ -2471,13 +2560,13 @@
       "description": "Utility that combines the usability of The Silver Searcher with the raw speed of grep",
       "install_id": "ripgrep",
       "license": "[ Unlicense, MIT ]",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "ripgrep-15.2.0",
       "pname": "ripgrep",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.768629Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.599056Z",
       "stabilities": [
         "unstable"
       ],
@@ -2501,13 +2590,13 @@
       "description": "Fast and configurable shell plugin manager",
       "install_id": "sheldon",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "sheldon-0.8.5",
       "pname": "sheldon",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:04.083438Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.480455Z",
       "stabilities": [
         "unstable"
       ],
@@ -2530,13 +2619,13 @@
       "description": "Fast and configurable shell plugin manager",
       "install_id": "sheldon",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "sheldon-0.8.5",
       "pname": "sheldon",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.715556Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.499903Z",
       "stabilities": [
         "unstable"
       ],
@@ -2559,13 +2648,13 @@
       "description": "Fast and configurable shell plugin manager",
       "install_id": "sheldon",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "sheldon-0.8.5",
       "pname": "sheldon",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.798193Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.627744Z",
       "stabilities": [
         "unstable"
       ],
@@ -2588,13 +2677,13 @@
       "description": "Command to produce a depth indented directory listing",
       "install_id": "tree",
       "license": "GPL-2.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "tree-2.3.2",
       "pname": "tree",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:04.163887Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.509206Z",
       "stabilities": [
         "unstable"
       ],
@@ -2621,13 +2710,13 @@
       "description": "Command to produce a depth indented directory listing",
       "install_id": "tree",
       "license": "GPL-2.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "tree-2.3.2",
       "pname": "tree",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.751951Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.546620Z",
       "stabilities": [
         "unstable"
       ],
@@ -2654,13 +2743,13 @@
       "description": "Command to produce a depth indented directory listing",
       "install_id": "tree",
       "license": "GPL-2.0-or-later",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "tree-2.3.2",
       "pname": "tree",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.836330Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.664983Z",
       "stabilities": [
         "unstable"
       ],
@@ -2687,13 +2776,13 @@
       "description": "Fast cd command that learns your habits",
       "install_id": "zoxide",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "zoxide-0.10.0",
       "pname": "zoxide",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:04.259307Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.566755Z",
       "stabilities": [
         "unstable"
       ],
@@ -2716,13 +2805,13 @@
       "description": "Fast cd command that learns your habits",
       "install_id": "zoxide",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "zoxide-0.10.0",
       "pname": "zoxide",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.799636Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.599425Z",
       "stabilities": [
         "unstable"
       ],
@@ -2745,13 +2834,13 @@
       "description": "Fast cd command that learns your habits",
       "install_id": "zoxide",
       "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "zoxide-0.10.0",
       "pname": "zoxide",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.886592Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.715598Z",
       "stabilities": [
         "unstable"
       ],
@@ -2774,13 +2863,13 @@
       "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
       "install_id": "sprite",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "sprite-0.0.1-rc48",
       "pname": "sprite",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:04.089240Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.482626Z",
       "stabilities": [
         "unstable"
       ],
@@ -2803,13 +2892,13 @@
       "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
       "install_id": "sprite",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "sprite-0.0.1-rc48",
       "pname": "sprite",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.718591Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.505525Z",
       "stabilities": [
         "unstable"
       ],
@@ -2832,13 +2921,13 @@
       "description": "Command Line Interactive for sprites, stateful sandbox environments with checkpoint & restore",
       "install_id": "sprite",
       "license": "Unfree",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "sprite-0.0.1-rc48",
       "pname": "sprite",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.801456Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.630791Z",
       "stabilities": [
         "unstable"
       ],
@@ -2861,13 +2950,13 @@
       "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
       "install_id": "starship",
       "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "starship-1.27.0",
       "pname": "starship",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T05:48:04.093335Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T05:47:44.483267Z",
       "stabilities": [
         "unstable"
       ],
@@ -2890,13 +2979,13 @@
       "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
       "install_id": "starship",
       "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "starship-1.27.0",
       "pname": "starship",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:16:32.719663Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:15:19.506418Z",
       "stabilities": [
         "unstable"
       ],
@@ -2919,13 +3008,13 @@
       "description": "Minimal, blazing fast, and extremely customizable prompt for any shell",
       "install_id": "starship",
       "license": "ISC",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=1d060086d60cb76a40cf37109f979d88a5bd6396",
       "name": "starship-1.27.0",
       "pname": "starship",
-      "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
-      "rev_count": 1103272,
-      "rev_date": "2026-10-27T14:17:15Z",
-      "scrape_date": "2026-10-29T06:48:05.802234Z",
+      "rev": "1d060086d60cb76a40cf37109f979d88a5bd6396",
+      "rev_count": 1107793,
+      "rev_date": "2026-11-03T17:13:28Z",
+      "scrape_date": "2026-11-05T06:44:47.631604Z",
       "stabilities": [
         "unstable"
       ],
@@ -2939,93 +3028,6 @@
       },
       "system": "x86_64-linux",
       "group": "starship",
-      "priority": 5
-    },
-    {
-      "attr_path": "mise",
-      "broken": false,
-      "derivation": "/nix/store/jwimp4nq2bzpd4yqyazm1kvg43417rym-mise-2026.10.3.drv",
-      "description": "Front-end to your dev env",
-      "install_id": "mise",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "mise-2026.10.3",
-      "pname": "mise",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T05:51:32.629485Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "2026.10.3",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/sjvzb098c79cm9wzp5w6s76kqmc8hxw2-mise-2026.10.3"
-      },
-      "system": "aarch64-darwin",
-      "group": "mise",
-      "priority": 5
-    },
-    {
-      "attr_path": "mise",
-      "broken": false,
-      "derivation": "/nix/store/7w5nlawfjcwwwn01w5wrpjpywk0dk6cm-mise-2026.10.3.drv",
-      "description": "Front-end to your dev env",
-      "install_id": "mise",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "mise-2026.10.3",
-      "pname": "mise",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T06:24:58.896311Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "2026.10.3",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/ivpsjwczd7mkvh6f0zr2ch28fpvpfq7k-mise-2026.10.3"
-      },
-      "system": "aarch64-linux",
-      "group": "mise",
-      "priority": 5
-    },
-    {
-      "attr_path": "mise",
-      "broken": false,
-      "derivation": "/nix/store/9ib1s1gsw8ji5864n920wwmqq619s068-mise-2026.10.3.drv",
-      "description": "Front-end to your dev env",
-      "install_id": "mise",
-      "license": "MIT",
-      "locked_url": "https://github.com/flox/nixpkgs?rev=3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "name": "mise-2026.10.3",
-      "pname": "mise",
-      "rev": "3ec636362e1816bc2f0888fa0fa2c69f1bc9e504",
-      "rev_count": 1100280,
-      "rev_date": "2026-10-23T16:35:39Z",
-      "scrape_date": "2026-10-25T07:01:24.382358Z",
-      "stabilities": [
-        "unstable"
-      ],
-      "unfree": false,
-      "version": "2026.10.3",
-      "outputs_to_install": [
-        "out"
-      ],
-      "outputs": {
-        "out": "/nix/store/djk6pl2aa6axf10isgahpl5jl8aynvdn-mise-2026.10.3"
-      },
-      "system": "x86_64-linux",
-      "group": "mise",
       "priority": 5
     }
   ]
