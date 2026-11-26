@@ -4,9 +4,11 @@ shell = "zsh"
 
 [plugins.oh-my-zsh]
 github = 'ohmyzsh/ohmyzsh'
+rev = 'abfce729ab56543b976b08ef34a54b3dc57601a4'
 
 [plugins.oh-my-zsh-plugins]
 github = 'ohmyzsh/ohmyzsh'
+rev = 'abfce729ab56543b976b08ef34a54b3dc57601a4'
 dir = 'plugins'
 use = [
   "{aliases}/*.plugin.zsh",
@@ -24,29 +26,32 @@ use = [
   "{pip}/*.plugin.zsh",
   "{ssh}/*.plugin.zsh",
   "{ssh-agent}/*.plugin.zsh",
+  "{talosctl}/*.plugin.zsh",
   "{zoxide}/*.plugin.zsh",
 ]
 apply = ["source","fpath"]
 
-[plugins.talosctl]
-github = "jonstacks/ohmyzsh"
-dir = "plugins/talosctl"
-
 [plugins.sprite]
 github = "jonstacks/ohmyzsh"
+rev = "1e7c65eac2f6d232763256163017dd222b6fb6db"
 dir = "plugins/sprite"
 
 [plugins.zsh_autosuggestions]
 github = "zsh-users/zsh-autosuggestions"
+rev = "85919cd1ffa7d2d5412f6d3fe437ebdbeeec4fc5"
 
 [plugins.zsh_history_substring_search]
 github = "zsh-users/zsh-history-substring-search"
+rev = "a0bdb0d47dbaba31dba2db7af8c48a5d9c74049a"
 
 [plugins.zsh_syntax_highlighting]
 github = "zsh-users/zsh-syntax-highlighting"
+rev = "e6683f20e5c38d3e5447f45845d04ddda75d0f23"
 
 [plugins.eza]
 github = "z-shell/zsh-eza"
+rev = "e172f4ac99592e8733894dce862c435a58387fae"
 
 [plugins.powerlevel10k]
 github = "romkatv/powerlevel10k"
+rev = "50a35cc8d9f1488d18fb8aea6cddcfc31189cc9f"

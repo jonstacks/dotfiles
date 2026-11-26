@@ -13,3 +13,6 @@ Brewfile.lock.json
 
 # Cached completions
 cache
+
+# Sheldon local lockfile (machine-specific paths)
+plugins.lock
